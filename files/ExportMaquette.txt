@@ -1,0 +1,1772 @@
+A0;13;Big mouth;gourmandises chocolatees facon freaky,chantilly,cafe glace 33cl,rhum sans alcool Monin
+A0A;13;Bisounours ;confiseries,nid de barbe a papa,lait de coco Bio 20cl,cranberries,bubble gum  Mathieu Teisseire
+A0B;13;Simpsons;gourmandises chocolatees facon freaky,chantilly,cecemel (lait chocolate)20cl,banane,popcorn Routin
+A0C;13;Futurama;gourmandises chocolatees facon freaky,chantilly,cafe glace 33cl,coco Monin,cookie Monin
+A0D;13;Rick et morty;confiseries,nid de barbe a papa,lait de coco Bio 20cl,coco Monin,fraise
+A0E;13;Adventure Time;gourmandises chocolatees facon freaky,chantilly,cafe glace 33cl,coco Monin,popcorn Routin
+A0F;13;FamilyGuy;gourmandises chocolatees facon freaky,nid de barbe a papa,lait de coco Bio 20cl,coco Monin,vanille  Mathieu Teisseire
+A0G;13;Les fous du volant;mini magnum,gourmandises chocolatees facon freaky,chantilly,cafe glace 33cl,popcorn Routin
+A0H;13;Oggy et les cafards;gourmandises chocolatees facon freaky,chantilly,cecemel (lait chocolate)20cl,lait de coco Bio 20cl,nougat
+A0I;13;South Park;confiseries,nid de barbe a papa,fraise,lait de coco Bio 20cl,pomme d'Amour Mathieu Teisseire
+A0J;13;50 nuances plus sombres;gourmandises chocolatees facon freaky,chantilly,cecemel (lait chocolate)20cl,banane,cookie Monin
+A0K;13;50 nuances plus claires;confiseries,nid de barbe a papa,fristi (lait fraise)20cl,coco Monin,bubble gum  Mathieu Teisseire
+A0L;13;Betty Boop;confiseries,nid de barbe a papa,fristi (lait fraise)20cl,fruits de la passion Guiot,banane
+A0M;13;Tex Avery;confiseries,nid de barbe a papa,fristi (lait fraise)20cl,framboise caraibos,barbe a papa  Mathieu Teisseire
+A0N;13;Roger Rabbit;confiseries,nid de barbe a papa,fristi (lait fraise)20cl,ananas,orgeat Guiot
+A1A;15;assiette Mixte tapas ;saucisse seche gout chorizo,cubes fromages,olives marinees au basilic
+A1B;15;assiette Belgo;mini boulettes,cubes fromages,mini brochettes de poulet
+A1C;15;assiette Cannibale 1 sauce au choix ;petites saucisses apero,mini brochettes de poulet,mini boulettes
+A1D;5;portion de cubes de fromages 150gr;
+A1E;6;olives vertes denoyautees au basilic 130gr;
+A1F;5;petites saucisses seches nature,chorizo ou aperoTV;
+A1G;4;Pringles(70gt.) goût au choix ;paprika,original ou oignon
+A1H;9;nachos salsa ou fromage ;
+A1I;4;chips Apero Lays ;chips Lays Grills 125gr
+A1K;18;planche de charcuteries et fromage mediterraneen;grissini tomate,olives et tomates semi sechees,fromage mediterraneen,assortiment de charcuteries italiennes 200gr
+A1L;5;petites boulettes(250gr) sauces au choix ;
+A1M;6;mini brochettes de poulet (185gr);
+A1N;4;hot-dog ;oignons frits,sauce moutarde ou moutarde miel ou ketchup,hot-dog
+A1O;5;cervelas (150gr) et 1 sauce au choix;
+A1P;6;pizza M de dominos Tournai au choix only sur place;pizza du mois a verifier sur le site dominos.be,americaine(possible sans gluten) ou,the champ ou,tonno ou,savoyarde ou,goatcheese bacon ou,four stagioni ou,forestiere ou,extravaganzza ou,diabolika ou,cannibale ou,bbq grill ou,bbq chicken ou,marguerite(possible sans gluten) ou
+A1Q;10;couronne de crevettes roses(130gr) sauce cocktail;
+A1R;7;cubes de fromage feta mediterraneens 175gr;
+A1S;5;chips Sans Gluten dans ce choix;saveur Yakitori,saveur Pizza,saveur fromage du Jura
+A1T;3;Barbe à papa (50gr);
+A1U;0;parfums pour nos glaces;topping bubblegum,topping fraise,topping chocolat noir,topping chocolat blanc,topping caramel,topping au choix,glace vanille bourbon,glace pistache,glace moka,glace fraise,glace coco,glace chocolat,glace caramel,glace banana split(banane,chocolat)
+A1V;6;Glace M: parfums voir ref.A1z;1 topping au choix,chantilly,3 boules glaces aux choix
+A1W;8;Glace L: parfums voir ref.A1z;1 topping au choix,chantilly,4 boules de glaces aux choix
+A1Y;3;magnum, ferrero rocher ou raffaello glace au choix;glace ferrero rocher,glace raffaello
+A1Z;5;bol de confiseries et nid de barbe a papa;
+A2A;3;1 soft au choix (1 sirop inclus);energy drink Quai Des Bananes 25cl et fluo,oasis tropical 33cl,cafe glace 33cl,café Royal Switzerland et gourmandise,25cl,cola (coca cola 33cl),coca cola zero 33cl,fanta citron frappe 33cl,fanta orange zero 33cl,schweppes agrumes zero 33cl,fruitesse liefmans(S.A.) 25cl 0.0%,soda du moment,fristi (lait fraise)20cl,cecemel (lait chocolate)20cl,indian tonic classique 20cl
+A2B;4;1 biere pop dans ce choix ;bucket de 3 bières pop identiques pour 10€,biere pop du moment,carlsberg pils 5%(25cl),fruitesse liefmans(S.A.) 25cl 0.0%,fruitesse liefmans 25cl 4,2%
+A2C;6;1 biere speciale dans ce choix ;bucket de 3 bières spéciales identiques pour 15€,sperados 0.0% S.A.(33cl),sperados 5.9% ( 33cl ),triple Karmeliet 8.4° (33cl),leffe blonde 6.6%(33cl),queue de charrue fruits rouges 8.7% (33cl)
+A2D;3;1 jus de fruit 33cl au choix ;tropical multi vitamines,cerise,pomme trouble bio,poire Williams,peche,pamplemousse rose,orange,mangue,litchis,framboise caraibos,fraise,cranberries,citron jaune,betterave rouge 33cl,banane,ananas
+A2E;5;1 smart drink au choix (!pas en dessous de 16ans!);aloe vera 50cl et bracelet fluo,aloe vera fraise 50cl et bracelet fluo,aloe vera gingembre-citron 50cl et bracelet fluo,tomate epice Big tom,ginger beer 33cl et bracelet fluo,nalu frost 25cl( fruit du dragon,the bl)et fluo,redbull white edition(coco-myrtille)et fluo,smarth drink du moment,monster ultra Rosa (50cl) et fluo,monster Aussie(citron fresh)-50cl-et bracelet fluo,monster Monarch (peche blanche) 50cl et fluo,monster ultra Paradise 50cl et bracelet fluo,ginger energy (gingembre) 50cl et bracelet fluo,monster Fiesta mango 50cl et bracelet fluo,monster MIXXD Punch 50cl
+A2F;6;vinotheque;sangria maison et fruits frais(33cl),coupette de bulle (25cl),vin blanx LYV pays d oc 25cl,vin rouge LYV pays d oc 25cl,vin blanc chenin sud afrique 25cl,vin rose usa 25cl
+A2G;5;supplement soft ou jus;
+A2H;6;cocktails event 25cl;mocktail au choix en 33cl (a6-a9-a10-a97-a102),sex on the beach event 25cl,lynchburg event 25cl,lady fizz event 25cl,daiquiri event 25cl nature ou fruite,cuba libre event 25cl,mojito event 25cl nature ou fruite,martini fiero et schweppes agrumes
+A2J;4;Kick booster de QNT;
+A2L;50;bouteille au choix 70cl;6 softs ou 2L de jus au choix inclus,bacardi carta blanca(rum superior),vodka rouge  Eristoff,vodka blanche,pop corn qdb,after eight maison
+A2M;15;3 cocktails event(25cl) pour prix de 2;mocktail au choix en 33cl (a6-a9-a10-a97-a102),sex on the beach event 25cl,lynchburg event 25cl,lady fizz event 25cl,daiquiri event 25cl nature ou fruite,cuba libre event 25cl,mojito event 25cl nature ou fruite
+A2N;80;bouteille premium au choix ;rhum Damoiseau,rhum arrangé Damoiseau Shrubb,rhum arrangé Damoiseau mangue passsion,rhum arrangé Damoiseau coco,rhum arrangé Damoiseau ananas Victoria,6 softs ou 2L de jus au choix inclus,rhum epice Bolivien aux feuilles de coca bio,rhum bresilien infuse cacao et cafe,don papa masskara rum,don papa baroko rum,rhum bresilien (cachaca pitu ),rhum st james royal ambre,rhum 3 rivieres 50°
+A2O;50;bouteille champagne brut ;champagne brut Drappier carte d or,champagne brut Piper Heidsieck
+A2P;3;shooter fruite unite dans ce choix 2cl;flugel,hibiscus qdb,shooter stroumphette (creamY Hawai),shooter shyrka (creamY cookie/pims),shooter boudoir(creamy macaron),shooter valentino (creamy bubble gum),shooter pinnochio (creamy popcorn),violette qdb,vanille qdb,rose qdb,pop corn qdb,pomme verte(manzana qdb),pistache qdb,piment qdb,peche blanche qdb,passion qdb,pamplemousse qdb,noisette,menthe blanche qdb,melon(koogaie),mangue qdb,litchis qdb,gingembre qdb,gaufre,framboise qdb,fraise qdb,curaçao bleu,cuberdon,cookie qdb,coco qdb,cerise qdb,caramel beurre sale qdb,cafe(kaklua),bubble gum pink qdb,barbe a papa(trojka),banane verte,banane jaune qdb,ananas qdb,after eight maison
+A2R;9;verre 1 alcool dans ce choix 5cl;don papa masskara rum,don papa baroko rum,rhum bresilien (cachaca pitu ),rhum miel qdb,mezcal,gin Bombay Sapphire,bailey's authentique,rhum brun hispanique,kraken rum,bacardi carta blanca(rum superior),rhum 3 rivieres 50°,rhum st james royal ambre,jack Daniel's Honey(miel),jack Daniel's Fire (pimente),jack Daniel's Apple(pomme),absynthe
+A2S;12.5;bouteille 25cl mega shooter dans ce choix ;
+A2T;15;1L de sangria maison et fruits;sangria rose maison et fruits rouge (33cl),sangria maison et fruits frais(33cl),sangria blanche maison et fruits (33cl)
+A2U;50;5L sangria maison et fruits en jerricane;
+A2V;60;bouteille alcool 70cl au choix;6 softs ou 2L de jus au choix inclus,havana club 3ans cuba,jagermiester,jack Daniel's Fire (pimente),jack Daniel's Apple(pomme),jack Daniel's Honey(miel),jack Daniel's old n7
+A2Z;20;bouteille de vin ;vin rouge cato negro merlot,vin blanc cato negro chardonnay,vin rose usa 25cl
+A3;10;P.P. le putois;fraise,tropical multi vitamines,litchis
+A4;10;Bob;pomme trouble bio,ananas,framboise Guiot
+A5;10;Red rose;ananas,tropical multi vitamines,cordial citron vert,grenadine Guiot
+A6;10;Sprity;tropical multi vitamines,limonade (sprite) 25cl et fluo,bubble gum  Mathieu Teisseire
+A6A;6;Belgium  ;fraise,limonade (sprite) 25cl et fluo,barbe a papa  Mathieu Teisseire
+A7;10;Oiseau des iles;curaçao bleu,ananas,peche,coco Monin,vanille  Mathieu Teisseire
+A8;10;Duffo;curaçao bleu,ananas,coco Monin,citron vert cordial
+A9;10;Coco power ;coco Monin,ananas,vanille  Mathieu Teisseire
+A9A;6;Pinatralala;ananas,coco Monin,vanille  Mathieu Teisseire
+A10;10;Zumi zumi;fruits de la passion Guiot,orange,ananas
+A10A;6;Zumzum;fruits de la passion Guiot,mangue,ananas
+A11;10;Bouba;framboise caraibos,poire Williams,ananas,cerise,bubble gum  Mathieu Teisseire
+A12;10;Lollipop;tropical multi vitamines,pamplemousse rose,ananas,fraise Guiot,coco Monin
+A13;10;Virgin Moscow;cranberries,citron vert cordial,ginger beer 33cl et bracelet fluo,mojito Mathieu Teisseire
+A14;10;Mickey;fraise,banane,tropical multi vitamines,vanille  Mathieu Teisseire,framboise Guiot
+A15;10;Droopy;funny pisang sans alcool (banane verte),ananas,orange
+A16;10;Engie;fraise,tropical multi vitamines,banane,litchis  Mathieu Teisseire,vanille  Mathieu Teisseire
+A17;10;Vitamine Jamaïcain;poire Williams,peche,banane,kiwi Guiot
+A18;10;Cyprine;citron jaune,orange,mangue,vanille  Mathieu Teisseire
+A19;10;Beetlejuice;tropical multi vitamines,ananas,fraise,coco Monin,framboise Guiot
+A20;10;Niacky;fraise,banane,tropical multi vitamines,litchis  Mathieu Teisseire,framboise Guiot
+A21;10;Petit Pierre;framboise caraibos,tropical multi vitamines,cerise,orgeat Guiot,vanille  Mathieu Teisseire
+A22;10;Les mysterieuses cites d or;orange,citron jaune,funny pisang sans alcool (banane verte)
+A23;10;Jayce et les concurrents de la lumiere;fraise,litchis,ananas Guiot
+A24;10;Cohiba;fraise,banane,tropical multi vitamines,vanille  Mathieu Teisseire,ananas Guiot
+A25;10;Lolo;fraise,ananas,pomme trouble bio,cordial citron vert,melon Guiot
+A26;10;Doumi;ananas,tropical multi vitamines,orange,melon Guiot
+A27;10;Trasher;banane,framboise caraibos,ananas,bubble gum  Mathieu Teisseire
+A28;10;Pokemon;mangue,banane,ananas,coco Monin
+A29;10;Niak;fraise,mangue,ananas,bubble gum  Mathieu Teisseire
+A30;10;Roller coster;litchis,limonade (sprite) 25cl et fluo,violette Bio
+A31;10;Bambou;cerise,litchis,pomme trouble bio,violette Bio
+A32;10;Crazcoucass;mangue,banane,poire Williams,kiwi Guiot
+A33;10;Maitre Troubadour gris ;banane,fraise,pomme trouble,orgeat Guiot,kiwi Guiot
+A34;10;I.D.C.L.C;litchis,banane,mangue,bubble gum  Mathieu Teisseire,violette Bio
+A35;10;Pompom;curaçao bleu,ananas,pomme trouble bio,cerise
+A36;10;Mr bean;funny pisang sans alcool (banane verte),tropical multi vitamines,banane
+A37;10;Lea;tropical multi vitamines,orangeade 25cl et bracelet fluo,peche blanche Guiot
+A38;10;Da Vinci;grenadine Guiot,orange,orangeade 25cl et bracelet fluo,citron vert cordial
+A39;10;Donald duck;cerise,ananas,banane,fraise Guiot,bubble gum  Mathieu Teisseire
+A40;10;Meduse;oasis tropical 33cl,orange,ananas,violettte Guiot
+A41;10;Max de l'escaut;curaçao bleu,citron jaune,ananas,cerise
+A42;10;Razta chatte;cerise,limonade (sprite) 25cl et fluo,vanille  Mathieu Teisseire,citron vert cordial,menthe fraiche facon mojito
+A43;10;Porcinet the chacal;tropical multi vitamines,ananas,peche,orgeat Guiot
+A44;10;Lestath;soda Schweppes aux agrumes 0sugar 33cl et fluo,tropical multi vitamines,litchis  Mathieu Teisseire
+A45;10;Paparazzi;ginger beer 33cl et bracelet fluo,mangue,citron vert cordial,piment de Cayenne Routin
+A46;10;Baisse ta culotte, je pilote;framboise caraibos,limonade (sprite) 25cl et fluo,citron vert cordial,menthe glacial Guiot
+A47;10;Latines vibes;cerise,limonade (sprite) 25cl et fluo,citron vert cordial,mojito Mathieu Teisseire,ananas Guiot,menthe fraiche facon mojito
+A48;10;Johnny begood;banane,mangue,pomme trouble bio,fraise Guiot
+A49;10;Fizzy india;café Royal Switzerland et gourmandise,limonade (sprite) 25cl et fluo,citron vert cordial,piment de Cayenne Routin
+A50;10;Fizzibanger;litchis,pamplemousse rose,fraise,grenadine Guiot
+A51;10;Mangalo;oasis tropical 33cl,mangue,fraise Guiot
+A52;10;Florida;orangeade 25cl et bracelet fluo,citron jaune,grenadine Guiot
+A53;10;Merci patron;miel,framboise caraibos,ginger beer 33cl et bracelet fluo,gingembre  Mathieu Teisseire
+A54;10;hunter D;ginger beer 33cl et bracelet fluo,framboise caraibos,violettte Guiot
+A55;10;Popotin;pomme trouble bio,gingembre  Mathieu Teisseire,poire Williams
+A56;10;Garfield;banane,mangue,peche,mojito Mathieu Teisseire
+A57;10;Red hot;hibiscus  Monin,framboise caraibos,fraise,cerise
+A58;10;Sybille;pomme trouble,peche,poire Williams,piment de Cayenne Routin
+A59;10;Kaeloo;hibiscus  Monin,mangue,limonade (sprite) 25cl et fluo
+A60;10;Nemo;cranberries,soda Schweppes aux agrumes 0sugar 33cl et fluo,funny pisang sans alcool (banane verte)
+A61;10;Can-am;cerise,cola zero(coca cola zero 33cl),barbe a papa  Mathieu Teisseire
+A62;10;Nono le petit robot;hibiscus  Monin,litchis,pomme trouble bio
+A63;10;Colonial;tropical multi vitamines,iced tea green25cl et bracelet fluo,rose  Mathieu Teisseire
+A64;10;Sam le pirate;banane,tropical multi vitamines,fraise Guiot
+A65;10;Kirikou;fraise,cerise,banane,barbe a papa  Mathieu Teisseire
+A66;10;Playstation;framboise caraibos,cola zero(coca cola zero 33cl),violette Bio
+A67;10;Babache;peche,orangeade 25cl et bracelet fluo,banane jaune  Mathieu Teisseire
+A68;10;Virgin bastard;citron vert cordial,mojito Mathieu Teisseire,orgeat Guiot,cerise
+A69;10;Mc Queen;litchis,soda Schweppes aux agrumes 0sugar 33cl et fluo,cerise Guiot
+A70;10;Goliath;litchis,diabolo grenadine 33cl et bracelet fluo,bubble gum  Mathieu Teisseire
+A71;10;Pinatas(!!pas en dessous de 16ans!!);orange,energy drink  25cl et fluo,mangue Guiot
+A72;10;Lapin cretin(!!pas en dessous de 16ans!!);ananas,energy drink  25cl et fluo,ananas Guiot
+A73;10;Tagada(!!pas en dessous de 16ans!!);fraise,energy drink  25cl et fluo,barbe a papa  Mathieu Teisseire,fraise Guiot
+A74;10;Toy story(!!pas en dessous de 16ans!!);tropical multi vitamines,energy drink  25cl et fluo,banane jaune  Mathieu Teisseire
+A75;10;Medrol(!!pas en dessous de 16ans!!);litchis,energy drink  25cl et fluo,citron vert cordial,litchis  Mathieu Teisseire,violette Bio
+A76;10;Loco Dojo vr(!!pas en dessous de 16ans!!);mangue,energy drink  25cl et fluo,citron vert cordial,mangue Guiot
+A77;10;Cherry baby(!!pas en dessous de 16ans!!);coca cola zero 33cl,energy drink  25cl et fluo,cerise Guiot
+A78;10;Vanish(!!pas en dessous de 16ans!!);energy drink  25cl et fluo,coca cola zero 33cl,vanille  Mathieu Teisseire
+A79;10;Poopie (!!pas en dessous de 16ans!!);monster ultra Rosa (50cl) et fluo,litchis,citron vert cordial,mojito Mathieu Teisseire
+A80;10;White rabbit (!!pas en dessous de 16ans!!);ananas,litchis,redbull white edition(coco-myrtille)et fluo,bubble gum  Mathieu Teisseire
+A81;10;Pomme d'happy;funny pisang sans alcool (banane verte),pomme trouble,citron vert cordial,barbe a papa  Mathieu Teisseire
+A82;10;Ananarama;coco Monin,ananas,vanille  Mathieu Teisseire,oasis tropical 33cl
+A85;10;Exotique;banane,tropical multi vitamines,ananas,melon Guiot
+A86;10;Toubougan;ananas Guiot,cerise,citron jaune
+A87;10;Pocahontas(!!pas en dessous de 16ans!!);fraise,monster Monarch (peche blanche) 50cl et fluo,cordial citron vert,pomme verte Guiot,rhum sans alcool Monin,menthe fraiche facon mojito
+A88;10;Reine des neiges;litchis,framboise caraibos,citron vert cordial,pomme verte Guiot
+A89;10;La petite sirene (!!pas en dessous de 16ans!!);framboise caraibos,monster ultra Paradise 50cl et bracelet fluo,citron vert cordial,pomme verte Guiot,rhum sans alcool Monin,menthe fraiche facon mojito
+A90;10;Pumba(!!pas en dessous de 16ans!!);tropical multi vitamines,monster Monarch (peche blanche) 50cl et fluo,pomme verte Guiot
+A91;10;Aristochats(!!pas en dessous de 16ans!!);litchis,monster Fiesta mango 50cl et bracelet fluo,pomme verte Guiot
+A92;10;Rox et rocky(!!pas en dessous de 16ans!!);cranberries,monster Punch mixxed 50cl et bracelet fluo,banane jaune  Mathieu Teisseire,pomme verte Guiot
+A93;10;Drifter;ananas,coco Monin,orgeat Guiot
+A94;10;Culte de marie madeleine ;coca cola zero 33cl,coco Monin,barbe a papa  Mathieu Teisseire
+A95;10;Smart mojito SANS ALCOOL(!!pas en dessous de 16ans;monster ultra Paradise 50cl et bracelet fluo,citron vert,cordial citron vert,mojito Mathieu Teisseire,rhum sans alcool Monin
+A96;10;Totofle;limonade (sprite) 25cl et fluo,citron vert cordial,orgeat Guiot,rose  Mathieu Teisseire
+A97;10;Mojito SANS ALCOOL nature ou fruite ;fruits au choix,limonade (sprite) 25cl et fluo,mojito Mathieu Teisseire,cordial citron vert,rhum sans alcool Monin,menthe fraiche facon mojito
+A98;10;Titeuf;orange,ananas,melon Guiot
+A99;10;Gripsou;curaçao bleu,limonade (sprite) 25cl et fluo,citron vert cordial,rhum sans alcool Monin,menthe fraiche facon mojito
+A100;10;Paulin;tropical multi vitamines,fraise,framboise caraibos,rose  Mathieu Teisseire,violette Bio
+A101;10;Ulysse 31;fraise,ananas,violettte Guiot,bubble gum  Mathieu Teisseire
+A102;10;Roronoa zoro;ananas,tropical multi vitamines,barbe a papa  Mathieu Teisseire
+A102A;6;One peace;ananas,tropical multi vitamines,barbe a papa  Mathieu Teisseire
+A103;10;Denis la Malice;ananas,fraise,framboise caraibos,violette Bio,grenadine Guiot
+A104;10;Marshmello;fraise,ginger beer 33cl et bracelet fluo,orgeat Guiot
+A105;10;Sheriff fais moi peur(!!pas en dessous de 16ans!!);mangue,energy drink  25cl et fluo,hibiscus  Monin
+A106;10;Oeil du tigre;citron vert cordial,ananas,banane,mojito Mathieu Teisseire
+A107;10;Huna;framboise caraibos,citron jaune,gingembre  Mathieu Teisseire
+A108;10;Ecu de chene ;curaçao bleu,litchis,limonade (sprite) 25cl et fluo
+A109;10;Zozio;litchis,ananas,vanille  Mathieu Teisseire,hibiscus  Monin
+A110;10;Quoicoubeh;ananas,banane,bubble gum  Mathieu Teisseire,fraise Guiot
+A111;10;Street fighter(!!pas en dessous de 16ans!!);coca cola zero 33cl,energy drink  25cl et fluo
+A112;10;Bob attitude;ananas,peche,tropical multi vitamines,grenadine Guiot,bubble gum  Mathieu Teisseire
+A113;10;Zirrop;cranberries,limonade (sprite) 25cl et fluo,orgeat Guiot,violette Bio
+A114;10;L'immunitaire;citron jaune,ananas,gingembre  Mathieu Teisseire,miel
+A115;10;Berserker(pas en dessous de 16ans);cranberries,ginger energy (gingembre) 50cl et bracelet fluo,cordial citron vert,caramel beurre sale  Mathieu Teisseire
+A116;10;Vulcan(!!pas en dessous de 16ans!!);cerise Guiot,citron jaune,ginger energy (gingembre) 50cl et bracelet fluo,orgeat Guiot,miel
+A117;10;Les mondes engloutis;ananas,orangeade 25cl et bracelet fluo,banane jaune  Mathieu Teisseire,rose  Mathieu Teisseire
+A118;10;Molotaff;tropical multi vitamines,monster Punch mixxed 50cl et bracelet fluo,rose  Mathieu Teisseire
+A119;10;Takayale;ginger beer 33cl et bracelet fluo,orange,gingembre  Mathieu Teisseire,piment de Cayenne Routin
+A120;10;Zezte d'Amour(!!pas en dessous de 16ans!!);citron jaune,monster Aussie(citron fresh)-50cl-et bracelet fluo,kiwi Guiot,coco Monin
+A121;10;Akira;ananas,tropical multi vitamines,funny pisang sans alcool (banane verte),coco Monin
+A122;10;Minou (interdit au moins de 16ans);citron jaune,monster Aussie(citron fresh)-50cl-et bracelet fluo,menthe glacial Guiot
+A123;10;Gorge syphilitique (interdit au moins de 16ans);citron jaune,citron vert cordial,monster Aussie(citron fresh)-50cl-et bracelet fluo,gingembre  Mathieu Teisseire,kiwi Guiot
+A124;10;Madame Jinny;cerise,aloe vera 50cl et bracelet fluo,menthe glacial Guiot
+A125;10;puncher ;banane,cranberries,cerise,mangue Guiot
+A126;10;Pom-Mule;framboise caraibos,ginger beer 33cl et bracelet fluo,pomme trouble,framboise Guiot,citron vert cordial
+B1;13;Fantomas;methode champenoise et bracelet fluo,energy drink  25cl et fluo,passion qdb,vodka blanche,pomme verte(manzana qdb),vodka rouge  Eristoff,bubble gum  Mathieu Teisseire
+B2;12;Saloperie;orange,coco qdb,passion qdb,tequila,triple sec(c),vodka blanche,bacardi carta blanca(rum superior),whisky blend 3ans
+B3;12;Laissbroef;fraise,vodka blanche,fraise qdb,cerise qdb,triple sec,cordial citron vert
+B4;12;Naimattack;curaçao bleu,tropical multi vitamines,bacardi carta blanca(rum superior),vodka blanche,litchis qdb,passion qdb,grenadine Guiot
+B5;13;Red jf;curaçao bleu,orange,bacardi carta blanca(rum superior),gin,vodka blanche,passion qdb
+B6;13;Vass;passion qdb,orange,coco qdb,tequila-gin-vodka
+B7;12;Black mojito;cola zero(coca cola zero 33cl),cordial citron vert,vanille qdb,vodka blanche,menthe fraiche facon mojito
+B8;12;Stoemeling;energy drink  25cl et fluo,vodka blanche,pomme verte(manzana qdb),melon(koogaie),framboise Guiot
+B9;11;Caresses;mangue,peche,vodka blanche,passion qdb,koogaie(liqueur aux agrumes fruitee),ananas Guiot
+B10;13;Archimède;vodka noire  Eristoff,methode champenoise et bracelet fluo,energy drink  25cl et fluo,bacardi razz,coco qdb,triple sec(c),barbe a papa  Mathieu Teisseire
+B11;11;Dark babor;vodka noire  Eristoff,energy drink  25cl et fluo,cordial citron vert,coco qdb,genievre
+B12;11;Narco;limonade (sprite) 25cl et fluo,vodka blanche,triple sec,framboise qdb,cerise qdb,bubble gum  Mathieu Teisseire
+B13;12;Why not;ananas,energy drink  25cl et fluo,citron vert cordial,triple sec,vodka blanche,framboise qdb,cerise qdb
+B14;11;Do or die;vodka noire  Eristoff,energy drink  25cl et fluo,vodka blanche,genievre,triple sec(c),ananas Guiot
+B15;11;Dragonzaure;vodka rouge  Eristoff,limonade (sprite) 25cl et fluo,tequila,bacardi razz,koogaie(liqueur aux agrumes fruitee),kiwi Guiot
+B16;11;Katagena;energy drink  25cl et fluo,coco qdb,passion qdb,framboise qdb
+B17;11;Père damien;energy drink  25cl et fluo,cordial citron vert,cuberdon,tequila,triple sec,fraise qdb
+B18;12;Chikitone;curaçao bleu,ananas,bacardi carta blanca(rum superior),triple sec(c),passion qdb,vodka rouge  Eristoff
+B19;13;Scrattlantide;vodka noire  Eristoff,methode champenoise et bracelet fluo,energy drink  25cl et fluo,fraise qdb,vodka blanche,gin,tequila,bubble gum  Mathieu Teisseire
+B20;13;Hiroshima;energy drink  25cl et fluo,vodka noire  Eristoff,methode champenoise et bracelet fluo,vodka blanche,triple sec(c),koogaie(liqueur aux agrumes fruitee),limoncello,orgeat Guiot
+B21;12;Bison bourré;curaçao bleu,ananas,pamplemousse rose,tequila,rhum bresilien (cachaca pitu ),fraise Guiot
+B22;12;Morning red;jack Daniel's Fire (pimente),ananas,litchis qdb,banane jaune qdb,gin,framboise qdb
+B23;11;Belzébuth;orange,citron vert cordial,vodka blanche,pomme verte(manzana qdb),framboise Guiot
+B24;11;Juju;ananas,banane verte,coco qdb,creme de coco (batida)
+B25;13;Taxi brousse;gourmandises chocolatees facon freaky,chantilly,cafe glace 33cl,bourbon(Jack Daniel's),noisette,caramel beurre sale qdb,vodka blanche
+B26;11;L'erreur;banane verte,orangeade 25cl et bracelet fluo,coco qdb
+B27;13;Tybalt;litchis,limonade (sprite) 25cl et fluo,triple sec,pomme verte(manzana qdb),vodka blanche,citron vert cordial,violette Bio,menthe fraiche facon mojito
+B28;13;Baback;gourmandises chocolatees facon freaky,chantilly,triple sec(c),amaretto,creme Irish
+B29;11;Boum boum;cranberries,energy drink  25cl et fluo,vodka blanche,fraise Guiot
+B30;25;ZZ top;assortiment de confiseries,nid de barbe a papa,triple sec,vodka blanche,tequila,bacardi carta blanca(rum superior),koogaie(liqueur aux agrumes fruitee),barbe a papa  Mathieu Teisseire
+B31;11;Elena;fraise,energy drink  25cl et fluo,vodka blanche,bubble gum  Mathieu Teisseire
+B32;12;Rustique ;framboise qdb,soda Schweppes aux agrumes 0sugar 33cl et fluo,pamplemousse qdb,gin,citron vert cordial,violette Bio
+B33;11;Rondoudou;ananas,bacardi carta blanca(rum superior),passion qdb,koogaie(liqueur aux agrumes fruitee),creme de coco (batida),banane jaune qdb
+B34;12;Zonzon;framboise caraibos,vodka blanche,tequila,passion qdb,peche blanche qdb,melon(koogaie),bubble gum  Mathieu Teisseire
+B35;12;Livre de la jungle;banane verte,ananas,vodka blanche,tequila,coco qdb,rhum brun hispanique,amaretto
+B36;13;Rango;methode champenoise et bracelet fluo,energy drink  25cl et fluo,tequila,triple sec,peche blanche qdb,passion qdb,fraise Guiot
+B37;13;BB d'ange;methode champenoise et bracelet fluo,energy drink  25cl et fluo,vodka blanche,triple sec,violette Bio
+B38;12;Freud;energy drink  25cl et fluo,tequila,coco qdb,banane jaune qdb,fraise Guiot
+B39;25;Natacha;fraise,cordial citron vert,fraise Guiot,bacardi carta blanca(rum superior),vodka blanche,gin,tequila
+B40;13;Happy fanny;tropical multi vitamines,koogaie(liqueur aux agrumes fruitee),passion qdb,bacardi carta blanca(rum superior),triple sec(c),gingembre  Mathieu Teisseire,kiwi Guiot
+B41;12;Tich;peche,banane,genievre,triple sec,bacardi carta blanca(rum superior),litchis qdb,orgeat Guiot
+B42;11;Meli melo;curaçao bleu,tropical multi vitamines,vodka blanche,tequila,ananas qdb,passion qdb
+B43;11;Lekelke c est;fraise,energy drink  25cl et fluo,menthe blanche qdb,vodka blanche,cerise qdb,bubble gum  Mathieu Teisseire
+B44;11;Marilyn;ananas,passion qdb,coco qdb,framboise qdb
+B45;13;ThanaMan;soda Schweppes aux agrumes 0sugar 33cl et fluo,tutti frutti,bacardi carta blanca(rum superior),bubble gum pink qdb,triple sec,vanille  Mathieu Teisseire
+B46;25;Mouskiklack;nid de barbe a papa,assortiment de confiseries,absynthe,fraise,monster MIXXD Punch 50cl,citron vert cordial,bacardi carta blanca(rum superior),vodka blanche,tequila,bacardi razz,triple sec,grenadine Guiot
+B47;12;Predator;curaçao bleu,orangeade 25cl et bracelet fluo,banane jaune qdb,gingembre  Mathieu Teisseire,vodka blanche,piment qdb,fraise qdb
+B48;11;Ace ventura;energy drink  25cl et fluo,cordial citron vert,passion qdb,triple sec,vodka blanche,pomme verte(manzana qdb),violette Bio
+B49;12;Luciano;vodka noire  Eristoff,energy drink  25cl et fluo,vodka blanche,triple sec,citron vert cordial,framboise qdb
+B50;12;samourai de l'espace;orangeade 25cl et bracelet fluo,cordial citron vert,limoncello,tequila,grenadine Guiot
+B51;11;Bonobo;fraise,vodka blanche,vodka rouge  Eristoff,passion qdb,banane jaune qdb,framboise Guiot
+B52;12;Mange tes vivants;vodka noire  Eristoff,energy drink  25cl et fluo,bacardi razz,triple sec,amaretto,vodka rouge  Eristoff
+B53;13;Cardon logistique;absynthe,cola (coca cola 33cl),caramel beurre sale qdb,bourbon(Jack Daniel's)
+B54;12;Beuleuleu;orange,citron jaune,koogaie(liqueur aux agrumes fruitee),coco qdb,whisky blend 3ans,fraise Guiot
+B55;11;Raztakouan;energy drink  25cl et fluo,cordial citron vert,tequila,cerise qdb,passion qdb,vodka rouge  Eristoff
+B56;12;Liloux;vodka blanche,fraise,litchis,bubble gum  Mathieu Teisseire,ananas qdb,creme de coco (batida)
+B57;12;Flambardement;soda Schweppes aux agrumes 0sugar 33cl et fluo,limoncello,tequila,triple sec,melon Guiot
+B58;11;Tigrou;orangeade 25cl et bracelet fluo,pomme verte(manzana qdb),passion qdb
+B59;12;Moogly;banane,tropical multi vitamines,creme de coco (batida),coco qdb,triple sec,bacardi carta blanca(rum superior)
+B60;12;Chibre;redbull white edition(coco-myrtille)et fluo,passion qdb,bacardi carta blanca(rum superior),vodka blanche,grenadine Guiot
+B61;12;Chabal;curaçao bleu,litchis,tropical multi vitamines,triple sec,vodka blanche,bacardi carta blanca(rum superior),tequila
+B62;25;Max;curaçao bleu,genievre,gin,triple sec,violette Bio
+B63;25;Max d'été;fraise,genievre,bacardi carta blanca(rum superior),vodka blanche,tequila,triple sec(c),framboise Guiot
+B64;12;Très coco;citron vert cordial,coco qdb,creme de coco (batida),bacardi carta blanca(rum superior)
+B65;25;Etoile noire;vodka noire  Eristoff,tequila,genievre,vodka blanche,triple sec(c),passion qdb,bubble gum  Mathieu Teisseire
+B66;13;Buy me;fraise,methode champenoise et bracelet fluo,energy drink  25cl et fluo,tequila,vodka blanche,bacardi carta blanca(rum superior),fraise qdb,bacardi razz,citron vert cordial,framboise Guiot
+B67;13;Noemaniak;curaçao bleu,litchis,methode champenoise et bracelet fluo,energy drink  25cl et fluo,tequila-gin-vodka,triple sec,gingembre  Mathieu Teisseire
+B68;11;Oncle Picsou;orangeade 25cl et bracelet fluo,vodka blanche,triple sec,passion qdb,vodka lime(citron vert)
+B69;25;Aly Baby;assortiment de confiseries,nid de barbe a papa,methode champenoise et bracelet fluo,monster Fiesta mango 50cl et bracelet fluo,tequila,vodka blanche,triple sec,jack Daniel's Fire (pimente),bubble gum pink qdb,rose  Mathieu Teisseire
+B70;13;B0PE DO BRAZIL;vodka noire  Eristoff,energy drink  25cl et fluo,vodka lime(citron vert),tequila,rhum bresilien (cachaca pitu ),gingembre  Mathieu Teisseire,vodka rouge  Eristoff
+B71;13;Mange tes morts ;vodka noire  Eristoff,energy drink  25cl et fluo,bacardi razz,triple sec,genievre,vodka rouge  Eristoff
+B72;11;Bananator;banane,vodka blanche,vanille qdb,cerise qdb,cerise Guiot
+B73;12;Clak 1 coup le pere;limonade (sprite) 25cl et fluo,tequila,triple sec,passion qdb,citron vert cordial,vodka rouge  Eristoff
+B74;13;Où niche l'hibou;orange,methode champenoise et bracelet fluo,energy drink  25cl et fluo,banane verte,triple sec,vodka blanche,orgeat Guiot
+B75;12;Non mais hallo quoi;limonade (sprite) 25cl et fluo,jack Daniel's Honey(miel),sucre de canne Canadou,cordial citron vert,triple sec,bourbon(Jack Daniel's),menthe fraiche facon mojito
+B76;11;Pas pour l'instant;vodka noire  Eristoff,cola zero(coca cola zero 33cl),vodka blanche,gin,tequila,vodka rouge  Eristoff
+B77;11;Dragon punch;fraise qdb,litchis,limonade (sprite) 25cl et fluo,genievre,violette Bio
+B78;13;Bijou;assortiment de confiseries,nid de barbe a papa,orange,barbe a papa(trojka),bacardi carta blanca(rum superior),pomme verte(manzana qdb),grenadine Guiot
+B79;13;Mon precieux;cola zero(coca cola zero 33cl),caramel beurre sale  Mathieu Teisseire,tequila,banane jaune qdb,triple sec,kraken rum
+B80;25;Max de BANANA BEACH;rhum miel qdb,banane,vodka blanche,banane jaune qdb,bacardi carta blanca(rum superior),vanille qdb,triple sec,orgeat Guiot
+B81;15;Transcendance;assortiment de confiseries,nid de barbe a papa,fraise,ginger beer 33cl et bracelet fluo,barbe a papa(trojka),triple sec,bacardi carta blanca(rum superior),tequila,cordial citron vert
+B82;15;Brutus;framboise caraibos,bubble gum pink qdb,hibiscus  Monin,citron vert cordial,don papa baroko rum
+B83;25;Spartiate;citron jaune,tequila,triple sec,vodka blanche,limoncello,pomme verte(manzana qdb),cordial citron vert,kiwi Guiot
+B84;13;Graine de plasir;assortiment de confiseries,nid de barbe a papa,fraise,bacardi razz,vodka lime(citron vert),tequila,barbe a papa(trojka),violette Bio
+B85;15;The inked kitty;assortiment de confiseries,nid de barbe a papa,ananas,coco qdb,vodka lime(citron vert),tequila,cuberdon,hibiscus  Monin
+B86;13;AVAconda;fraise,vodka rouge  Eristoff,methode champenoise et bracelet fluo,energy drink  25cl et fluo,vodka blanche,triple sec(c),banane jaune qdb,banane verte,kiwi Guiot
+B87;12;Licorne  ;ginger beer 33cl et bracelet fluo,citron vert cordial,vanille qdb
+B88;25;Obelix;confiseries,nid de barbe a papa,fraise,triple sec,koogaie(liqueur aux agrumes fruitee),barbe a papa(trojka),genievre,vodka blanche,violette Bio
+B89;13;Un petit gout de paradis;confiseries,nid de barbe a papa,lait de coco Bio 20cl,banane jaune qdb,coco qdb,vodka blanche,vanille qdb,bubble gum  Mathieu Teisseire
+B90;13;Mogwai;assortiment de confiseries,nid de barbe a papa,tropical multi vitamines,fraise,passion qdb,vodka blanche,bacardi razz,barbe a papa(trojka),triple sec,framboise Guiot
+B91;12;Peche melbadasse;kraken rum,peche,citron vert cordial,vodka blanche,peche blanche qdb,vanille qdb,framboise Guiot
+B92;12;Kamasutra;tropical multi vitamines,banane jaune qdb,passion qdb,bacardi carta blanca(rum superior),vodka blanche,tequila,fraise Guiot
+B93;12;Rebel du slip;methode champenoise et bracelet fluo,banane jaune qdb,caramel beurre sale qdb,coco qdb,vodka blanche,citron vert cordial
+B93C;11;Punchy bastard;cerise,bacardi carta blanca(rum superior),citron vert cordial,cerise Guiot,orgeat Guiot
+B94;13;Delicious;fraise,barbe a papa(trojka),vodka blanche,melon(koogaie),coco qdb,creme de coco (batida),assortiment de confiseries,nid de barbe a papa
+B95;15;Saint barman;petillante 25cl et bracelet fluo,fraise,don papa baroko rum,citron vert cordial,menthe fraiche facon mojito
+B96;13;Arizona dream;jack Daniel's Fire (pimente),banane,caramel beurre sale qdb,kraken rum
+B97;11;Sherman;ananas,fraise,citron vert cordial,vodka lime(citron vert),tequila,vodka blanche,kiwi Guiot
+B98;13;Alli Lili;ananas,orange,barbe a papa(trojka),bacardi carta blanca(rum superior),gin,bubble gum  Mathieu Teisseire,nid de barbe a papa,assortiment de confiseries
+B99;13;Taloche;cranberries,redbull white edition(coco-myrtille)et fluo,bacardi carta blanca(rum superior),triple sec,bacardi razz,bubble gum  Mathieu Teisseire
+B100;15;Chupacabra;assortiment de confiseries,nid de barbe a papa,mangue,monster Fiesta mango 50cl et bracelet fluo,tequila,triple sec,vanille qdb,citron vert cordial,hibiscus  Monin
+B101;12;Maître Chevalier ;citron jaune,mangue,koogaie(liqueur aux agrumes fruitee),mangue qdb,citron vert cordial,bacardi carta blanca(rum superior),triple sec
+B102;12;Gaelle what else ;pomme trouble,jack Daniel's Fire (pimente)
+B104;15;Kizoumba;assortiment de confiseries,nid de barbe a papa,fraise,methode champenoise et bracelet fluo,energy drink  25cl et fluo,barbe a papa(trojka),bacardi razz,koogaie(liqueur aux agrumes fruitee),bacardi carta blanca(rum superior),mangue qdb,coco qdb,framboise Guiot
+B105;12;Geniteur ;ananas,citron vert cordial,creme de coco (batida),coco qdb,tequila,triple sec
+B106;12;Devil colada;piment qdb,ananas,citron vert cordial,jack Daniel's Fire (pimente),tequila,coco qdb,ananas qdb,ananas Guiot
+B107;13;Plaisir d'hiver ;gourmandises chocolatees facon freaky,cafe glace 33cl,vodka blanche,creme Irish,after eight maison
+B109;13;Catalogne;gourmandises chocolatees facon freaky,chantilly,cafe glace 33cl,caramel beurre sale  Mathieu Teisseire,tequila,vanille qdb
+B111;15;Bacchanales;jack Daniel's Fire (pimente),ginger energy (gingembre) 50cl et bracelet fluo,genievre,vodka rouge  Eristoff,gingembre  Mathieu Teisseire,citron vert cordial
+B112;15;Tyr;assortiment de confiseries,nid de barbe a papa,jack Daniel's Fire (pimente),ginger energy (gingembre) 50cl et bracelet fluo,vodka blanche,triple sec,barbe a papa(trojka),bubble gum  Mathieu Teisseire
+B113;15;Octopus;kraken rum,ginger energy (gingembre) 50cl et bracelet fluo,citron vert cordial,jack Daniel's Honey(miel),piment de Cayenne Routin
+B114;12;Skull and bones;orange,citron vert cordial,mangue qdb,tequila,hibiscus  Monin
+B115;15;Calasme;assortiment de confiseries,nid de barbe a papa,fraise,methode champenoise et bracelet fluo,monster Punch mixxed 50cl et bracelet fluo,tequila,bacardi carta blanca(rum superior),triple sec,limoncello,gingembre  Mathieu Teisseire,kiwi Guiot
+B116;13;Forain;nid de barbe a papa,assortiment de confiseries,limonade (sprite) 25cl et fluo,bacardi razz,barbe a papa(trojka),vodka blanche,pomme verte(manzana qdb),pomme d'Amour Mathieu Teisseire
+B117;13;Under the silver lake;coca cola zero 33cl,vodka blanche,vodka rouge  Eristoff,jack Daniel's Honey(miel),pomme d'Amour Mathieu Teisseire
+B118;15;Hourra;monster Fiesta mango 50cl et bracelet fluo,citron vert cordial,vodka blanche,triple sec,pomme verte(manzana qdb),passion qdb,pomme d'Amour Mathieu Teisseire
+B119;13;C'est pas le castor le plus utile du barrage;citron jaune,petillante 25cl et bracelet fluo,violette qdb,citron vert cordial,bacardi carta blanca(rum superior),gin,pomme d'Amour Mathieu Teisseire,menthe fraiche facon mojito
+B120;11;C'est pas la truite la plus oxygénée de la rivière;ananas,bacardi carta blanca(rum superior),coco qdb,creme de coco (batida),nougat
+C1;11;Daktarin;cola (coca cola 33cl),vodka noire  Eristoff,vodka lime(citron vert),vodka blanche
+C1Y;25;Taureau;cola (coca cola 33cl),vodka lime(citron vert),vodka noire  Eristoff,vodka blanche
+C2;12;Test de lucidité(made in qdb Bruxelles);curaçao bleu,ananas,cordial citron vert,banane jaune qdb,bacardi carta blanca(rum superior)
+C3;11;Lovely boy;limonade (sprite) 25cl et fluo,pomme verte(manzana qdb),vodka blanche,vodka rouge  Eristoff,passion qdb,bubble gum  Mathieu Teisseire
+C4;12;Comas ethylique;energy drink  25cl et fluo,rhum bresilien (cachaca pitu ),triple sec(c),koogaie(liqueur aux agrumes fruitee),passion qdb,vanille  Mathieu Teisseire
+C5;11;Ordonnance;energy drink  25cl et fluo,amaretto,coco qdb,banane verte
+C6;11;Maboule palace;citron jaune,citron vert cordial,triple sec,koogaie(liqueur aux agrumes fruitee),vodka blanche,melon Guiot
+C7;12;Viazak;orange,energy drink  25cl et fluo,vodka blanche,fraise Guiot
+C8;13;Bronchaleine;litchis,methode champenoise et bracelet fluo,energy drink  25cl et fluo,vodka blanche,bubble gum  Mathieu Teisseire
+C9;12;Doliprane;soda Schweppes aux agrumes 0sugar 33cl et fluo,vodka blanche,koogaie(liqueur aux agrumes fruitee),pomme verte(manzana qdb),orgeat Guiot
+C10;11;infirmier;fraise qdb,ananas,orange,bacardi carta blanca(rum superior),vanille  Mathieu Teisseire
+C11;13;Tribulus;vodka noire  Eristoff,ginger beer 33cl et bracelet fluo,bacardi carta blanca(rum superior),triple sec (o),violettte Guiot
+C12;15;babyboom chaud ou froid ;servis en biberon,lait de coco Bio 20cl,triple sec,amaretto,creme Irish
+C13;12;Homéopathie;energy drink  25cl et fluo,tequila,triple sec,vodka blanche,vodka rouge  Eristoff,koogaie(liqueur aux agrumes fruitee),cerise qdb
+C14;11;Primperan;limonade (sprite) 25cl et fluo,vodka blanche,triple sec(c),pomme verte(manzana qdb),melon(koogaie)
+C15;12;Psy;limonade (sprite) 25cl et fluo,vodka blanche,pomme verte(manzana qdb),passion qdb,framboise Guiot
+C16;13;Phoque roux;assortiment de confiseries,nid de barbe a papa,banane,poire Williams,koogaie(liqueur aux agrumes fruitee),litchis qdb,bacardi carta blanca(rum superior),passion qdb,barbe a papa(trojka),coco Monin
+C17;12;Valium;absynthe 89°,energy drink  25cl et fluo,vodka blanche,fraise Guiot
+C18;12;anti stress;curaçao bleu,tropical multi vitamines,pamplemousse rose,triple sec,vodka blanche,menthe blanche qdb
+C19;13;Sam vador;vodka noire  Eristoff,methode champenoise et bracelet fluo,soda Schweppes aux agrumes 0sugar 33cl et fluo,limoncello,koogaie(liqueur aux agrumes fruitee),tequila,triple sec,violette Bio
+C20;12;Motilium;cerise qdb,pamplemousse rose,orange,gin,triple sec,ananas Guiot
+C21;12;Dokivass;orange,coco qdb,banane jaune qdb,passion qdb,vodka blanche,gin,tequila,triple sec,framboise qdb
+C22;12;Apranax;ananas,triple sec(c),vodka blanche,koogaie(liqueur aux agrumes fruitee),fraise Guiot,litchis qdb
+C23;11;Dafalgan;framboise caraibos,triple sec,vodka blanche,limoncello,cordial citron vert,framboise Guiot
+C24;12;Korsakov;soda Schweppes aux agrumes 0sugar 33cl et fluo,bacardi carta blanca(rum superior),genievre,triple sec,violettte Guiot
+C25;13;Actifed;methode champenoise et bracelet fluo,energy drink  25cl et fluo,mezcal,rhum brun hispanique,banane jaune qdb,citron vert cordial,triple sec,piment qdb
+C26;11;Stich;fraise,tropical multi vitamines,tequila,bacardi carta blanca(rum superior),triple sec,litchis  Mathieu Teisseire
+C27;12;Atomic boy;ananas,tropical multi vitamines,genievre,rhum bresilien (cachaca pitu ),vodka blanche,gin,coco qdb,triple sec(c),vanille  Mathieu Teisseire
+C28;11;Panama;assortiment de confiseries,nid de barbe a papa,tropical multi vitamines,barbe a papa(trojka),triple sec,genievre,litchis qdb,fraise Guiot
+C29;11;Lexa;ananas,citron vert cordial,vodka blanche,creme de coco (batida),banane jaune qdb
+C30;12;Punk exotique;cranberries,pamplemousse rose,passion qdb,vodka blanche,gin,cordial citron vert,fruits de la passion Guiot
+C31;13;Hémoglobine;methode champenoise et bracelet fluo,energy drink  25cl et fluo,ananas qdb,sangria maison et fruits frais(33cl)
+C32;12;Titi le traitre;orange,energy drink  25cl et fluo,cordial citron vert,genievre,triple sec(c),vodka blanche
+C33;11;Gros mineto;limonade (sprite) 25cl et fluo,genievre,triple sec(c),limoncello
+C34;12;Elvira la cochonne;curaçao bleu,ananas,vodka blanche,coco qdb,creme de coco (batida)
+C35;11;Aureliz;ananas,passion qdb,koogaie(liqueur aux agrumes fruitee),vodka blanche,bacardi carta blanca(rum superior),coco qdb,triple sec(c),kiwi Guiot
+C35Y;25;Vierge ;ananas,passion qdb,koogaie(liqueur aux agrumes fruitee),coco qdb,vodka blanche,bacardi carta blanca(rum superior),triple sec(c),kiwi Guiot
+C36;11;Dopamine;framboise caraibos,coco qdb,passion qdb,triple sec,limoncello,violette Bio
+C37;11;Morphine;cola (coca cola 33cl),rhum bresilien (cachaca pitu ),bacardi carta blanca(rum superior),tequila,cordial citron vert,bubble gum  Mathieu Teisseire
+C38;11;Prolaps de la Stroumphette;curaçao bleu,diabolo grenadine 33cl et bracelet fluo,gin,vodka blanche,violette qdb,hibiscus  Monin
+C39;13;Magnésium;vodka rouge  Eristoff,methode champenoise et bracelet fluo,fanta citron frappe 33cl,bacardi carta blanca(rum superior),vodka blanche,vodka lime(citron vert),triple sec,mojito Mathieu Teisseire
+C40;13;Cedocar;fraise,piment qdb,bacardi carta blanca(rum superior),peche blanche qdb,citron vert cordial,kiwi Guiot
+C41;13;Dipidolor;fraise,vodka rouge  Eristoff,methode champenoise et bracelet fluo,passion qdb,vodka blanche,banane jaune qdb,bubble gum  Mathieu Teisseire,menthe fraiche facon mojito
+C42;11;Nectar de fourmis;framboise caraibos,vanille qdb,vodka blanche,amaretto,violette Bio
+C43;12;Seroquel pour bipolaire;litchis,ananas,genievre,bacardi carta blanca(rum superior),vodka blanche,litchis qdb,coco Monin
+C44;12;Marabout;mangue,orange,sucre de canne Canadou,gingembre  Mathieu Teisseire,triple sec (o),citron vert cordial,ananas qdb,bourbon(Jack Daniel's),rhum miel qdb
+C45;11;Antibiotique;banane,gin,tequila,rhum miel qdb,triple sec,ananas qdb,gingembre  Mathieu Teisseire
+C46;12;L abbe tadine;ginger beer 33cl et bracelet fluo,citron vert cordial,bourbon(Jack Daniel's),amaretto,triple sec,sucre de canne Canadou
+C47;12;Dokiprane;cerise,limonade (sprite) 25cl et fluo,citron vert cordial,triple sec,tequila,hibiscus qdb
+D1;13;Eternal Sunshine;vodka noire  Eristoff,methode champenoise et bracelet fluo,energy drink  25cl et fluo,triple sec,vanille qdb,violette Bio
+D2;12;Réservoir dogs;tropical multi vitamines,ananas,citron vert cordial,koogaie(liqueur aux agrumes fruitee),vodka blanche,vanille qdb,triple sec,bubble gum  Mathieu Teisseire
+D3;13;Sin city;methode champenoise et bracelet fluo,energy drink  25cl et fluo,cerise qdb,vodka blanche,tequila,triple sec,ananas qdb,peche blanche qdb,orgeat Guiot
+D4;11;Fight club;litchis,indian tonic classique 20cl,vodka blanche,triple sec(c),litchis qdb,citron vert cordial,violette Bio
+D5;11;Nikita;violette Bio,fraise,banane,koogaie(liqueur aux agrumes fruitee),tequila,bacardi razz
+D6;12;Las Vegas parano;orange,banane,bacardi carta blanca(rum superior),banane jaune qdb,fraise Guiot
+D7;12;Corto maltese;litchis,creme de coco (batida),bacardi razz,banane jaune qdb,triple sec,mojito Mathieu Teisseire,hibiscus  Monin
+D8;12;51 etat;fraise,methode champenoise et bracelet fluo,cordial citron vert,litchis qdb,fraise qdb
+D9;12;Orange mécanique;tropical multi vitamines,mezcal,triple sec,bacardi carta blanca(rum superior),caramel beurre sale qdb
+D10;12;Limith Less;framboise caraibos,vanille qdb,koogaie(liqueur aux agrumes fruitee),tequila,hibiscus qdb
+D11;11;Cartel;tropical multi vitamines,orange,bacardi carta blanca(rum superior),triple sec (o),mangue qdb,coco qdb
+D12;12;Amélie poulain;mangue,triple sec,litchis qdb,vanille  Mathieu Teisseire
+D13;13;C'est arrivé près de chez vous;ananas,rhum bresilien (cachaca pitu ),gin,triple sec,coco qdb,violette Bio
+D14;12;Matrix;tropical multi vitamines,coco qdb,tequila,passion qdb,fraise Guiot
+D14Y;25;Capricorne;tropical multi vitamines,coco qdb,passion qdb,tequila,fraise Guiot
+D15;12;Snatch;fraise,methode champenoise et bracelet fluo,pomme verte(manzana qdb),passion qdb,fraise Guiot
+D15Y;25;Balance ;methode champenoise et bracelet fluo,passion qdb,pomme verte(manzana qdb),fraise Guiot
+D16;13;Dobberman;assortiment de confiseries,nid de barbe a papa,vodka noire  Eristoff,limonade (sprite) 25cl et fluo,tequila,passion qdb,ananas qdb,barbe a papa  Mathieu Teisseire
+D17;13;LoiS de l'attraction;vodka noire  Eristoff,energy drink  25cl et fluo,vodka blanche,rhum bresilien (cachaca pitu ),triple sec,curaçao bleu,violettte Guiot
+D18;12;Guerre des mondes;energy drink  25cl et fluo,genievre,triple sec,coco qdb,limoncello,gingembre  Mathieu Teisseire,bubble gum  Mathieu Teisseire
+D19;13;Total recall;methode champenoise et bracelet fluo,energy drink  25cl et fluo,vodka blanche,passion qdb,triple sec,framboise qdb,bubble gum  Mathieu Teisseire
+D20;11;Constantine;ananas,vodka blanche,triple sec (o),framboise qdb,grenadine Guiot
+D21;13;Scarface;piment qdb,peche,rhum bresilien (cachaca pitu ),mezcal,limoncello,citron vert cordial,gingembre  Mathieu Teisseire
+D22;11;Adaptation;fraise,vodka blanche,triple sec,limoncello,gingembre  Mathieu Teisseire
+D23;12;Kill Bill;vodka noire  Eristoff,ananas,pamplemousse rose,bacardi carta blanca(rum superior),coco qdb,litchis qdb,violettte Guiot
+D24;12;Alien;cerise qdb,vodka rouge  Eristoff,banane,litchis,vodka blanche,creme de coco (batida),banane jaune qdb
+D25;12;Silence des agneaux;piment qdb,limonade (sprite) 25cl et fluo,genievre,tequila,cordial citron vert,limoncello
+D26;15;Crazy bear;pomme verte(manzana qdb),methode champenoise et bracelet fluo,monster Aussie(citron fresh)-50cl-et bracelet fluo,coco qdb,vodka blanche,tequila,triple sec,limoncello,gingembre  Mathieu Teisseire,kiwi Guiot
+D27;11;Troupe d'élite;vodka noire  Eristoff,tropical multi vitamines,ananas,tequila,bacardi razz,passion qdb,triple sec,orgeat Guiot,rose  Mathieu Teisseire
+D28;12;Les rois du désert;cola zero(coca cola zero 33cl),bourbon(Jack Daniel's),coco qdb,vanille qdb,hibiscus  Monin
+D29;12;Mission impossible ;orangeade 25cl et bracelet fluo,triple sec,limoncello,pamplemousse qdb,gingembre  Mathieu Teisseire
+D30;13;American Beauty;triple sec,absynthe,ginger beer 33cl et bracelet fluo,cerise Guiot
+D31;15;Saw;fraise,ginger energy (gingembre) 50cl et bracelet fluo,koogaie(liqueur aux agrumes fruitee),bacardi carta blanca(rum superior),rose  Mathieu Teisseire
+D32;12;Mad Heidi;cola zero(coca cola zero 33cl),citron vert cordial,cerise qdb,bacardi carta blanca(rum superior),orgeat Guiot
+D33;15;Creed;monster Aussie(citron fresh)-50cl-et bracelet fluo,citron vert cordial,sucre de canne Canadou,triple sec,bourbon(Jack Daniel's),whisky blend 3ans
+D34;12;ice age;banane verte,orangeade 25cl et bracelet fluo,vodka blanche,coco qdb,banane jaune qdb,grenadine Guiot
+D35;12;Dr d'enfer et mini moi;absynthe,curaçao bleu,energy drink  25cl et fluo,vodka blanche,ananas qdb,passion qdb
+D36;13;iron man;fraise,methode champenoise et bracelet fluo,citron vert cordial,triple sec,tequila,fraise qdb
+D37;12;Point break;tropical multi vitamines,fraise,mezcal,tequila,bacardi carta blanca(rum superior),fraise Guiot
+D38;12;Nirvana;limonade (sprite) 25cl et fluo,mojito Mathieu Teisseire,vodka lime(citron vert),bacardi razz,vodka blanche
+D39;11;Domino;fraise,banane jaune qdb,ananas qdb,vodka rouge  Eristoff,passion qdb,vodka blanche,bubble gum  Mathieu Teisseire
+D40;12;Triplettes de belle ville;fanta citron frappe 33cl,triple sec,cordial citron vert,vodka blanche,limoncello
+D41;13;inglorious bastard;assortiment de confiseries,nid de barbe a papa,framboise caraibos,limonade (sprite) 25cl et fluo,tequila,bacardi razz,passion qdb,barbe a papa  Mathieu Teisseire
+D42;15;Ocean eleven;assortiment de confiseries,nid de barbe a papa,methode champenoise et bracelet fluo,cordial citron vert,rhum brun hispanique,bacardi carta blanca(rum superior),bacardi razz,barbe a papa  Mathieu Teisseire
+D43;13;Jumanji;curaçao bleu,limonade (sprite) 25cl et fluo,triple sec,coco qdb,bacardi razz,tequila,orgeat Guiot
+D44;13;Brain dead;assortiment de confiseries,nid de barbe a papa,orangeade 25cl et bracelet fluo,banane jaune qdb,coco qdb,fraise qdb,vodka blanche,barbe a papa  Mathieu Teisseire
+D45;15;Avatar;curaçao bleu,methode champenoise et bracelet fluo,orangeade 25cl et bracelet fluo,vodka blanche,bacardi razz,grenadine Guiot,citron vert cordial,orgeat Guiot
+D46;11;Citizen ken;orangeade 25cl et bracelet fluo,citron vert cordial,sucre de canne Canadou,vodka blanche,bacardi carta blanca(rum superior)
+D47;11;Pirates des Caraïbes;citron jaune,citron vert cordial,sucre de canne Canadou,rhum miel qdb,bacardi carta blanca(rum superior)
+D48;25;Very bad trip;gourmandises chocolatees facon freaky,chantilly,cafe glace 33cl,vodka blanche,creme Irish,tequila,amaretto,banane jaune qdb,bourbon(Jack Daniel's),caramel beurre sale  Mathieu Teisseire
+D49;13;Green lanterne;assortiment de confiseries,nid de barbe a papa,tropical multi vitamines,bacardi carta blanca(rum superior),coco qdb,passion qdb,barbe a papa(trojka),triple sec,kiwi Guiot
+D50;11;Prometheus;cola zero(coca cola zero 33cl),citron vert cordial,litchis qdb,triple sec,vanille  Mathieu Teisseire
+D51;11;inception;cola (coca cola 33cl),vodka noire  Eristoff,triple sec(c),bacardi carta blanca(rum superior),limoncello
+D52;13;Requiem for a dream;vodka noire  Eristoff,soda Schweppes aux agrumes 0sugar 33cl et fluo,tequila,vanille qdb,bubble gum  Mathieu Teisseire
+D53;15;Leon;assortiment de confiseries,nid de barbe a papa,framboise caraibos,mangue,triple sec,rhum bresilien (cachaca pitu ),cerise qdb,barbe a papa  Mathieu Teisseire
+D54;13;Bernie;assortiment de confiseries,nid de barbe a papa,cola (coca cola 33cl),vodka noire  Eristoff,bacardi carta blanca(rum superior),bacardi razz,barbe a papa  Mathieu Teisseire
+D55;13;Fast and furious;orangeade 25cl et bracelet fluo,pomme verte(manzana qdb),tequila,passion qdb,mangue qdb,koogaie(liqueur aux agrumes fruitee),triple sec,kiwi Guiot
+D56;15;Dark city;assortiment de confiseries,nid de barbe a papa,methode champenoise et bracelet fluo,cordial citron vert,rhum brun hispanique,bacardi carta blanca(rum superior),bacardi razz,barbe a papa  Mathieu Teisseire
+D57;11;Strange day's;cuberdon,limonade (sprite) 25cl et fluo,vanille qdb,vodka blanche,triple sec,tequila,framboise Guiot
+D58;13;american psycho;assortiment de confiseries,nid de barbe a papa,fraise,cerise,bacardi razz,passion qdb,triple sec(c),bacardi carta blanca(rum superior),violette Bio,barbe a papa  Mathieu Teisseire
+D59;13;Peur au ventre;vodka rouge  Eristoff,methode champenoise et bracelet fluo,limonade (sprite) 25cl et fluo,vodka blanche,mangue qdb,bacardi razz,melon Guiot
+D60;11;Planète terror;limonade (sprite) 25cl et fluo,vodka blanche,koogaie(liqueur aux agrumes fruitee),passion qdb,peche blanche Guiot
+D61;15;Glass onion;methode champenoise et bracelet fluo,monster Aussie(citron fresh)-50cl-et bracelet fluo,vodka lime(citron vert),vodka blanche,triple sec,vodka rouge  Eristoff,bubble gum  Mathieu Teisseire,mojito Mathieu Teisseire
+D62;12;Mirror the mask;framboise caraibos,peche,koogaie(liqueur aux agrumes fruitee),triple sec,gin,melon Guiot
+D63;13;Heat;assortiment de confiseries,nid de barbe a papa,curaçao bleu,limonade (sprite) 25cl et fluo,tequila,barbe a papa(trojka),koogaie(liqueur aux agrumes fruitee),triple sec
+D64;11;interstellar;cola zero(coca cola zero 33cl),bourbon(Jack Daniel's),banane jaune qdb,chocolat Routin
+D65;12;Usual suspect;banane,peche,tequila,hibiscus qdb,vanille qdb,vanille  Mathieu Teisseire
+D66;12;Salton sea;gourmandises chocolatees facon freaky,chantilly,creme Irish,bourbon(Jack Daniel's),banane jaune qdb,tequila
+D67;13;Avengers;ananas,vodka blanche,vodka rouge  Eristoff,fraise qdb,cordial citron vert,litchis  Mathieu Teisseire
+D67Y;25;Sagittaire ;ananas,litchis  Mathieu Teisseire,citron vert cordial,vodka rouge  Eristoff,fraise qdb
+D68;12;K-PAX;vodka noire  Eristoff,energy drink  25cl et fluo,vodka blanche,triple sec(c),fraise qdb
+D69;12;The mask;methode champenoise et bracelet fluo,bacardi razz,litchis,melon(koogaie),hibiscus  Monin
+D70;11;Loopers;piment qdb,mangue,tropical multi vitamines,gin,vanille qdb,fraise Guiot
+D71;11;Turtles ninja;fraise,vanille qdb,vodka blanche,amaretto,gingembre  Mathieu Teisseire,hibiscus qdb
+D72;11;Le parrain;orange,vodka blanche,citron vert cordial,vanille qdb,mangue qdb,orgeat Guiot
+D73;15;Suicide squad;assortiment de confiseries,nid de barbe a papa,ginger beer 33cl et bracelet fluo,barbe a papa(trojka),citron vert cordial,genievre,menthe fraiche facon mojito
+D74;11;Joker;cerise qdb,fanta citron frappe 33cl,gin,genievre,mangue qdb,banane jaune  Mathieu Teisseire
+D75;12;Mr Wolf;vodka rouge  Eristoff,cerise qdb,tropical multi vitamines,citron jaune,mangue qdb,ananas,peche blanche qdb,triple sec,citron vert cordial,tequila,curaçao bleu
+D76;13;Dirty dancing;kraken rum,methode champenoise et bracelet fluo,cerise,amaretto,gingembre  Mathieu Teisseire
+D77;15;Transformers;assortiment de confiseries,nid de barbe a papa,tropical multi vitamines,monster ultra Paradise 50cl et bracelet fluo,coco qdb,bacardi carta blanca(rum superior),vodka blanche,gin,whisky blend 3ans,ananas qdb,orgeat Guiot
+D78;12;Retour vers le futur;ananas,rhum miel qdb,coco qdb,jack Daniel's Fire (pimente)
+D79;13;Blade runner;orange,orangeade 25cl et bracelet fluo,triple sec,bourbon(Jack Daniel's),citron vert cordial,sucre de canne Canadou,menthe fraiche facon mojito
+D80;13;Braquage a l italienne ;gourmandises chocolatees facon freaky,chantilly,lait de coco Bio 20cl,amaretto,cafe(kaklua)
+D82;13;Deadpool;cranberries,methode champenoise et bracelet fluo,limonade (sprite) 25cl et fluo,vodka blanche,tequila,jack Daniel's Fire (pimente),triple sec,orgeat Guiot
+D83;13;Ghostbuster;pomme trouble,caramel beurre sale qdb,jack Daniel's Honey(miel),jack Daniel's Fire (pimente)
+D84;12;Savages;limonade (sprite) 25cl et fluo,vodka rouge  Eristoff,vodka blanche,banane jaune qdb,ananas qdb,passion qdb,framboise Guiot
+D85;11;irreversible;framboise caraibos,bacardi carta blanca(rum superior),coco qdb,creme de coco (batida),vanille  Mathieu Teisseire
+D86;15;Barbenheimer;limonade (sprite) 25cl et fluo,triple sec,vodka blanche,barbe a papa(trojka),bubble gum  Mathieu Teisseire
+D87;13;Dune;pomme trouble,methode champenoise et bracelet fluo,ginger beer 33cl et bracelet fluo,vodka blanche,triple sec,pomme d'Amour Mathieu Teisseire
+D88;13;Les dents de la Mer;methode champenoise et bracelet fluo,limonade (sprite) 25cl et fluo,vodka blanche,rose qdb,bacardi razz,pomme d'Amour Mathieu Teisseire
+D89;15;Volte-face;piment qdb,ginger energy (gingembre) 50cl et bracelet fluo,genievre,bourbon(Jack Daniel's),bubble gum  Mathieu Teisseire
+E1;12;LSD;fraise,tropical multi vitamines,bacardi carta blanca(rum superior),gin,coco qdb,litchis qdb,framboise Guiot
+E2;12;Special freeman;curaçao bleu,tropical multi vitamines,bacardi carta blanca(rum superior),coco qdb,passion qdb,grenadine Guiot
+E3;12;Extasy;piment qdb,orange,mezcal,bacardi carta blanca(rum superior),gingembre  Mathieu Teisseire
+E4;12;Toxico;curaçao bleu,fraise,tropical multi vitamines,vodka blanche,gin,tequila,litchis qdb,gingembre  Mathieu Teisseire
+E5;11;Spicy haze;tropical multi vitamines,citron vert cordial,vodka blanche,passion qdb,fraise Guiot
+E5Y;25;Serpentaire;tropical multi vitamines,citron vert cordial,vodka blanche,passion qdb,fraise Guiot
+E6;11;L'Amour;curaçao bleu,ananas,vodka blanche,coco qdb,orgeat Guiot
+E7;12;Adrenaline;curaçao bleu,banane,ananas,coco qdb,banane jaune qdb,bacardi carta blanca(rum superior),tequila
+E8;12;Dechire tout;banane verte,curaçao bleu,tropical multi vitamines,passion qdb,tequila-gin-vodka
+E9;12;Speed;banane,ananas,rhum bresilien (cachaca pitu ),rhum brun hispanique,triple sec,citron vert cordial,framboise Guiot
+E10;13;MDMA;fraise,methode champenoise et bracelet fluo,energy drink  25cl et fluo,bacardi carta blanca(rum superior),vodka blanche,tequila,coco qdb,peche blanche qdb,fraise Guiot
+E11;11;Ammoniaque;orange,limoncello,vodka blanche,tequila,triple sec,coco Monin
+E12;12;Opium;ananas,triple sec,gin,melon(koogaie),gingembre  Mathieu Teisseire
+E13;13;Ebola;methode champenoise et bracelet fluo,energy drink  25cl et fluo,vodka blanche,tequila,coco qdb,limoncello,triple sec,gingembre  Mathieu Teisseire
+E14;12;Thc;piment de Cayenne Routin,banane,vanille qdb,rhum brun hispanique,bacardi carta blanca(rum superior)
+E15;11;Ricin;energy drink  25cl et fluo,vodka blanche,triple sec,limoncello,framboise Guiot
+E16;11;Saugelum Mexican;tropical multi vitamines,ananas qdb,vodka blanche,triple sec,vodka lime(citron vert),gingembre  Mathieu Teisseire
+E17;13;Space cake;framboise caraibos,methode champenoise et bracelet fluo,energy drink  25cl et fluo,fraise qdb,rhum bresilien (cachaca pitu ),cerise qdb,triple sec,orgeat Guiot
+E18;12;Cocaine;limonade (sprite) 25cl et fluo,vodka lime(citron vert),vodka blanche,triple sec,vodka rouge  Eristoff,bubble gum  Mathieu Teisseire,mojito Mathieu Teisseire
+E19;11;Heroine;vodka noire  Eristoff,limonade (sprite) 25cl et fluo,melon(koogaie),triple sec,triple sec(c),vodka rouge  Eristoff,orgeat Guiot
+E20;11;Epifedrine;tropical multi vitamines,banane,creme de coco (batida),passion qdb,triple sec,rhum bresilien (cachaca pitu ),rose  Mathieu Teisseire
+E21;13;Mephedron;assortiment de confiseries,nid de barbe a papa,framboise caraibos,bacardi carta blanca(rum superior),melon(koogaie),triple sec,barbe a papa(trojka)
+E22;11;Krokodil;orange,vodka blanche,triple sec,citron vert cordial,grenadine Guiot
+E23;11;Crystal meths;limonade (sprite) 25cl et fluo,curaçao bleu,peche blanche qdb,vodka blanche,triple sec,citron vert cordial,orgeat Guiot
+E24;12;Nicotine;limonade (sprite) 25cl et fluo,barbe a papa(trojka),menthe blanche qdb,vodka blanche
+E25;12;Tv realite;limonade (sprite) 25cl et fluo,triple sec(c),vodka blanche,barbe a papa(trojka),cerise Guiot
+E26;13;Magic mushrooms;ginger beer 33cl et bracelet fluo,vodka blanche,pomme verte(manzana qdb),triple sec,popcorn Routin
+E27;13;Micro pointe;ananas,bacardi carta blanca(rum superior),coco qdb,jack Daniel's Honey(miel),piment de Cayenne Routin
+E28;15;Ayahuasca peruvienne;assortiment de confiseries,nid de barbe a papa,curaçao bleu,methode champenoise et bracelet fluo,soda Schweppes aux agrumes 0sugar 33cl et fluo,bacardi carta blanca(rum superior),triple sec,koogaie(liqueur aux agrumes fruitee),citron vert cordial,barbe a papa(trojka)
+E29;25;Ketamine et NGE (Near Death Experience);assortiment de confiseries,nid de barbe a papa,absynthe,monster Punch mixxed 50cl et bracelet fluo,whisky blend 3ans,genievre,vodka blanche,coco qdb,vanille qdb,hibiscus  Monin
+E30;15;Datura;assortiment de confiseries,nid de barbe a papa,methode champenoise et bracelet fluo,monster MIXXD Punch 50cl,passion qdb,coco qdb,bacardi carta blanca(rum superior),vodka blanche,tequila,hibiscus  Monin
+E31;12;Souffle du diable (scopolamine);gourmandises chocolatees facon freaky,chantilly,tequila,creme Irish,vodka blanche,ananas qdb
+E32;11;Lean siZZuRp;assortiment de confiseries,nid de barbe a papa,absynthe,limonade (sprite) 25cl et fluo,triple sec,barbe a papa(trojka),tequila,violette Bio
+E33;15;E42 comme l autoroute ;peche,banane,mangue,passion qdb,banane jaune qdb,ananas qdb,triple sec,tequila,bacardi carta blanca(rum superior),hibiscus  Monin
+F1;11;Long island ice tea;cola (coca cola 33cl),cordial citron vert,triple sec,bacardi carta blanca(rum superior),vodka blanche,gin,tequila
+F1A;6;Long island ice tea event 25cl;cola (coca cola 33cl),citron vert cordial,bacardi carta blanca(rum superior),vodka blanche,gin,tequila
+F2;12;Gin fizz;petillante 25cl et bracelet fluo,chantilly,sucre de canne Canadou,gin,citron presse
+F2M;15;Baroko fizz;ginger beer 33cl et bracelet fluo,chantilly,citron vert cordial,barbe a papa  Mathieu Teisseire,don papa baroko rum
+F2O;13;Strawberry gin FiZZ;soda water schweppes 25cl(eau pet.) & fluo,chantilly,fraise,fraise Guiot,citron vert cordial,gin Bombay Sapphire
+F3;11;Caipirinha;sucre de canne Canadou,citron vert cordial,rhum bresilien (cachaca pitu )
+F4;11;Mojito classique qdb nature;soda water schweppes 25cl(eau pet.) & fluo,citron vert cordial,sucre de canne Canadou,havana club 3ans cuba,menthe fraiche facon mojito
+F4A;6;Mojito S(event) nature ou fruite(1fruit);fruits au choix,petillante 25cl et bracelet fluo,sucre de canne Canadou,bacardi carta blanca(rum superior),citron vert cordial,menthe fraiche facon mojito
+F4E;12;Mojito classique fruite( 1 fruit);soda water schweppes 25cl(eau pet.) & fluo,fruits au choix,havana club 3ans cuba,citron vert cordial,menthe fraiche facon mojito
+F4G;25;Mojito M nature ou fruite ;fruits au choix,soda water schweppes 25cl(eau pet.) & fluo,citron vert cordial,sucre de canne Canadou,havana club 3ans cuba,menthe fraiche facon mojito
+F4H;35;Mojito XL nature ou fruite;fruits au choix,soda water schweppes 25cl(eau pet.) & fluo,citron vert cordial,sucre de canne Canadou,havana club 3ans cuba,menthe fraiche facon mojito
+F4J;30;Mojito L natures ou fruites;fruits au choix,soda water schweppes 25cl(eau pet.) & fluo,havana club 3ans cuba,citron vert cordial,menthe fraiche facon mojito,sucre de canne Canadou
+F4L;50;Mojito XXL  natures ou fruites;menthe fraiche facon mojito,fruits au choix,soda water schweppes 25cl(eau pet.) & fluo,havana club 3ans cuba,citron vert cordial,sucre de canne Canadou
+F4M;15;Mojito Fat nature ou fruite;fruits au choix,soda water schweppes 25cl(eau pet.) & fluo,citron vert cordial,havana club 3ans cuba,sucre de canne Canadou,menthe fraiche facon mojito
+F5;11;Cuba libre;citron vert cordial,cola (coca cola 33cl),rhum brun hispanique
+F6;11;Pina colada;ananas,vanille  Mathieu Teisseire,coco qdb,creme de coco (batida),bacardi carta blanca(rum superior)
+F8;11;Daiquiri;cordial citron vert,sucre de canne Canadou,bacardi carta blanca(rum superior)
+F9;11;Daiquiri fraise;fraise,cordial citron vert,fraise Guiot,fraise qdb,bacardi carta blanca(rum superior)
+F9C;11;Daiquiri fruité;fruits au choix,citron vert cordial,fruits aux choix,rhum brun hispanique
+F10;11;Blue Hawaiian;curaçao bleu,ananas,coco qdb,bacardi carta blanca(rum superior)
+F11;12;Bloody ragnana;tomate epice Big tom,vodka blanche,cordial citron vert
+F12;11;Amaretto sour;sucre de canne Canadou,citron vert cordial,amaretto
+F13;11;Kamikaze;cordial citron vert,triple sec(c),vodka blanche
+F14;11;Margarita;cordial citron vert,triple sec(c),tequila
+F14B;12;Margarita fruitee;citron vert cordial,fruits au choix,fruits aux choix,triple sec,tequila
+F15;11;Tequila sunrise;citron vert cordial,orange,grenadine Guiot,tequila
+F16;15;Woodford fire;piment de Cayenne Routin,wiskey Woodford,cordial citron vert,triple sec
+F18;11;Matterhorn;creme Irish,banane jaune qdb,cafe(kaklua)
+F19;11;Orgasm ;triple sec(c),creme Irish
+F21;11;i love you;creme Irish,amaretto,cafe(kaklua)
+F22;11;Sex on the Playa;peche,orange,peche blanche qdb,vodka blanche,vodka rouge  Eristoff
+F22A;6;Small Sex on the beach;orange,peche,peche blanche Guiot,vodka blanche,vodka rouge  Eristoff
+F22C;11;Sex on the beach ;ananas,cranberries,vodka blanche,peche blanche qdb
+F23;13;Red mojito;nalu frost 25cl( fruit du dragon,the bl)et fluo,rose qdb,triple sec,cerise,cerise Guiot,cordial citron vert,vodka rouge  Eristoff,vodka blanche,menthe fraiche facon mojito
+F24;13;Mojito royal;methode champenoise et bracelet fluo,sucre de canne Canadou,havana club 3ans cuba,cordial citron vert,menthe fraiche facon mojito
+F25;13;Mojito especial;methode champenoise et bracelet fluo,cordial citron vert,sucre de canne Canadou,havana club 3ans cuba,vodka lime(citron vert),vodka rouge  Eristoff,menthe fraiche facon mojito
+F26;12;Whisky sour;citron jaune,sucre de canne Canadou,citron vert cordial,whisky blend 3ans,bourbon(Jack Daniel's)
+F27;11;Blue lagoon;citron jaune,vodka blanche,curaçao bleu
+F28C;11;Cosmopolitain premium;cranberries,triple sec(c),vodka eristoff,citron vert frais
+F29;11;CC Fizzy;triple sec(c),petillante 25cl et bracelet fluo,citron vert cordial
+F29B;11;Cointreau-jito fizz;fruits au choix,petillante 25cl et bracelet fluo,citron vert cordial,triple sec(c),menthe fraiche facon mojito
+F29C;11;Fruity cointreau fizz;petillante 25cl et bracelet fluo,fraise,citron vert cordial,triple sec(c)
+F30;11;Tutti frutti;orange,vodka blanche,fraise qdb,peche blanche qdb,fraise Guiot
+F31;11;Charlotte aux fraises;petillante 25cl et bracelet fluo,fraise,fraise qdb,vodka blanche,triple sec,cordial citron vert,fraise Guiot
+F32;13;Kentucky;grenadine Guiot,fraise qdb,ananas,creme de coco (batida),bourbon(Jack Daniel's)
+F33;12;Mini moi;orange,cordial citron vert,bourbon(Jack Daniel's),triple sec (o),whisky blend 3ans,sucre de canne Canadou,grenadine Guiot
+F34;11;Tibo;cordial citron vert,orgeat Guiot,triple sec(c),rhum st james royal ambre
+F35;11;Ti punch;rhum 3 rivieres 50°,citron vert cordial,sucre de canne Canadou
+F36;12;Lava flow;fraise,ananas,banane jaune qdb,coco qdb,bacardi carta blanca(rum superior)
+F37;12;Bellini;methode champenoise et bracelet fluo,peche blanche qdb,peche blanche Guiot
+F38;12;Coco cup;pomme trouble bio,tropical multi vitamines,ananas,triple sec,tequila,coco qdb,creme de coco (batida),vanille  Mathieu Teisseire
+F39;11;Riff's club;caramel beurre sale qdb,amaretto,coco qdb,triple sec,whisky blend 3ans
+F40;12;Salome di bahia;sucre de canne Canadou,cordial citron vert,rhum bresilien (cachaca pitu ),tequila
+F41;11;Japan colada;fraise qdb,litchis,ananas,creme de coco (batida),vodka blanche,bacardi carta blanca(rum superior),vanille  Mathieu Teisseire
+F42;11;Strawberry colada;fraise qdb,ananas,fraise,creme de coco (batida),rhum brun hispanique,bacardi carta blanca(rum superior),vanille  Mathieu Teisseire
+F44;11;Straw bimbam;fraise,ananas,bacardi razz,coco qdb,vanille qdb,bacardi carta blanca(rum superior),framboise Guiot
+F45;10;Jack Honey et limonade ;jack Daniel's Honey(miel),limonade (sprite) 25cl et fluo
+F45A;10;Small Lynchburg;limonade (sprite) 25cl et fluo,jack Daniel's old n7,citron vert cordial
+F46;10;Jack Apple et Tonic;indian tonic classique 20cl,jack Daniel's Apple(pomme)
+F46A;6;Martini espresso tails;bacardi martini espresso tails
+F47;10;jack et Ginger;jack Daniel's old n7,ginger beer 33cl et bracelet fluo
+F49;11;Long red island;diabolo grenadine 33cl et bracelet fluo,citron vert cordial,vanille qdb,bacardi carta blanca(rum superior),vodka blanche,gin,tequila,grenadine Guiot
+F65;11;Darling cherie;cerise qdb,citron vert cordial,triple sec,tequila,cerise Guiot
+F65M;15;Creve coeur;vodka rouge  Eristoff,cranberries,citron vert cordial,triple sec,tequila,hibiscus  Monin
+F66;13;Martinique mojito;petillante 25cl et bracelet fluo,sucre de canne Canadou,cordial citron vert,menthe fraiche facon mojito,rhum 3 rivieres 50°
+F67;15;Caligula;noisette,espresso lungo ou cafe glace,rhum bresilien infuse cacao et cafe
+F68;13;French mojito ;petillante 25cl et bracelet fluo,citron vert cordial,sucre de canne Canadou,rhum st james royal ambre,menthe fraiche facon mojito
+F69;13;Pina colada martinique;ananas,vanille  Mathieu Teisseire,coco qdb,creme de coco (batida),rhum st james royal ambre
+F70;13;Siboney;orangeade 25cl et bracelet fluo,cordial citron vert,jack Daniel's Fire (pimente),coco qdb,bacardi carta blanca(rum superior),cuberdon,orgeat Guiot,menthe fraiche facon mojito
+F71;12;Sex on fire ;peche,orange,vodka blanche,mangue qdb,piment qdb,vodka rouge  Eristoff
+F72;13;Dark storm;ginger beer 33cl et bracelet fluo,citron vert cordial,jack Daniel's Honey(miel),caramel beurre sale qdb
+F73;100;Porn-pornstar (3-4 pers.);champagne brut Drappier carte d or,tropical multi vitamines,citron vert cordial,vodka blanche,passion qdb,vanille  Mathieu Teisseire
+F74;11;Merengue;citron jaune,citron vert cordial,rhum miel qdb,limoncello,vanille qdb
+G1;13;Saint Germain;vodka noire  Eristoff,methode champenoise et bracelet fluo,energy drink  25cl et fluo,banane jaune qdb,bacardi carta blanca(rum superior),genievre,triple sec,curaçao bleu
+G2;12;Somptueux;methode champenoise et bracelet fluo,passion qdb,bacardi carta blanca(rum superior),orgeat Guiot
+G3;12;Bonne franquette;methode champenoise et bracelet fluo,triple sec,litchis  Mathieu Teisseire
+G4;13;un furet sous amphetamine;cuberdon,methode champenoise et bracelet fluo,limonade (sprite) 25cl et fluo,vodka blanche,triple sec,limoncello
+G5;12;Nuit folle;methode champenoise et bracelet fluo,passion qdb
+G6;13;Fisty boy;vodka rouge  Eristoff,methode champenoise et bracelet fluo,energy drink  25cl et fluo,genievre,triple sec(c),framboise Guiot
+G7;12;Champs Elysée;methode champenoise et bracelet fluo,triple sec(c),fraise qdb
+G8;13;Poison;methode champenoise et bracelet fluo,curaçao bleu,ananas,banane verte,citron vert cordial,coco qdb,grenadine Guiot
+G9;12;Sabotage;methode champenoise et bracelet fluo,orange,citron vert cordial,grenadine Guiot
+G10;12;Vanité;methode champenoise et bracelet fluo,melon(koogaie),vodka blanche,orgeat Guiot
+G11;12;Luxure;passion qdb,triple sec,methode champenoise et bracelet fluo
+G12;11;Zappe le nom;cerise,methode champenoise et bracelet fluo,citron vert cordial,cuberdon,triple sec,violette Bio
+G13;12;Dragon;banane jaune qdb,peche blanche qdb,mojito Mathieu Teisseire,methode champenoise et bracelet fluo
+G14;12;Puket;methode champenoise et bracelet fluo,vodka blanche,sucre de canne Canadou,limoncello,cuberdon
+G15;12;Amistad;methode champenoise et bracelet fluo,fraise qdb,orgeat Guiot,cafe(kaklua)
+G16;12;Lotus;methode champenoise et bracelet fluo,mangue,koogaie(liqueur aux agrumes fruitee),kiwi Guiot
+G17;13;Rockilie;methode champenoise et bracelet fluo,fanta orange zero 33cl,genievre,triple sec,vanille qdb,hibiscus qdb,grenadine Guiot
+G18;13;Tentation;fraise,methode champenoise et bracelet fluo,energy drink  25cl et fluo,vodka blanche,bacardi carta blanca(rum superior),fraise qdb,citron vert cordial,fraise Guiot,menthe fraiche facon mojito
+G19;12;Whishette;methode champenoise et bracelet fluo,citron vert cordial,koogaie(liqueur aux agrumes fruitee),rhum bresilien (cachaca pitu ),hibiscus  Monin
+G20;12;Casanova;methode champenoise et bracelet fluo,bacardi carta blanca(rum superior),vodka blanche,rose  Mathieu Teisseire,vanille  Mathieu Teisseire
+G21;13;Vampire;fraise,methode champenoise et bracelet fluo,soda Schweppes aux agrumes 0sugar 33cl et fluo,pamplemousse qdb,triple sec,genievre,tequila,cerise Guiot
+G22;15;Chubaka;methode champenoise et bracelet fluo,energy drink  25cl et fluo,coca cola zero 33cl,vodka blanche,coco qdb,tequila,triple sec,vanille  Mathieu Teisseire
+G23;13;Salade de cul tournee;fraise,methode champenoise et bracelet fluo,bacardi carta blanca(rum superior),bacardi razz,citron vert cordial,bubble gum  Mathieu Teisseire,menthe fraiche facon mojito
+G24;13;ile de Pag;methode champenoise et bracelet fluo,energy drink  25cl et fluo,passion qdb,rhum brun hispanique,bacardi carta blanca(rum superior),ananas qdb,fruits de la passion Guiot
+G25;15;Clitoris polyglotte;assortiment de confiseries,nid de barbe a papa,framboise caraibos,methode champenoise et bracelet fluo,monster Punch mixxed 50cl et bracelet fluo,bubble gum pink qdb,vodka blanche,triple sec,violette Bio
+G26;12;Les Tournaisiennes;poire Williams,methode champenoise et bracelet fluo,jack Daniel's Fire (pimente),vanille  Mathieu Teisseire,vanille qdb
+G27;15;Les dents de l'Amour;fraise,methode champenoise et bracelet fluo,limonade (sprite) 25cl et fluo,vodka blanche,bacardi carta blanca(rum superior),citron vert cordial,cerise Guiot
+G28;13;German spritz;soda water schweppes 25cl(eau pet.) & fluo,methode champenoise et bracelet fluo,saint Germain(fleur de sureau)
+H1;12;Sputnik;curaçao bleu,energy drink  25cl et fluo,tequila,vodka blanche,genievre,violette Bio
+H2;12;Thanato Girl;soda Schweppes aux agrumes 0sugar 33cl et fluo,triple sec,tutti frutti,vodka blanche,menthe blanche qdb,hibiscus  Monin
+H3;11;Barbar;vodka noire  Eristoff,energy drink  25cl et fluo,vodka blanche,triple sec,vodka rouge  Eristoff
+H3Y;25;Belgo Belge;vodka noire  Eristoff,energy drink  25cl et fluo,vodka blanche,vodka rouge  Eristoff,triple sec
+H4;11;Papaoutez;energy drink  25cl et fluo,mangue qdb,gin,vodka blanche,violette Bio
+H5;11;Chant russe;banane verte,ananas,litchis qdb,vodka blanche
+H6;11;Froid de canard;indian tonic classique 20cl,cordial citron vert,vodka blanche,menthe blanche qdb
+H7;13;Darth Nihilus;methode champenoise et bracelet fluo,energy drink  25cl et fluo,vodka blanche,triple sec,fraise qdb,violettte Guiot
+H8;11;Bilquies ;banane,ananas qdb,vodka blanche,banane jaune qdb
+H9;11;Crystalisation;pamplemousse rose,orange,ananas qdb,vodka blanche,triple sec(c),ananas Guiot
+H10;11;S.O.S cocktail;fraise qdb,orange,ananas,vodka blanche,vanille  Mathieu Teisseire
+H11;12;Cerise;energy drink  25cl et fluo,vodka blanche,genievre,banane jaune qdb,triple sec(c),koogaie(liqueur aux agrumes fruitee),cerise qdb
+H12;11;Nath.com;pamplemousse rose,vodka blanche,triple sec(c),violettte Guiot
+H13;12;Anarchy;ananas,pomme trouble bio,amaretto,gin,vodka blanche,banane verte
+H14;11;Stalingrad;banane,fraise,vodka blanche,genievre,triple sec,framboise Guiot
+H15;13;Coco Rasputin;gourmandises chocolatees facon freaky,chantilly,cafe glace 33cl,vodka blanche,coco qdb,cafe(kaklua)
+H16;11;Nain sadique;ananas,banane,coco qdb,banane jaune qdb,passion qdb,triple sec,vodka blanche
+H17;11;Tête de brique;banane,tropical multi vitamines,cordial citron vert,vodka blanche,triple sec(c),banane jaune qdb
+H18;12;Prizska;energy drink  25cl et fluo,cordial citron vert,genievre,triple sec,vodka blanche,cerise qdb,grenadine Guiot
+H19;11;Cobayiste;citron jaune,vodka blanche,triple sec,banane verte,banane jaune qdb,kiwi Guiot
+H20;11;Caipiroska;citron vert cordial,sucre de canne Canadou,vodka blanche
+H20C;11;Moscow mule;ginger beer 33cl et bracelet fluo,citron vert cordial,vodka blanche
+H21;12;Y'est la;mangue,litchis,triple sec (o),creme de coco (batida),vodka blanche,gin,fruits de la passion Guiot
+H23;11;Purple rain;litchis,pomme verte(manzana qdb),vodka blanche,violette Bio
+H24;11;Co-jito;limonade (sprite) 25cl et fluo,framboise Guiot,cordial citron vert,passion qdb,vodka rouge  Eristoff,vodka blanche,menthe fraiche facon mojito
+H24A;6;Totito;limonade (sprite) 25cl et fluo,citron vert cordial,passion qdb,vodka blanche,framboise Guiot
+H24Y;25;Scorpion;limonade (sprite) 25cl et fluo,framboise Guiot,citron vert cordial,passion qdb,vodka rouge  Eristoff,vodka blanche,menthe fraiche facon mojito
+H25;13;Historion;violette qdb,limonade (sprite) 25cl et fluo,limoncello,vodka blanche,triple sec,barbe a papa(trojka),menthe glacial Guiot
+H26;12;Ceci n est pas une pipe;citron jaune,sucre de canne Canadou,whisky blend 3ans,vodka blanche,citron vert cordial
+H27;12;Pagan;vodka rouge  Eristoff,citron jaune,triple sec,vodka blanche,miel
+H28;11;Shard;ananas,creme de coco (batida),vodka blanche,tequila,bacardi carta blanca(rum superior),vodka rouge  Eristoff,hibiscus  Monin
+H29;11;Balkan beach;fraise,limonade (sprite) 25cl et fluo,citron vert cordial,peche blanche Guiot,peche blanche qdb,triple sec,vodka blanche,vodka rouge  Eristoff
+H30;12;Buckeuze;litchis,pamplemousse rose,rose  Mathieu Teisseire,bacardi razz,vodka blanche,barbe a papa(trojka)
+H31;12;Vamp Orchidoclaste;vodka rouge  Eristoff,coca cola zero 33cl,bourbon(Jack Daniel's),tequila-gin-vodka,grenadine Guiot
+H32;25;Bernard Minet'Te;limoncello,limonade (sprite) 25cl et fluo,triple sec,vodka blanche,barbe a papa(trojka),menthe blanche qdb,violette Bio
+H33;13;Phallus;assortiment de confiseries,nid de barbe a papa,vodka noire  Eristoff,limonade (sprite) 25cl et fluo,vodka rouge  Eristoff,vodka lime(citron vert),vodka blanche,bubble gum pink qdb
+H34;13;Pepette;oasis tropical 33cl,vodka blanche,cerise qdb,coco qdb,bubble gum  Mathieu Teisseire
+H35;13;Bidasse;oasis tropical 33cl,triple sec,vodka blanche,violette Bio
+H36;30;Gamelle de l'enfer 3en 1;shooter diabolito qdb,shooter 4cl,coca cola zero 33cl,kraken rum,verre old fashioned,orange,banane jaune qdb,vodka blanche,verre gamelle
+H37;30;Gamelle pysskopath 3 en 1;menthe blanche qdb,absynthe,shooter 4cl,limonade (sprite) 25cl et fluo,rhum epice Bolivien aux feuilles de coca bio,verre old fashioned,vanille  Mathieu Teisseire,ananas,coco qdb,vodka blanche,verre gamelle
+H38;30;Gamelle à mimil 3 en 1;vodka cannabis sativa,shooter 4cl,limonade (sprite) 25cl et fluo,jack Daniel's Honey(miel),verre old fashioned,orange,peche,framboise Guiot,passion qdb,vodka blanche,verre gamelle
+H39;30;Gamelle PooPoo 3 en 1;bacardi razz,shooter 4cl,bubble gum  Mathieu Teisseire,pomme trouble bio,jack Daniel's Fire (pimente),verre old fashioned,tropical multi vitamines,violette Bio,triple sec,vodka blanche,verre gamelle
+H40;12;madeleine de Proust;ananas,vodka blanche,madeleine Routin,triple sec(c),amaretto
+H41;14;oui mais Noon, oui mais Noon;assortiment de confiseries,nid de barbe a papa,limonade (sprite) 25cl et fluo,triple sec(c),amaretto,bourbon(Jack Daniel's),madeleine Routin,vodka rouge  Eristoff
+H42;15;Mât de laine;gourmandises chocolatees facon freaky,cigarettes Russes,chantilly,café Royal Switzerland et gourmandise,amaretto,vodka blanche,noisette,madeleine Routin
+H43;12;Mes couilles Ti!;cerise qdb,pomme trouble,bacardi carta blanca(rum superior),vodka blanche,madeleine Routin
+H44;12;NallBanGer;orange,vodka blanche,banane verte,banane jaune qdb
+I1;11;Choupe;cola (coca cola 33cl),rhum brun hispanique,bacardi carta blanca(rum superior)
+I2;11;Mathias ;pamplemousse rose,triple sec (o),bacardi carta blanca(rum superior),fraise Guiot
+I3;11;Maracuja;fruits de la passion Guiot,tropical multi vitamines,cordial citron vert,passion qdb,bacardi carta blanca(rum superior)
+I4;11;Rhum Addict;tropical multi vitamines,citron vert cordial,vanille  Mathieu Teisseire,triple sec,bacardi razz,bacardi carta blanca(rum superior)
+I5;11;Macumba;ananas,tropical multi vitamines,banane jaune qdb,bacardi carta blanca(rum superior),rhum brun hispanique
+I6;11;Jack sparrow;mangue,triple sec,rhum brun hispanique,peche blanche Guiot
+I7;11;Tattoo;ananas,cordial citron vert,ananas Guiot,ananas qdb,bacardi carta blanca(rum superior)
+I8;12;Waikiki beach;tropical multi vitamines,passion qdb,triple sec,bacardi carta blanca(rum superior)
+I9;11;Requin corrompu;ananas,curaçao bleu,rhum bresilien (cachaca pitu ),bacardi carta blanca(rum superior)
+I10;11;Robinson;tropical multi vitamines,passion qdb,creme de coco (batida),bacardi carta blanca(rum superior)
+I11;12;Serenity;iced tea green25cl et bracelet fluo,cordial citron vert,sucre de canne Canadou,gingembre  Mathieu Teisseire,triple sec,rhum brun hispanique,vodka blanche,menthe fraiche facon mojito
+I12;11;Hurricane;indian tonic classique 20cl,sucre de canne Canadou,cordial citron vert,triple sec,bacardi carta blanca(rum superior)
+I13;11;Guantanamo;tropical multi vitamines,peche,cordial citron vert,ananas qdb,triple sec (o),bacardi carta blanca(rum superior)
+I14;11;Poubelle la vie ;cerise,coco qdb,banane jaune qdb,bacardi carta blanca(rum superior),vodka rouge  Eristoff,fraise Guiot
+I15;11;Hemingway;pamplemousse rose,bacardi carta blanca(rum superior),cordial citron vert,cerise qdb,cerise Guiot
+I16;11;Nikky beach;fraise,cordial citron vert,bacardi carta blanca(rum superior),ananas qdb,framboise Guiot
+I17;13;Black pearl;cola (coca cola 33cl),bourbon(Jack Daniel's),vodka noire  Eristoff,rhum bresilien (cachaca pitu ),bacardi carta blanca(rum superior),cafe(kaklua)
+I18;12;Mangaroka mango;mangue,cordial citron vert,rhum bresilien (cachaca pitu ),mangue qdb,vanille  Mathieu Teisseire
+I19;12;Litchi-colada;litchis,ananas,bacardi carta blanca(rum superior),litchis qdb,vanille  Mathieu Teisseire,coco qdb,creme de coco (batida)
+I20;13;Daytona;ginger beer 33cl et bracelet fluo,cordial citron vert,rhum brun hispanique,bacardi carta blanca(rum superior),cuberdon,vanille  Mathieu Teisseire,menthe fraiche facon mojito
+I21;11;MaÏ-taÏ revisite;kraken rum,orange,rhum 3 rivieres 50°,citron vert cordial,triple sec,orgeat Guiot
+I22;15;Ken van poupon;ginger beer 33cl et bracelet fluo,citron vert cordial,ananas qdb,piment qdb,don papa masskara rum,orgeat Guiot
+I23;11;Baie des cochons;orange,fraise,amaretto,rhum st james royal ambre,kiwi Guiot
+I24;12;Torero;ginger beer 33cl et bracelet fluo,cordial citron vert,triple sec,sangria maison et fruits frais(33cl),menthe fraiche facon mojito
+I25;13;Barbe rousse;kraken rum,ginger beer 33cl et bracelet fluo,piment qdb,citron vert cordial,menthe fraiche facon mojito
+I26;15;Raoul;triple sec,rhum epice Bolivien aux feuilles de coca bio,coca cola zero 33cl,citron vert cordial
+I27;12;Cuba franco-libre;rhum st james royal ambre,cola (coca cola 33cl),citron vert cordial,gingembre  Mathieu Teisseire,triple sec
+I28;15;imperial mojito;methode champenoise et bracelet fluo,menthe fraiche facon mojito,sucre de canne Canadou,citron vert cordial,rhum st james royal ambre
+I29;13;Bing bong;fraise,methode champenoise et bracelet fluo,energy drink  25cl et fluo,fraise qdb,rhum st james royal ambre,citron vert cordial,orgeat Guiot
+I30;11;Biblique;vodka noire  Eristoff,cranberries,coco qdb,bacardi carta blanca(rum superior),kiwi Guiot
+I31;11;Papacito;litchis,bacardi carta blanca(rum superior),bacardi razz,triple sec,citron vert cordial,violette Bio
+I32;13;Licorne des iles;assortiment de confiseries,nid de barbe a papa,rhum miel qdb,barbe a papa(trojka),orange,citron vert cordial,vodka blanche,banane jaune  Mathieu Teisseire
+I33;13;Bad gang mojito;kraken rum,ginger beer 33cl et bracelet fluo,citron vert cordial,menthe fraiche facon mojito
+I34;11;Bahamas;kraken rum,orange,ananas,coco qdb,bacardi carta blanca(rum superior),grenadine Guiot
+I34Y;25;Poisson ;kraken rum,orange,coco qdb,ananas,grenadine Guiot,bacardi carta blanca(rum superior)
+I35;11;Black Mamba ;cola (coca cola 33cl),bacardi carta blanca(rum superior),jack Daniel's Honey(miel),tequila,cafe(kaklua),caramel beurre sale  Mathieu Teisseire
+I36;12;Jamaican mojito;limonade (sprite) 25cl et fluo,vodka cannabis sativa,bacardi carta blanca(rum superior),citron vert cordial,sucre de canne Canadou,menthe fraiche facon mojito
+I37;15;Dark pina ;kraken rum,ananas,caramel beurre sale  Mathieu Teisseire,mezcal,rhum st james royal ambre
+I38;15;Tortuga;kraken rum,ginger beer 33cl et bracelet fluo,sucre de canne Canadou,miel,citron vert cordial,bourbon(Jack Daniel's)
+I39;12;Jean-jean;mangue,triple sec,citron vert cordial,bacardi carta blanca(rum superior),rhum brun hispanique
+I40;13;Kraken Colada;kraken rum,ananas,caramel beurre sale  Mathieu Teisseire,coco qdb,creme de coco (batida)
+J1;11;Mike Tyson;hibiscus qdb,ananas,litchis,tequila,bubble gum  Mathieu Teisseire
+J2;11;Métrophyle;ananas,tequila,banane jaune qdb,coco qdb,framboise qdb
+J3;12;Copacabana;ananas,coco qdb,creme de coco (batida),triple sec,banane jaune qdb,tequila,vanille  Mathieu Teisseire
+J4;12;Santa Muerte;vodka noire  Eristoff,energy drink  25cl et fluo,tequila,triple sec,peche blanche Guiot
+J5;13;Chop socky choops;assortiment de confiseries,nid de barbe a papa,limonade (sprite) 25cl et fluo,curaçao bleu,tequila,triple sec,bacardi razz,koogaie(liqueur aux agrumes fruitee),barbe a papa(trojka),cerise Guiot
+J6;11;Heisenberg;fraise,tropical multi vitamines,sucre de canne Canadou,pomme verte(manzana qdb),passion qdb,tequila,vodka blanche,vanille  Mathieu Teisseire
+J7;11;Le doigt de Satan;tropical multi vitamines,menthe blanche qdb,vodka blanche,tequila,banane jaune qdb,vanille  Mathieu Teisseire
+J8;11;Kalimba;vodka noire  Eristoff,limonade (sprite) 25cl et fluo,tequila,menthe blanche qdb,curaçao bleu
+J9;12;Goldie Roger;curaçao bleu,jack Daniel's Apple(pomme),pomme verte(manzana qdb),tequila,citron vert cordial,pomme trouble
+J10;11;Oh lala;curaçao bleu,citron jaune,cordial citron vert,sucre de canne Canadou,vodka blanche,tequila
+J11;12;Error 404;litchis,citron vert cordial,tequila,rhum miel qdb,orgeat Guiot
+J12;11;Spring break;fraise,limonade (sprite) 25cl et fluo,citron vert cordial,fraise Guiot,fraise qdb,triple sec,tequila
+J13;15;La Bifle;assortiment de confiseries,nid de barbe a papa,bracelet fluo,monster ultra Paradise 50cl et bracelet fluo,citron vert cordial,melon(koogaie),limoncello,tequila,kiwi Guiot
+J14;13;Moulaga;oasis tropical 33cl,bacardi carta blanca(rum superior),banane jaune qdb,tequila-gin-vodka,citron vert cordial,grenadine Guiot
+J15;13;Boulaga;oasis tropical 33cl,triple sec,tequila,citron vert cordial,grenadine Guiot
+J16;12;Tiger Milk;saint Germain(fleur de sureau),litchis,citron vert cordial,triple sec,tequila
+J17;15;Death Chic;assortiment de confiseries,nid de barbe a papa,limonade (sprite) 25cl et fluo,mojito Mathieu Teisseire,bacardi razz,menthe blanche qdb,vodka blanche,tequila
+K1;12;Pink lady;chantilly,grenadine Guiot,gin,citron presse
+K2;12;Gin and dream;curaçao bleu,ananas,vodka blanche,gin,citron vert cordial,ananas qdb,violettte Guiot
+K3;11;London time;orange,petillante 25cl et bracelet fluo,gin,triple sec (o),framboise qdb,framboise Guiot
+K4;11;Singapor sling's revisite;grenadine Guiot,cerise qdb,ananas,citron vert cordial,gin,mezcal,triple sec
+K5;11;Pondichery;curaçao bleu,ananas,amaretto,gin
+K7;11;Vipere;ginger beer 33cl et bracelet fluo,gin,caramel beurre sale qdb,mezcal,orgeat Guiot
+K8;11;ikitos;orange,gin,citron vert cordial,fraise qdb
+K9;11;Paradise;orange,gin,mangue qdb,piment de Cayenne Routin
+K10;11;Bouddha;ananas,vodka blanche,gin,framboise Guiot
+K11;15;Gantoise;indian tonic classique 20cl,cuberdon,gin Bombay Sapphire,hibiscus  Monin
+K11B;15;Branle-bas de combat;ginger beer 33cl et bracelet fluo,gin Bombay Bramble(fruits rouges),citron vert cordial,hibiscus  Monin,menthe fraiche facon mojito
+K11C;15;The Ultimate Tom Collins ;citron jaune,soda water schweppes 25cl(eau pet.) & fluo,sucre de canne Canadou,gin Bombay citron presse
+K11D;15;Bom-bom;limonade (sprite) 25cl et fluo,pamplemousse rose,violette Bio,gin Bombay Bramble(fruits rouges)
+K11E;15;Gin Bombay Sapphire botanique;indian tonic classique 20cl,gin Bombay Sapphire
+K11F;15;CloudY lemonade;limonade (sprite) 25cl et fluo,citron vert cordial,sucre de canne Canadou,bourbon(Jack Daniel's),gin Bombay citron presse
+K11G;15;Bramble Spritz;methode champenoise et bracelet fluo,soda water schweppes 25cl(eau pet.) & fluo,gin Bombay Bramble(fruits rouges)
+K11H;15;Zézeste-commerciale;methode champenoise et bracelet fluo,citron vert cordial,sucre de canne Canadou,gin Bombay citron presse,menthe fraiche facon mojito
+K11M;15;Bonanza;espresso lungo ou cafe glace,indian tonic classique 20cl,menthe glacial Guiot,gin Birdie kaldi (cafe meo)
+K11W;15;Adom Hit l'air;petillante 25cl et bracelet fluo,citron jaune,sucre de canne Canadou,triple sec,citron vert cordial,gin
+L1;15;Nova;gourmandises chocolatees facon freaky,chantilly,cafe glace 33cl,vanille qdb,caramel beurre sale qdb,triple sec,genievre,popcorn Routin
+L2;15;Capone;gourmandises chocolatees facon freaky,chantilly,cafe glace 33cl,creme Irish,banane jaune qdb,amaretto,bourbon(Jack Daniel's),caramel beurre sale qdb
+L3;15;James bond;gourmandises chocolatees facon freaky,chantilly,cafe glace 33cl,creme Irish,caramel beurre sale qdb,cafe(kaklua),vanille  Mathieu Teisseire
+L4;15;Sugar baby;gourmandises chocolatees facon freaky,chantilly,cafe glace 33cl,caramel beurre sale qdb,creme Irish,vodka blanche,triple sec,cafe(kaklua)
+L5;15;Ken le survivant;gourmandises chocolatees facon freaky,chantilly,cecemel (lait chocolate)20cl,triple sec,amaretto,vodka blanche,noisette
+L6;15;Barbie la morte;gourmandises chocolatees facon freaky,chantilly,cecemel (lait chocolate)20cl,ananas qdb,cafe(kaklua),genievre,creme Irish
+L7;15;Bagdad;gourmandises chocolatees facon freaky,chantilly,cafe glace 33cl,amaretto,bourbon(Jack Daniel's),caramel beurre sale qdb
+L8;15;Koweït city;gourmandises chocolatees facon freaky,chantilly,cafe glace 33cl,vodka blanche,creme Irish,cafe(kaklua)
+L9;15;Bastogne;gourmandises chocolatees facon freaky,chantilly,cafe glace 33cl,triple sec,caramel beurre sale qdb,cafe(kaklua)
+L10;15;Bruxelles;gourmandises chocolatees facon freaky,chantilly,cafe glace 33cl,whiskey irish jameson,amaretto,cafe(kaklua),triple sec,caramel beurre sale  Mathieu Teisseire
+L11;15;Pellerin;gourmandises chocolatees facon freaky,chantilly,cafe glace 33cl,vanille qdb,cafe(kaklua),amaretto,noisette
+L12;15;Boule et Bill;gourmandises chocolatees facon freaky,chantilly,lait de coco Bio 20cl,genievre,noisette,vanille qdb,orgeat Guiot
+L13;15;Wafel FACTORY;gourmandises chocolatees facon freaky,chantilly,cafe glace 33cl,gaufre,genievre,vanille qdb,caramel beurre sale qdb,orgeat Guiot
+L14;15;Fernez et Fernez Baudour;gourmandises chocolatees facon freaky,chantilly,cafe glace 33cl,vanille qdb,triple sec,whisky blend 3ans
+L15;15;Boulevard de la mort;gourmandises chocolatees facon freaky,chantilly,cafe glace 33cl,vanille qdb,banane jaune qdb,creme Irish,tequila
+L16;15;Vahine ;gourmandises chocolatees facon freaky,chantilly,cafe glace 33cl,kraken rum,creme Irish,caramel beurre sale qdb
+L17;15;Depeche mode;gourmandises chocolatees facon freaky,chantilly,cafe glace 33cl,creme Irish,vanille qdb,vodka blanche,noisette
+L18;15;Dessert;gourmandises chocolatees facon freaky,chantilly,lait de coco Bio 20cl,banane jaune qdb,creme Irish,tequila,vanille qdb,amaretto,noisette
+L19;15;Big Lebowsky;gourmandises chocolatees facon freaky,chantilly,lait de coco Bio 20cl,vodka blanche,cafe(kaklua)
+L20;15;Shazam;gourmandises chocolatees facon freaky,chantilly,cafe glace 33cl,amaretto,vodka blanche,coco qdb,banane jaune qdb,orgeat Guiot
+L21;15;Yop;confiseries,nid de barbe a papa,lait de coco Bio 20cl,passion qdb,barbe a papa(trojka),vodka blanche,fraise
+L22;15;Coconuts;confiseries,nid de barbe a papa,lait de coco Bio 20cl,grenadine Guiot,passion qdb,creme de coco (batida),coco qdb,bacardi carta blanca(rum superior)
+L23;15;Hulk et Hulkette;confiseries,nid de barbe a papa,absynthe,lait de coco Bio 20cl,amaretto,creme de coco (batida),genievre,banane,banane verte
+L24;15;Beethoven;gourmandises chocolatees facon freaky,chantilly,cecemel (lait chocolate)20cl,noisette,rhum miel qdb,gaufre,triple sec
+L25;15;Ocean encounters;gourmandises chocolatees facon freaky,chantilly,cafe glace 33cl,kraken rum,banane jaune qdb,amaretto
+L26;15;Lady GaGa;confiseries,nid de barbe a papa,lait de coco Bio 20cl,bubble gum  Mathieu Teisseire,triple sec,fraise,vodka blanche,barbe a papa(trojka)
+L27;15;Katy Perry;nid de barbe a papa,confiseries,lait de coco Bio 20cl,framboise caraibos,vanille qdb,bacardi carta blanca(rum superior),cerise Guiot,bacardi razz
+L28;15;Tonton Maxou;confiseries,nid de barbe a papa,lait de coco Bio 20cl,kiwi Guiot,pomme verte(manzana qdb),limoncello,banane verte,vodka blanche
+L29;15;Papa midnight;gourmandises chocolatees facon freaky,chantilly,cecemel (lait chocolate)20cl,popcorn Routin,bourbon(Jack Daniel's),rhum miel qdb,caramel beurre sale qdb
+L30;15;Unicorn Bitch;confiseries,nid de barbe a papa,lait de coco Bio 20cl,coco qdb,creme de coco (batida),bacardi carta blanca(rum superior),curaçao bleu
+L31;15;Smiley;confiseries,nid de barbe a papa,lait de coco Bio 20cl,framboise caraibos,vanille qdb,vodka rouge  Eristoff,jack Daniel's Fire (pimente)
+L32;15;PRISM;gourmandises chocolatees facon freaky,cecemel (lait chocolate)20cl,chantilly,triple sec,creme Irish,bourbon(Jack Daniel's),gaufre
+L33;15;Kerberos;gourmandises chocolatees facon freaky,chantilly,cecemel (lait chocolate)20cl,cafe(kaklua),caramel beurre sale qdb,genievre
+L34;15;White Polynesian;gourmandises chocolatees facon freaky,chantilly,lait de coco Bio 20cl,bacardi carta blanca(rum superior),chocolat Routin,cafe(kaklua)
+L35;15;Pognontologue;glace ferrero rocher,gourmandises chocolatees facon freaky,chantilly,cafe glace 33cl,popcorn Routin,whisky blend 3ans
+L36;15;Manusse;gourmandises chocolatees facon freaky,chantilly,cafe glace 33cl,vodka blanche,cafe(kaklua)
+L37;15;Culotte de cheval;mini magnum,gourmandises chocolatees facon freaky,chantilly,cafe glace 33cl,banane jaune qdb,vodka blanche,tequila,creme Irish,popcorn Routin
+L38;15;Goopher;glace ferrero rocher,gourmandises chocolatees facon freaky,chantilly,cafe glace 33cl,bourbon(Jack Daniel's),amaretto,creme Irish,banane jaune qdb,noisette
+L39;20;Coco charnelle;glace raffaello,gourmandises chocolatees facon freaky,chantilly,lait de coco Bio 20cl,creme de coco (batida),banane jaune qdb,banane jaune  Mathieu Teisseire,vodka blanche
+L40;15;Outsider;glace ferrero rocher,gourmandises chocolatees facon freaky,chantilly,cafe glace 33cl,creme Irish,banane jaune qdb,amaretto,bourbon(Jack Daniel's),popcorn Routin
+M1;11;Peaky Blinders;citron jaune,indian tonic classique 20cl,miel,triple sec (o),gin
+M2;15;Friends;assortiment de confiseries,nid de barbe a papa,framboise caraibos,monster Punch mixxed 50cl et bracelet fluo,triple sec,citron vert cordial,tequila
+M3;12;Raised by wolves ;violette Bio,litchis,litchis qdb,gin,creme de coco (batida),citron vert cordial,triple sec (o)
+M4;13;Tulsa king ;tropical multi vitamines,methode champenoise et bracelet fluo,passion qdb,triple sec,rhum bresilien (cachaca pitu )
+M5;12;Stranger things;violette qdb,citron jaune,triple sec,jack Daniel's Apple(pomme),miel
+M6;12;Star gates;cola (coca cola 33cl),caramel beurre sale qdb,tequila,citron vert cordial,vanille  Mathieu Teisseire
+M7;11;Fringe;cola zero(coca cola zero 33cl),citron vert cordial,coco qdb,vodka blanche,ananas qdb,orgeat Guiot
+M8;13;Big Bang theorie;assortiment de confiseries,nid de barbe a papa,passion qdb,banane jaune qdb,vodka rouge  Eristoff,vodka blanche,fraise,barbe a papa(trojka),violette Bio
+M9;11;American Gods;bacardi razz,fraise,rhum brun hispanique,citron vert cordial,orgeat Guiot
+M10;25;The boyz;creme Irish,genievre,whisky blend 3ans,amaretto,caramel beurre sale qdb,triple sec(c),orgeat Guiot
+M11;13;Twilight;curaçao bleu,orangeade 25cl et bracelet fluo,peche blanche qdb,bacardi razz,genievre,vodka blanche,vodka rouge  Eristoff
+M12;15;dark material;vodka noire  Eristoff,monster ultra Paradise 50cl et bracelet fluo,bubble gum pink qdb,vodka blanche,vodka lime(citron vert),vodka rouge  Eristoff
+M13;25;Le serpent ;assortiment de confiseries,nid de barbe a papa,curaçao bleu,monster MIXXD Punch 50cl,vodka blanche,genievre,bacardi carta blanca(rum superior),tequila,limoncello,passion qdb,ananas qdb,orgeat Guiot
+M15;15;Love, death and robots;monster Aussie(citron fresh)-50cl-et bracelet fluo,citron vert cordial,triple sec,rhum miel qdb,bacardi carta blanca(rum superior)
+M16;12;Resident alien;coca cola zero 33cl,bacardi carta blanca(rum superior),citron vert cordial,cerise Guiot
+M17;15;Silo;coca cola zero 33cl,citron vert cordial,bacardi carta blanca(rum superior),vodka blanche,gin,tequila,koogaie(liqueur aux agrumes fruitee),passion qdb,nid de barbe a papa,assortiment de confiseries
+M18;15;Hunters;limonade (sprite) 25cl et fluo,sangria maison et fruits frais(33cl),citron vert cordial,triple sec,tequila
+M19;15;Alice in Borderland ;ananas,ananas Guiot,triple sec,tequila,citron vert cordial,don papa masskara rum
+M20;15;Mandalorian;assortiment de confiseries,nid de barbe a papa,orange,monster Monarch (peche blanche) 50cl et fluo,citron vert cordial,tequila,triple sec,peche blanche qdb,vodka rouge  Eristoff
+M21;12;Gossip Girl;diabolo grenadine 33cl et bracelet fluo,citron vert cordial,triple sec,tequila,fraise Guiot
+M23;15;Loki;frisko manon(chocolat blanc,cafe,amande),gourmandises chocolatees facon freaky,chantilly,cafe glace 33cl,vanille qdb,vodka blanche,noisette
+M24;15;Gang of London;mini magnum,gourmandises chocolatees facon freaky,chantilly,cecemel (lait chocolate)20cl,bourbon(Jack Daniel's),amaretto,banane jaune qdb,caramel beurre sale qdb,creme Irish
+M25;13;invasion;absynthe 89°,framboise caraibos,diabolo grenadine 33cl et bracelet fluo,bacardi razz,vodka blanche,grenadine Guiot
+M26;15;Gen V;bacardi razz,limonade (sprite) 25cl et fluo,citron vert cordial,rhum epice Bolivien aux feuilles de coca bio
+M27;12;Murder;menthe fraiche facon mojito,violette Bio,limonade (sprite) 25cl et fluo,citron vert cordial,bacardi carta blanca(rum superior),vodka blanche
+M28;12;Game of thrones;menthe fraiche facon mojito,kraken rum,soda water schweppes 25cl(eau pet.) & fluo,citron vert cordial,sucre de canne Canadou
+M29;12;Breaking bad;kraken rum,citron vert cordial,ginger beer 33cl et bracelet fluo,cerise qdb,bacardi carta blanca(rum superior),orgeat Guiot
+M30;15;Sandman;cranberries,methode champenoise et bracelet fluo,monster Monarch (peche blanche) 50cl et fluo,tutti frutti,vodka blanche,vodka rouge  Eristoff,menthe fraiche facon mojito
+N0;12;Tournai plage;menthe fraiche facon mojito,citron vert cordial,rhum sans alcool Monin,mojito Mathieu Teisseire,fruitesse liefmans(S.A.) 25cl 0.0%
+N0A;12;Biteman et Roburn;confiseries,nid de barbe a papa,fruitesse liefmans(S.A.) 25cl 0.0%,coca cola zero 33cl,bubble gum  Mathieu Teisseire
+N0B;12;Fashion victime;confiseries,nid de barbe a papa,barbe a papa  Mathieu Teisseire,fruitesse liefmans(S.A.) 25cl 0.0%,limonade (sprite) 25cl et fluo
+N0C;12;Ducobu;assortiment de confiseries,nid de barbe a papa,sperados 0.0% S.A.(33cl),mojito Mathieu Teisseire,limonade (sprite) 25cl et fluo,citron vert cordial
+N0D;12;Spirou;assortiment de confiseries,nid de barbe a papa,sperados 0.0% S.A.(33cl),soda Schweppes aux agrumes 0sugar 33cl et fluo,citron vert cordial,bubble gum  Mathieu Teisseire
+N0E;12;Gaston Lagaffe;assortiment de confiseries,nid de barbe a papa,curaçao bleu,sperados 0.0% S.A.(33cl),limonade (sprite) 25cl et fluo,citron vert cordial
+N0F;12;Marsupio;bracelet fluo,sperados 0.0% S.A.(33cl),coca cola zero 33cl,rondelle citron vert,cerise Guiot
+N0G;12;Flipettes ;bracelet fluo,sperados 0.0% S.A.(33cl),diabolo grenadine 33cl et bracelet fluo,citron vert cordial,violette Bio
+N0H;12;Wouf-wouf;bracelet fluo,sperados 0.0% S.A.(33cl),diabolo grenadine 33cl et bracelet fluo,violette Bio,rose  Mathieu Teisseire
+N0I;12;Bonzangle;bracelet fluo,sperados 0.0% S.A.(33cl),orangeade 25cl et bracelet fluo,citron vert cordial,grenadine Guiot
+N0J;12;Lucky Luke;bracelet fluo,fruitesse liefmans(S.A.) 25cl 0.0%,coca cola zero 33cl,barbe a papa  Mathieu Teisseire,coco Monin
+N1;25;Manneken pils flambe;leffe blonde 6.6%(33cl),mixture biere flambee,sucre de canne Canadou,bacardi razz,vodka blanche
+N2;15;Dunkerque ;sperados 5.9% ( 33cl ),limonade (sprite) 25cl et fluo,citron vert cordial,triple sec(c),bacardi carta blanca(rum superior),vodka blanche,gin,tequila
+N3;15;Tatouf métouf;coca cola zero 33cl,fruitesse liefmans 25cl 4,2%,citron vert cordial,triple sec,tequila,cerise Guiot
+N4;25;Karlytos flambe;triple Karmeliet 8.4° (33cl),mixture biere flambee,cordial citron vert,vodka lime(citron vert),bacardi carta blanca(rum superior)
+N5;25;Dikkenek(biere flambee pour 2pers.);queue de charrue fruits rouges 8.7% (33cl),mixture biere flambee,cerise qdb,violettte Guiot,coco qdb,genievre
+N6;13;Sein tcho;sperados 5.9% ( 33cl ),citron vert cordial,triple sec(c),tequila
+N7;13;Sky-rock;sperados 5.9% ( 33cl ),citron jaune,cordial citron vert,sucre de canne Canadou,bourbon(Jack Daniel's),triple sec,menthe fraiche facon mojito
+N8;25;Rubicube(biere flambee pour 2pers.);queue de charrue fruits rouges 8.7% (33cl),mixture biere flambee,vodka rouge  Eristoff,barbe a papa(trojka),genievre,vodka blanche
+N9;12;Mojito beer;carlsberg pils 5%(25cl),mojito Mathieu Teisseire,cordial citron vert,havana club 3ans cuba,menthe fraiche facon mojito
+N10;12;Fruit of the loom;fruitesse liefmans 25cl 4,2%,methode champenoise et bracelet fluo,barbe a papa(trojka)
+N11;13;Docteur Xplo;carlsberg pils 5%(25cl),coca cola zero 33cl,amaretto
+N12;13;Buckeuze on the rock;fruitesse liefmans 25cl 4,2%,litchis,passion qdb,vodka blanche,vodka rouge  Eristoff,banane jaune qdb,framboise Guiot
+N13;15;Tintin en Absurdie ;sperados 5.9% ( 33cl ),orangeade 25cl et bracelet fluo,citron vert cordial,triple sec,curaçao bleu,bacardi carta blanca(rum superior),tequila-gin-vodka
+N14;15;Dark soul;leffe blonde 6.6%(33cl),energy drink  25cl et fluo,triple sec,vodka cannabis sativa,vodka rouge  Eristoff
+N15;15;Bondage  ;sperados 5.9% ( 33cl ),limonade (sprite) 25cl et fluo,citron vert cordial,cerise qdb,bacardi carta blanca(rum superior),orgeat Guiot,cerise Guiot
+N16;13;Pinkette margarita ;fraise,fruitesse liefmans 25cl 4,2%,cuberdon,citron vert cordial,triple sec,tequila
+N17;20;Tintin en Walbanie;curaçao bleu,sperados 5.9% ( 33cl ),monster Aussie(citron fresh)-50cl-et bracelet fluo,citron vert cordial,triple sec,bacardi carta blanca(rum superior),tequila-gin-vodka
+N18;13;Vache follasse;cerise,queue de charrue fruits rouges 8.7% (33cl),cerise qdb,citron vert cordial,bacardi carta blanca(rum superior),orgeat Guiot
+N19;15;Komparazar;coca cola zero 33cl,fruitesse liefmans 25cl 4,2%,bacardi carta blanca(rum superior),citron vert cordial,cerise Guiot
+N20;13;Hydromelasse;leffe blonde 6.6%(33cl),sucre de canne Canadou,rhum miel qdb,jack Daniel's Honey(miel)
+N21;13;Beach beerito;fruitesse liefmans 25cl 4,2%,limonade (sprite) 25cl et fluo,koogaie(liqueur aux agrumes fruitee),bacardi razz,vodka blanche,rose  Mathieu Teisseire,citron vert cordial,menthe fraiche facon mojito
+N22;15;Singe vert;queue de charrue fruits rouges 8.7% (33cl),fraise,banane jaune qdb,passion qdb,vodka rouge  Eristoff,vodka blanche,framboise Guiot
+N23;15;Despe Sunrise ;sperados 5.9% ( 33cl ),orange,triple sec,tequila,citron vert cordial,grenadine Guiot
+N24;13;Fulguro poing;menthe fraiche facon mojito,queue de charrue fruits rouges 8.7% (33cl),citron vert cordial,sucre de canne Canadou,bacardi carta blanca(rum superior)
+N25;13;Hyper borean;triple Karmeliet 8.4° (33cl),triple sec (o),barbe a papa(trojka),genievre,miel
+N26;13;Sex on the beer;peche blanche Guiot,peche blanche qdb,vodka rouge  Eristoff,vodka blanche,triple Karmeliet 8.4° (33cl)
+N27;14;Mafalda;assortiment de confiseries,nid de barbe a papa,fruitesse liefmans 25cl 4,2%,cuberdon
+N28;25;Silence des loups flambe;triple Karmeliet 8.4° (33cl),mixture biere flambee,koogaie(liqueur aux agrumes fruitee),genievre,hibiscus  Monin
+N29;13;Blanckenberge;nid de barbe a papa,assortiment de confiseries,leffe blonde 6.6%(33cl),banane verte,barbe a papa  Mathieu Teisseire
+N30;13;Fucking mutant N439K;triple Karmeliet 8.4° (33cl),genievre,pomme verte(manzana qdb),coco qdb,violettte Guiot
+N31;25;Plus moche la vie (biere flambee pour 2pers.);triple Karmeliet 8.4° (33cl),mixture biere flambee,bacardi carta blanca(rum superior),triple sec,barbe a papa  Mathieu Teisseire,coco qdb,koogaie(liqueur aux agrumes fruitee)
+N32;15;Demon;sperados 5.9% ( 33cl ),orangeade 25cl et bracelet fluo,jack Daniel's Honey(miel),tequila,vodka rouge  Eristoff
+N33;14;Sto ca*zo (Dante WTF);queue de charrue fruits rouges 8.7% (33cl),limonade (sprite) 25cl et fluo,citron vert cordial,tequila-gin-vodka,grenadine Guiot
+N34;15;Acapulco triple;triple Karmeliet 8.4° (33cl),oasis tropical 33cl,tequila,passion qdb,banane jaune qdb
+N35;15;Stranger jackpot;sperados 5.9% ( 33cl ),limonade (sprite) 25cl et fluo,bacardi razz,citron vert cordial,bacardi carta blanca(rum superior),vodka blanche,triple sec,tequila,framboise Guiot
+N36;15;Willy Butcher ;sperados 5.9% ( 33cl ),limonade (sprite) 25cl et fluo,bacardi razz,citron vert cordial,bacardi carta blanca(rum superior),vodka blanche,triple sec,tequila,bubble gum  Mathieu Teisseire
+N37;15;Walbanie beer;coca cola zero 33cl,triple Karmeliet 8.4° (33cl),bacardi razz,citron vert cordial,bacardi carta blanca(rum superior),vodka blanche,triple sec,tequila,cerise Guiot
+N38;13;Minions;fruitesse liefmans 25cl 4,2%,limonade (sprite) 25cl et fluo,tutti frutti,vodka blanche,vodka rouge  Eristoff
+N39;15;Poupette;queue de charrue fruits rouges 8.7% (33cl),fraise,cerise qdb,barbe a papa(trojka),vodka blanche,triple sec,bubble gum  Mathieu Teisseire
+N40;13;On se met bien;fruitesse liefmans 25cl 4,2%,citron vert cordial,cuberdon,vodka rouge  Eristoff,triple sec,vodka blanche,menthe fraiche facon mojito
+N41;15;La bagarre ;sperados 5.9% ( 33cl ),curaçao bleu,limonade (sprite) 25cl et fluo,citron vert cordial,triple sec,bacardi carta blanca(rum superior),tequila-gin-vodka
+N42;12;Scoubidou;queue de charrue fruits rouges 8.7% (33cl),coca cola zero 33cl,cerise Guiot
+N43;15;Splattering ;fruitesse liefmans 25cl 4,2%,limonade (sprite) 25cl et fluo,fraise,fraise qdb,fraise Guiot,citron vert cordial,triple sec,tequila
+N44;13;it From Bit ;fruitesse liefmans 25cl 4,2%,limonade (sprite) 25cl et fluo,citron vert cordial,triple sec,vodka rouge  Eristoff,vodka blanche,peche blanche qdb,peche blanche Guiot
+N45;15;Tournai l abeille;sperados 5.9% ( 33cl ),limonade (sprite) 25cl et fluo,citron vert cordial,triple sec,jack Daniel's Honey(miel)
+N46;15;Dieu du vent;sperados 5.9% ( 33cl ),citron vert cordial,limonade (sprite) 25cl et fluo,triple sec,jack Daniel's Apple(pomme)
+N47;13;Kiss from Belgium;bracelet fluo,fruitesse liefmans 25cl 4,2%,citron vert cordial,sucre de canne Canadou,bacardi carta blanca(rum superior),menthe fraiche facon mojito
+N48;13;Lynchburg beerade;carlsberg pils 5%(25cl),limonade (sprite) 25cl et fluo,citron vert cordial,jack Daniel's Honey(miel),miel
+N49;14;isis beer ;bracelet fluo,fruitesse liefmans 25cl 4,2%,coca cola zero 33cl,citron vert cordial,bacardi carta blanca(rum superior),vodka blanche,triple sec,barbe a papa  Mathieu Teisseire,coco Monin
+O1;15;irish demi litre;paille bamboo,gourmandises chocolatees facon freaky,chantilly,espresso lungo ou cafe glace,sucre de canne Canadou,whisky blend 3ans
+O1G;25;irish au litre;gourmandises chocolatees facon freaky,chantilly,espresso lungo ou cafe glace,sucre de canne Canadou,whisky blend 3ans
+O1M;15;Jameson irsih coffee old school;paille bamboo,chantilly,espresso lungo ou cafe glace,whiskey irish jameson,sucre crystal s2
+O2;15;italian coffee;paille bamboo,gourmandises chocolatees facon freaky,chantilly,espresso lungo ou cafe glace,sucre de canne Canadou,amaretto
+O4;15;Mexican coffee;paille bamboo,gourmandises chocolatees facon freaky,cafe glace 33cl,chantilly,sucre de canne Canadou,cafe(kaklua),tequila
+O5;15;Amsterdam coffee;paille bamboo,chantilly,espresso lungo ou cafe glace,sucre de canne Canadou,vodka blanche,vodka cannabis sativa
+O6;15;Jamaican coffee;paille bamboo,gourmandises chocolatees facon freaky,chantilly,espresso lungo ou cafe glace,sucre de canne Canadou,bacardi carta blanca(rum superior),ananas qdb
+O7;15;Tournai coffee;gourmandises chocolatees facon freaky,chantilly,espresso lungo ou cafe glace,sucre de canne Canadou,triple sec,vodka blanche
+O8;15;Belgium coffee;paille bamboo,gourmandises chocolatees facon freaky,chantilly,espresso lungo ou cafe glace,sucre de canne Canadou,genievre,creme Irish
+O9;25;Quai des bananes coffee;paille bamboo,chantilly,espresso lungo ou cafe glace,creme Irish,genievre,whisky blend 3ans,amaretto,caramel beurre sale qdb,triple sec(c),orgeat Guiot
+O10;15;Chocobailey's;paille bamboo,gourmandises chocolatees facon freaky,chantilly,cecemel (lait chocolate)20cl,creme Irish
+O11;15;Atomic nounours;paille bamboo,coco qdb,gingembre  Mathieu Teisseire,kiwi Guiot,triple sec,rhum bresilien (cachaca pitu ),bacardi carta blanca(rum superior),vodka blanche,gin,tequila
+O12;15;Sugar Moon;paille bamboo,gourmandises chocolatees facon freaky,chantilly,espresso lungo ou cafe glace,caramel beurre sale  Mathieu Teisseire,noisette,jack Daniel's Apple(pomme)
+O13;15;Chaud devant flambe;confiseries,paille bamboo,sucre de canne Canadou,cordial citron vert,litchis qdb,mangue qdb,bacardi carta blanca(rum superior)
+O14;15;Fracasseur;confiseries,paille bamboo,pomme verte(manzana qdb),sucre de canne Canadou,cordial citron vert,menthe blanche qdb,genievre,tequila
+O15;15;Pirates Coffee;paille bamboo,gourmandises chocolatees facon freaky,chantilly,espresso lungo ou cafe glace,creme Irish,cafe(kaklua),kraken rum,noisette
+O16;15;Canipull;paille bamboo,chantilly,espresso lungo ou cafe glace,whiskey irish jameson
+O17;15;Ricain coffee;paille bamboo,gourmandises chocolatees facon freaky,chantilly,espresso lungo ou cafe glace,sucre de canne Canadou,bourbon(Jack Daniel's)
+O18;15;Caramel coffee;paille bamboo,gourmandises chocolatees facon freaky,chantilly,espresso lungo ou cafe glace,sucre de canne Canadou,whisky blend 3ans,caramel beurre sale qdb
+O19;15;Duke togo;paille bamboo,gourmandises chocolatees facon freaky,chantilly,espresso lungo ou cafe glace,tequila,triple sec,rhum bresilien (cachaca pitu ),orgeat Guiot
+O20;15;Vieille morrue;paille bamboo,gourmandises chocolatees facon freaky,chantilly,espresso lungo ou cafe glace,bailey's authentique,sucre de canne Canadou
+O22;15;Honey coffee;paille bamboo,gourmandises chocolatees facon freaky,chantilly,espresso lungo ou cafe glace,sucre de canne Canadou,jack Daniel's Honey(miel)
+O23;15;Golgo 13;paille bamboo,gourmandises chocolatees facon freaky,chantilly,espresso lungo ou cafe glace,triple sec,rhum bresilien (cachaca pitu ),cafe(kaklua),noisette
+O24;15;Bachibouzouk coffee;paille bamboo,gourmandises chocolatees facon freaky,chantilly,espresso lungo ou cafe glace,sucre de canne Canadou,kraken rum
+O25;15;Princesse coffee;paille bamboo,gourmandises chocolatees facon freaky,chantilly,espresso lungo ou cafe glace,creme Irish,jack Daniel's Honey(miel),jack Daniel's Fire (pimente)
+O26;15;Shazz coffee;paille bamboo,chantilly,espresso lungo ou cafe glace,bourbon(Jack Daniel's),cafe(kaklua)
+O27;15;Waffel coffee;paille bamboo,chantilly,gourmandises chocolatees facon freaky,espresso lungo ou cafe glace,sucre de canne Canadou,vodka blanche,gaufre
+O28;15;Geek coffee;paille bamboo,gourmandises chocolatees facon freaky,chantilly,espresso lungo ou cafe glace,sucre de canne Canadou,pop corn qdb,vanille qdb,whisky blend 3ans
+O29;15;Brazilian coffee;paille bamboo,gourmandises chocolatees facon freaky,chantilly,espresso lungo ou cafe glace,sucre de canne Canadou,rhum bresilien (cachaca pitu )
+O30;15;Cuban coffee;paille bamboo,gourmandises chocolatees facon freaky,chantilly,espresso lungo ou cafe glace,sucre roux non raffine,triple sec,bacardi carta blanca(rum superior)
+O31;15;African coffee;paille bamboo,gourmandises chocolatees facon freaky,chantilly,espresso lungo ou cafe glace,bacardi carta blanca(rum superior),cafe(kaklua),chocolat Routin
+O32;15;Arrached coffee;paille bamboo,gourmandises chocolatees facon freaky,chantilly,triple sec,cafe glace 33cl
+P1;25;Elle a touche mon popol;assortiment de confiseries,nid de barbe a papa,monster MIXXD Punch 50cl,triple sec,banane jaune qdb,passion qdb,vodka lime(citron vert),bacardi carta blanca(rum superior),cerise Guiot
+P2;11;Stalacbite;banane,vodka rouge  Eristoff,bacardi carta blanca(rum superior),bubble gum pink qdb,bubble gum  Mathieu Teisseire
+P3;15;The cailloux bye Joey;assortiment de confiseries,nid de barbe a papa,curaçao bleu,monster ultra Rosa (50cl) et fluo,citron vert cordial,litchis qdb,pomme verte(manzana qdb),vodka blanche,violette Bio
+P4;15;Je ne crois plus aux fees;assortiment de confiseries,nid de barbe a papa,methode champenoise et bracelet fluo,monster ultra Rosa (50cl) et fluo,pamplemousse qdb,vodka blanche
+P5;13;ça sent le sapin;limonade (sprite) 25cl et fluo,citron vert cordial,ananas qdb,bourbon(Jack Daniel's),bacardi carta blanca(rum superior),sucre de canne Canadou,menthe fraiche facon mojito
+P6;11;Vas chercher le poney;ananas,koogaie(liqueur aux agrumes fruitee),coco qdb,tequila-gin-vodka,violettte Guiot
+P7;11;Malou, nichon;limonade (sprite) 25cl et fluo,passion qdb,rose qdb,vodka blanche,cerise Guiot
+P8;12;Parle à ma main;orange,bourbon(Jack Daniel's),cordial citron vert
+P9;13;Tape dans le fond je ne suis pas ta mère;ginger beer 33cl et bracelet fluo,cordial citron vert,ananas qdb,triple sec,vodka blanche,menthe fraiche facon mojito
+P10;11;C'est pour rire gamin;peche,citron vert cordial,vodka blanche,triple sec,mangue qdb,litchis  Mathieu Teisseire
+P11;12;Coup du cerf;pomme trouble bio,framboise Guiot,jagermiester,jack Daniel's Fire (pimente),vanille qdb
+P12;11;Redresseur de zizi;fraise,vanille qdb,triple sec,bacardi carta blanca(rum superior),gingembre  Mathieu Teisseire
+P13;13;Cassoss-ophile;assortiment de confiseries,nid de barbe a papa,curaçao bleu,limonade (sprite) 25cl et fluo,passion qdb,barbe a papa(trojka),vodka blanche,citron vert cordial,ananas qdb,ananas Guiot
+P14;11;Papoy;curaçao bleu,limonade (sprite) 25cl et fluo,bubble gum pink qdb,vodka blanche,vodka lime(citron vert),vodka rouge  Eristoff
+P15;15;Petit sarcastix;confiseries,nid de barbe a papa,lait de coco Bio 20cl,vanille  Mathieu Teisseire,coco qdb,creme de coco (batida),vodka blanche,tequila
+P16;15;Alain posteur;confiseries,nid de barbe a papa,fristi (lait fraise)20cl,vanille  Mathieu Teisseire,coco qdb,creme de coco (batida),bacardi carta blanca(rum superior),vodka blanche
+P17;13;Saperlipopette;litchis,passion qdb,banane jaune qdb,vodka rouge  Eristoff,vodka blanche,framboise Guiot
+P18;11;Si deux doigts passent, tout passe ;mangue,creme de coco (batida),triple sec,vodka blanche,rhum miel qdb,citron vert cordial,vanille qdb,vanille  Mathieu Teisseire
+P19;13;Missionaire et la fessee;jack Daniel's Fire (pimente),framboise caraibos,coco qdb,triple sec,bacardi carta blanca(rum superior),hibiscus  Monin
+P20;11;itanimulli;pomme trouble,amaretto,vodka blanche,jack Daniel's Fire (pimente)
+P21;11;Smeerlap;ananas,rose  Mathieu Teisseire,vanille qdb,bacardi carta blanca(rum superior),cerise qdb,creme de coco (batida)
+P22;13;Hotvordoom;gourmandises chocolatees facon freaky,chantilly,cecemel (lait chocolate)20cl,vodka blanche,cafe(kaklua),vanille qdb,vanille  Mathieu Teisseire
+P23;15;inarinla;assortiment de confiseries,nid de barbe a papa,mangue,monster Fiesta mango 50cl et bracelet fluo,hibiscus qdb,vodka blanche,citron vert cordial,framboise Guiot
+P24;15;Connasse va;assortiment de confiseries,nid de barbe a papa,fraise,monster MIXXD Punch 50cl,bacardi carta blanca(rum superior),barbe a papa(trojka),coco qdb,barbe a papa  Mathieu Teisseire
+P24Z;15;ConnarO virus ;methode champenoise et bracelet fluo,ginger energy (gingembre) 50cl et bracelet fluo,mangue qdb,triple sec,limoncello,vodka blanche,bacardi carta blanca(rum superior),genievre,kiwi Guiot
+P25;13;Repeat after to me;gourmandises chocolatees facon freaky,chantilly,cecemel (lait chocolate)20cl,vodka blanche,vanille qdb,cafe(kaklua),creme Irish
+P26;15;D.T.G.;nid de barbe a papa,monster ultra Paradise 50cl et bracelet fluo,ananas qdb,coco qdb,rhum brun hispanique,vanille  Mathieu Teisseire
+P27;12;Tchote nenette;tropical multi vitamines,peche blanche Guiot,citron vert cordial,vodka rouge  Eristoff,triple sec,tequila
+P28;15;Kinda1kibronche tin;assortiment de confiseries,nid de barbe a papa,framboise caraibos,monster MIXXD Punch 50cl,vodka blanche,passion qdb,vodka rouge  Eristoff,banane jaune qdb,framboise Guiot
+P29;11;Dokidoki ( chamade en japonais);assortiment de confiseries,nid de barbe a papa,orange,cerise qdb,barbe a papa(trojka),gin,tequila,litchis  Mathieu Teisseire
+P30;15;D.T.C.;assortiment de confiseries,nid de barbe a papa,monster Punch mixxed 50cl et bracelet fluo,amaretto,jack Daniel's Fire (pimente),rhum st james royal ambre,hibiscus  Monin
+P31;15;Parlez moi d'Amour ;assortiment de confiseries,nid de barbe a papa,framboise caraibos,monster MIXXD Punch 50cl,vodka blanche,triple sec,hibiscus qdb,hibiscus  Monin
+P32;13;Dites moi des choses tendres ;ginger beer 33cl et bracelet fluo,bacardi carta blanca(rum superior),ananas qdb,triple sec,citron vert cordial,cerise Guiot
+P33;25;WTF;assortiment de confiseries,nid de barbe a papa,cranberries,monster MIXXD Punch 50cl,passion qdb,ananas qdb,citron vert cordial,triple sec,bacardi carta blanca(rum superior),tequila-gin-vodka
+P34;12;Vaxxin;pomme trouble,citron vert cordial,vodka blanche,gin,jack Daniel's Fire (pimente),jack Daniel's Honey(miel),mangue Guiot
+P35;15;Bohemian club;kinder bueno,chantilly,lait de coco Bio 20cl,bacardi carta blanca(rum superior),bourbon(Jack Daniel's),amaretto,banane jaune qdb,creme de coco (batida),gaufre,pop corn qdb
+P36;15;Fleur de toi;assortiment de confiseries,nid de barbe a papa,fraise,vodka rouge  Eristoff,methode champenoise et bracelet fluo,monster Fiesta mango 50cl et bracelet fluo,vodka blanche,triple sec,banane verte,banane jaune qdb,kiwi Guiot
+P37;11;Mignotitude;pamplemousse rose,passion qdb,ananas qdb,litchis qdb,genievre
+P38;25;Jabs;assortiment de confiseries,nid de barbe a papa,fraise,limonade (sprite) 25cl et fluo,barbe a papa(trojka),triple sec,peche blanche qdb,bacardi carta blanca(rum superior),genievre,curaçao bleu
+P39;11;Tata YoYo;vodka rouge  Eristoff,mangue,triple sec,vodka blanche,tequila,coco qdb
+P40;15;Boogaloo;monster Punch mixxed 50cl et bracelet fluo,bacardi razz,citron vert cordial,bacardi carta blanca(rum superior),cerise qdb,orgeat Guiot
+P41;13;Mutant vison y453f;gourmandises chocolatees facon freaky,chantilly,cafe glace 33cl,vanille qdb,tequila,creme Irish
+P42;13;Zotra;ginger beer 33cl et bracelet fluo,citron vert cordial,pomme verte(manzana qdb),jack Daniel's Honey(miel),menthe fraiche facon mojito
+P44;12;Sephiroth;litchis,mangue qdb,jack Daniel's Apple(pomme),violette Bio
+P45;12;Leprechaun;piment qdb,limonade (sprite) 25cl et fluo,genievre,jack Daniel's Apple(pomme),bubble gum  Mathieu Teisseire
+P46;12;Gestapo;cola (coca cola 33cl),jack Daniel's Honey(miel),tequila,citron vert cordial,orgeat Guiot
+P47;15;Monster Bellini;assortiment de confiseries,nid de barbe a papa,methode champenoise et bracelet fluo,monster Monarch (peche blanche) 50cl et fluo,peche blanche Guiot,peche blanche qdb,vodka blanche
+P48;15;MaGnium;mini magnum,gourmandises chocolatees facon freaky,chantilly,cecemel (lait chocolate)20cl,vodka blanche,chocolat Routin,vanille qdb,noisette
+P49;13;Gouter avec la nenette d une autre sur un baton;curaçao bleu,mangue,citron vert cordial,triple sec,rhum bresilien (cachaca pitu ),tequila,framboise Guiot
+Q1;11;Lille;orange,genievre,pamplemousse qdb,vanille  Mathieu Teisseire
+Q2;11;Kaboul;iced tea green25cl et bracelet fluo,triple sec(c),vodka lime(citron vert),piment de Cayenne Routin
+Q3;15;Reims;absynthe 89°,methode champenoise et bracelet fluo,energy drink  25cl et fluo,triple sec,vodka cannabis sativa,rose  Mathieu Teisseire
+Q5;12;Bangladesh;fraise qdb,tropical multi vitamines,tequila,limoncello,orgeat Guiot
+Q6;11;Bogota;orange,vodka blanche,pamplemousse qdb,banane verte,banane jaune  Mathieu Teisseire
+Q7;15;Bibiteros dans sa gourde zizi;citron jaune,limoncello,citron vert cordial,triple sec,tequila
+Q8;13;Abhidjan;curaçao bleu,methode champenoise et bracelet fluo,limonade (sprite) 25cl et fluo,vodka blanche,koogaie(liqueur aux agrumes fruitee),vodka rouge  Eristoff
+Q9;11;Babylone;energy drink  25cl et fluo,vodka blanche,genievre,framboise qdb
+Q10;11;Dien bien phu;piment de Cayenne Routin,pomme trouble,vodka blanche,rose qdb
+Q11;11;Bangkok;limonade (sprite) 25cl et fluo,bacardi carta blanca(rum superior),vodka rouge  Eristoff,citron vert cordial,grenadine Guiot
+Q12;11;Marly gomont;ananas,banane,rhum brun hispanique,banane jaune qdb,orgeat Guiot
+Q13;11;Bodrum;banane,orange,tequila,pamplemousse qdb,melon(koogaie)
+Q14;11;Mururoa;fraise,limonade (sprite) 25cl et fluo,genievre,menthe blanche qdb,fraise Guiot
+Q15;13;Tchernobyl;absynthe,fanta citron frappe 33cl,banane verte,triple sec
+Q16;12;Geneve;limonade (sprite) 25cl et fluo,rhum miel qdb,menthe blanche qdb,gin Birdie kaldi (cafe meo)
+Q17;13;Atlantide;curaçao bleu,ginger beer 33cl et bracelet fluo,vodka blanche,tequila
+Q18;11;St tropez;peche,fraise,vodka lime(citron vert),cordial citron vert,koogaie(liqueur aux agrumes fruitee),ananas qdb,tequila,framboise Guiot
+Q19;13;Haxan city;gourmandises chocolatees facon freaky,chantilly,cafe glace 33cl,bourbon(Jack Daniel's),noisette,banane jaune qdb,tequila-gin-vodka
+Q20;11;Amsterdam;fraise,poire Williams,genievre,vodka blanche,ananas qdb,banane jaune qdb,piment de Cayenne Routin
+Q21;11;Los Angeles;fraise qdb,tropical multi vitamines,vodka blanche,vanille qdb,vanille  Mathieu Teisseire
+Q22;11;Hong Kong;ananas,banane jaune qdb,creme de coco (batida),triple sec(c),vanille  Mathieu Teisseire
+Q23;11;Ibiza;limonade (sprite) 25cl et fluo,vodka blanche,triple sec,rose qdb,hibiscus  Monin
+Q24;11;Bollywood;iced tea green25cl et bracelet fluo,vodka lime(citron vert),mangue qdb,tequila,hibiscus  Monin
+Q25;13;Berlin;vodka noire  Eristoff,methode champenoise et bracelet fluo,orangeade 25cl et bracelet fluo,fraise,triple sec,genievre,vanille qdb,hibiscus qdb
+Q26;15;Malaga;fraise,methode champenoise et bracelet fluo,fanta citron frappe 33cl,bacardi razz,genievre,tequila,fraise qdb,melon(koogaie),hibiscus  Monin
+Q27;13;Luxbourg ville;assortiment de confiseries,nid de barbe a papa,fraise,methode champenoise et bracelet fluo,energy drink  25cl et fluo,barbe a papa(trojka),genievre,vanille qdb,vodka noire  Eristoff
+Q28;13;Rosas;assortiment de confiseries,nid de barbe a papa,orange,barbe a papa(trojka),bacardi carta blanca(rum superior),pomme verte(manzana qdb),cordial citron vert,grenadine Guiot
+Q29;15;Durbuy;gourmandises chocolatees facon freaky,chantilly,caramel beurre sale qdb,noisette,creme Irish,vodka blanche
+Q30;11;Shanghai;citron jaune,orange,gin,peche blanche qdb,banane verte
+Q31;13;Toronto by qdb Lille;framboise qdb,ananas,energy drink  25cl et fluo,caramel beurre sale qdb,bourbon(Jack Daniel's),citron vert cordial,sucre de canne Canadou,menthe fraiche facon mojito
+R1;11;Trash attitude;fraise,genievre,vodka blanche,rose qdb,vanille  Mathieu Teisseire
+R2;15;Klass a Dallas attitude ;assortiment de confiseries,nid de barbe a papa,curaçao bleu,monster Monarch (peche blanche) 50cl et fluo,vodka blanche,bacardi razz,menthe blanche qdb,citron vert cordial,hibiscus qdb,violette Bio
+R3;12;Love attitude;framboise caraibos,cerise qdb,tequila,triple sec,grenadine Guiot
+R4;12;Lolesk attitude;piment qdb,peche,ananas,rhum bresilien (cachaca pitu ),mangue qdb
+R5;11;Beware attitude;piment qdb,ananas,mangue qdb,creme de coco (batida),vanille qdb
+R6;12;Travel attitude;mangue,tequila,triple sec,pamplemousse qdb
+R7;15;Kaotik attitude;assortiment de confiseries,nid de barbe a papa,tropical multi vitamines,monster Monarch (peche blanche) 50cl et fluo,passion qdb,koogaie(liqueur aux agrumes fruitee),vodka blanche,bacardi carta blanca(rum superior),coco qdb,triple sec,kiwi Guiot
+R8;11;Bea attitude;ananas,pomme verte(manzana qdb),bacardi carta blanca(rum superior),amaretto,orgeat Guiot
+R9;11;Garce attitude;vodka rouge  Eristoff,energy drink  25cl et fluo,vodka blanche,triple sec,ananas qdb
+R10;12;69 Attitude;absynthe,energy drink  25cl et fluo,vodka rouge  Eristoff
+R11;12;Mode off attitude ;absynthe,cola zero(coca cola zero 33cl),limoncello,tequila,cordial citron vert,cerise qdb
+R12;13;Sex attitude;fraise,methode champenoise et bracelet fluo,energy drink  25cl et fluo,cordial citron vert,fraise Guiot,vodka blanche,passion qdb,ananas qdb,menthe fraiche facon mojito
+R13;11;Suicide attitude;indian tonic classique 20cl,genievre,koogaie(liqueur aux agrumes fruitee),menthe blanche qdb,rose qdb
+R14;13;Karma sutra attitude;gourmandises chocolatees facon freaky,chantilly,cafe glace 33cl,tequila,vodka blanche,cafe(kaklua),banane jaune qdb,creme de coco (batida),creme Irish
+R15;11;Rock and Roll attitude;bracelet fluo,limonade (sprite) 25cl et fluo,citron vert cordial,melon Guiot,vodka blanche,koogaie(liqueur aux agrumes fruitee),triple sec
+R16;15;Clubber attitude;assortiment de confiseries,nid de barbe a papa,menthe fraiche facon mojito,fraise,vodka rouge  Eristoff,methode champenoise et bracelet fluo,energy drink  25cl et fluo,bacardi razz,vodka blanche,cordial citron vert,barbe a papa  Mathieu Teisseire
+R17;11;Belgo attitude;vodka noire  Eristoff,energy drink  25cl et fluo,tequila,hibiscus qdb
+R18;11;QDB attitude on top;fraise,cordial citron vert,bacardi carta blanca(rum superior),vanille qdb,vodka blanche
+R19;11;Emouvant attitude;tropical multi vitamines,coco qdb,amaretto,vodka blanche,violette Bio
+R20;13;Porn attitude ;assortiment de confiseries,nid de barbe a papa,hibiscus qdb,ananas,litchis qdb,triple sec,vodka blanche,barbe a papa(trojka),rose  Mathieu Teisseire
+R21;12;Cobaye attitude;litchis,bacardi razz,vodka lime(citron vert),rhum bresilien (cachaca pitu ),fraise qdb
+R22;15;5 contre 1 attitude ;methode champenoise et bracelet fluo,monster Monarch (peche blanche) 50cl et fluo,bubble gum pink qdb,vodka blanche,triple sec,bacardi razz,violette Bio
+R23;15;Pandalette attitude ;methode champenoise et bracelet fluo,monster Monarch (peche blanche) 50cl et fluo,barbe a papa(trojka),koogaie(liqueur aux agrumes fruitee),banane jaune qdb,citron vert cordial,havana club 3ans cuba,cerise Guiot
+S1;13;Darth Tyranus;soda Schweppes aux agrumes 0sugar 33cl et fluo,methode champenoise et bracelet fluo,vodka blanche,triple sec(c),litchis qdb,passion qdb,rose  Mathieu Teisseire
+S2;13;C-3po;methode champenoise et bracelet fluo,orangeade 25cl et bracelet fluo,triple sec,bacardi carta blanca(rum superior),vodka blanche,passion qdb,peche blanche Guiot
+S3;13;Windu;methode champenoise et bracelet fluo,energy drink  25cl et fluo,banane jaune qdb,passion qdb,rhum brun hispanique,bacardi carta blanca(rum superior),ananas Guiot
+S4;13;Jar jar binks;mangue,methode champenoise et bracelet fluo,limonade (sprite) 25cl et fluo,tequila,vodka lime(citron vert),pomme verte(manzana qdb),mangue qdb
+S5;13;Boba fett;methode champenoise et bracelet fluo,soda Schweppes aux agrumes 0sugar 33cl et fluo,triple sec,vodka blanche,vodka rouge  Eristoff,bubble gum  Mathieu Teisseire
+S6;13;Lama;methode champenoise et bracelet fluo,energy drink  25cl et fluo,bacardi carta blanca(rum superior),triple sec,vodka blanche,vanille  Mathieu Teisseire,rose  Mathieu Teisseire
+S7;13;Leia;methode champenoise et bracelet fluo,energy drink  25cl et fluo,triple sec,mangue qdb,vodka blanche,bubble gum  Mathieu Teisseire
+S8;13;Capitaine phasma;methode champenoise et bracelet fluo,energy drink  25cl et fluo,vodka blanche,pomme verte(manzana qdb),litchis qdb,violette Bio
+S9;13;Yoda;methode champenoise et bracelet fluo,energy drink  25cl et fluo,tequila,coco qdb,ananas qdb,banane verte,kiwi Guiot
+S10;15;Maz kanata;assortiment de confiseries,nid de barbe a papa,fraise,methode champenoise et bracelet fluo,energy drink  25cl et fluo,bacardi carta blanca(rum superior),bacardi razz,vodka rouge  Eristoff,barbe a papa  Mathieu Teisseire,citron vert cordial,menthe fraiche facon mojito
+S11;13;Kylo ren;methode champenoise et bracelet fluo,energy drink  25cl et fluo,fraise qdb,fraise Guiot,passion qdb,vodka blanche
+S12;15;Clone war;assortiment de confiseries,nid de barbe a papa,fraise,methode champenoise et bracelet fluo,limonade (sprite) 25cl et fluo,bacardi carta blanca(rum superior),tequila,bacardi razz,vanille qdb,barbe a papa  Mathieu Teisseire
+S13;15;Jabba le Hutt;methode champenoise et bracelet fluo,energy drink  25cl et fluo,citron vert cordial,triple sec,bacardi carta blanca(rum superior),tequila-gin-vodka,cerise Guiot
+S14;15;Padawan;fraise,methode champenoise et bracelet fluo,fanta citron frappe 33cl,peche blanche qdb,limoncello,tequila,banane jaune qdb,coco Monin
+S15;25;R.I.P. princesse Leia;litchis,bacardi carta blanca(rum superior),tequila,vodka blanche,triple sec(c),limoncello,pomme verte(manzana qdb),violette Bio
+S16;15;Salvatore Dali;methode champenoise et bracelet fluo,fanta orange zero 33cl,passion qdb,vodka rouge  Eristoff,vodka blanche,citron vert cordial,peche blanche Guiot,menthe fraiche facon mojito
+S17;13;Grogu;framboise caraibos,energy drink  25cl et fluo,methode champenoise et bracelet fluo,tequila,bacardi razz,triple sec,vodka lime(citron vert),banane jaune qdb,kiwi Guiot
+T1;11;Biohazard;banane verte,orange,bacardi carta blanca(rum superior),triple sec,grenadine Guiot
+T2;11;Constancia;fraise,bacardi carta blanca(rum superior),coco qdb,mangue qdb
+T3;11;Doudou;cola (coca cola 33cl),caramel beurre sale qdb,amaretto,whisky blend 3ans
+T4;11;Dariouska;iced tea green25cl et bracelet fluo,vodka blanche,triple sec(c),rose qdb
+T5;11;Taratata;orange,vodka blanche,triple sec(c),amaretto,orgeat Guiot
+T6;11;izma;cola (coca cola 33cl),cordial citron vert,bacardi carta blanca(rum superior),cerise qdb,rose  Mathieu Teisseire
+T7;11;Chippa munka;soda Schweppes aux agrumes 0sugar 33cl et fluo,passion qdb,pomme verte(manzana qdb),bacardi carta blanca(rum superior),rose  Mathieu Teisseire
+T8;12;Florby;fraise,framboise caraibos,tequila,ananas qdb,banane jaune qdb,triple sec,bubble gum  Mathieu Teisseire
+T9;15;L'antre de Davy Jones ;vodka noire  Eristoff,ginger energy (gingembre) 50cl et bracelet fluo,triple sec,jack Daniel's Fire (pimente),whisky blend 3ans
+T10;11;Zoovage ;banane,koogaie(liqueur aux agrumes fruitee),vodka blanche,vanille qdb,creme de coco (batida),framboise qdb
+T11;11;Antiride;limonade (sprite) 25cl et fluo,melon(koogaie),vodka blanche,pamplemousse qdb,triple sec (o)
+T12;13;i love boobs ;methode champenoise et bracelet fluo,energy drink  25cl et fluo,mangue qdb,coco qdb,passion qdb,triple sec,ananas Guiot
+T13;11;Boris le hachoir;fraise,energy drink  25cl et fluo,cerise qdb,tequila,limoncello,triple sec,citron vert cordial,sucre de canne Canadou
+T14;13;Docteur Wasabi;vodka noire  Eristoff,methode champenoise et bracelet fluo,energy drink  25cl et fluo,fraise qdb,cerise Guiot,vodka blanche,banane jaune qdb
+T15;11;Luffy;fraise,banane,triple sec,banane jaune qdb,creme de coco (batida),orgeat Guiot
+T16;11;Rrrrrrrrrrrrrr;orangeade 25cl et bracelet fluo,triple sec,genievre,bacardi razz,fraise qdb,banane jaune  Mathieu Teisseire
+T17;15;La part des anges ;fraise,banane jaune  Mathieu Teisseire,barbe a papa(trojka),passion qdb,citron vert cordial,don papa masskara rum
+T18;11;Nounoune slap;cerise qdb,koogaie(liqueur aux agrumes fruitee),orgeat Guiot,vodka blanche,creme de coco (batida)
+T19;11;Flamant rose;peche,pamplemousse rose,creme de coco (batida),coco qdb,vodka blanche,rose  Mathieu Teisseire
+T20;13;Van Gogh mojito;absynthe,limonade (sprite) 25cl et fluo,triple sec,genievre,cordial citron vert,menthe fraiche facon mojito
+T21;12;Woody Allen;limonade (sprite) 25cl et fluo,vodka blanche,pomme verte(manzana qdb),citron vert cordial,popcorn Routin,menthe fraiche facon mojito
+T22;11;Trinosphie;cola (coca cola 33cl),bourbon(Jack Daniel's),amaretto,vodka blanche,banane jaune qdb,coco qdb,pop corn qdb
+T23;12;Paintball;cola zero(coca cola zero 33cl),rhum bresilien (cachaca pitu ),triple sec,genievre,vodka lime(citron vert),limoncello,framboise Guiot
+T24;11;Gazelle;tropical multi vitamines,ananas,bacardi carta blanca(rum superior),creme de coco (batida),vanille qdb,ananas qdb,fraise Guiot
+T26;13;Druide;pomme trouble,jack Daniel's Fire (pimente),caramel beurre sale qdb,vanille  Mathieu Teisseire
+T27;13;Ours Samplus;ananas,gaufre,triple sec,jack Daniel's Honey(miel),nougat
+T28;15;Gland cerebral;assortiment de confiseries,nid de barbe a papa,vodka noire  Eristoff,monster ultra Rosa (50cl) et fluo,citron vert cordial,vodka blanche,menthe blanche qdb,bubble gum pink qdb
+T29;13;Khazare;tropical multi vitamines,banane,bacardi razz,triple sec,koogaie(liqueur aux agrumes fruitee),vodka blanche,ananas Guiot
+T30;25;Mother fucker;assortiment de confiseries,nid de barbe a papa,vodka noire  Eristoff,vodka blanche,bacardi carta blanca(rum superior),triple sec,vanille qdb,tequila,barbe a papa  Mathieu Teisseire
+T31;25;Picouze;vodka noire  Eristoff,genievre,bacardi carta blanca(rum superior),vodka blanche,vodka rouge  Eristoff,passion qdb,pomme verte(manzana qdb),mojito Mathieu Teisseire
+T33;25;Arsh Del tauro;curaçao bleu,orange,banane verte,genievre,limoncello,triple sec(c),ananas,vodka blanche,gin,tequila,fraise Guiot
+T34;13;iphone plus mouffles;methode champenoise et bracelet fluo,energy drink  25cl et fluo,vodka blanche,pomme verte(manzana qdb),banane verte,pomme verte Guiot
+T35;15;ZinG;assortiment de confiseries,nid de barbe a papa,litchis,monster ultra Rosa (50cl) et fluo,banane jaune qdb,bacardi razz,menthe blanche qdb,vodka blanche,citron vert cordial,rose  Mathieu Teisseire,menthe fraiche facon mojito
+T36;15;Mr Grey;assortiment de confiseries,nid de barbe a papa,barbe a papa(trojka),fraise,methode champenoise et bracelet fluo,energy drink  25cl et fluo,bacardi carta blanca(rum superior),vodka blanche,tequila,bacardi razz,peche blanche Guiot
+T37;12;Hirsute;tropical multi vitamines,fanta orange zero 33cl,pomme verte(manzana qdb),vodka blanche,triple sec,citron vert cordial,violette Bio,menthe fraiche facon mojito
+T38;11;Collapsonaute;curaçao bleu,limonade (sprite) 25cl et fluo,bacardi carta blanca(rum superior),coco qdb,ananas qdb,orgeat Guiot
+T39;15;Chaude patate;assortiment de confiseries,nid de barbe a papa,methode champenoise et bracelet fluo,monster Monarch (peche blanche) 50cl et fluo,vodka blanche,gin,tequila,banane jaune qdb,passion qdb
+T40;12;Dissident;tropical multi vitamines,citron vert cordial,triple sec,bacardi carta blanca(rum superior),piment de Cayenne Routin
+T41;11;Bondage dog;miel,citron vert cordial,triple sec,tequila
+T42;12;Spawn et s'paunette;shooter jagermeister,citron vert cordial,triple sec,tequila
+T44;13;On s'acheve;bracelet fluo,absynthe,limonade (sprite) 25cl et fluo,citron vert cordial,triple sec
+T45;15;Vortex;vodka noire  Eristoff,monster Monarch (peche blanche) 50cl et fluo,cerise qdb,vodka blanche,triple sec,banane verte,banane jaune qdb,kiwi Guiot
+T46;11;Lady Boyz;limonade (sprite) 25cl et fluo,piment qdb,fraise Guiot,citron vert cordial,vodka blanche
+T47;15;Moque Danoff;monster ultra Rosa (50cl) et fluo,barbe a papa(trojka),citron vert cordial,triple sec,tequila,barbe a papa  Mathieu Teisseire
+T48;11;Humpa Lumpa;absynthe 89°,vodka blanche,limonade (sprite) 25cl et fluo,menthe blanche qdb
+T49;11;Natuurlijk;ananas,limonade (sprite) 25cl et fluo,ananas qdb,vodka blanche,ananas Guiot
+T50;11;Mama JoJo;curaçao bleu,schweppes agrumes zero 33cl,citron vert cordial,triple sec,bacardi carta blanca(rum superior),tequila-gin-vodka
+T51;13;Coptail;banane verte,methode champenoise et bracelet fluo,energy drink  25cl et fluo,passion qdb,tequila-gin-vodka,curaçao bleu
+T52;15;Bite au vent ;curaçao bleu,methode champenoise et bracelet fluo,monster ultra Paradise 50cl et bracelet fluo,bacardi carta blanca(rum superior),triple sec,tequila-gin-vodka
+U1;13;Barjot;absynthe,energy drink  25cl et fluo,mezcal,rhum bresilien (cachaca pitu ),piment qdb
+U2;12;La mutante;absynthe 89°,banane,banane verte,menthe blanche qdb,vodka lime(citron vert),kiwi Guiot
+U3;13;Venom;absynthe 89°,vodka rouge  Eristoff,energy drink  25cl et fluo,tequila,triple sec,bubble gum  Mathieu Teisseire
+U5;12;Lundi perdu;assortiment de confiseries,nid de barbe a papa,banane verte,orange,gin,barbe a papa(trojka),violettte Guiot
+U6;11;Satanas;vodka rouge  Eristoff,limonade (sprite) 25cl et fluo,barbe a papa(trojka),koogaie(liqueur aux agrumes fruitee),vodka blanche,kiwi Guiot
+U7;12;Alabama hot pocket;vodka noire  Eristoff,limonade (sprite) 25cl et fluo,cuberdon,citron vert cordial,bacardi carta blanca(rum superior)
+U8;11;Malaise Vaggal;framboise caraibos,vodka blanche,cuberdon,limoncello,triple sec,rose  Mathieu Teisseire
+U9;15;SkoumOon;assortiment de confiseries,nid de barbe a papa,curaçao bleu,methode champenoise et bracelet fluo,monster Punch mixxed 50cl et bracelet fluo,banane jaune qdb,cuberdon,tequila-gin-vodka
+U10;11;Clara Morgane;curaçao bleu,energy drink  25cl et fluo,vodka blanche,triple sec,cuberdon
+U11;11;The blue oyster;bracelet fluo,curaçao bleu,diabolo grenadine 33cl et bracelet fluo,citron vert cordial,bacardi razz,triple sec,vodka blanche
+U12;11;El Coco;bracelet fluo,curaçao bleu,limonade (sprite) 25cl et fluo,citron vert cordial,bacardi razz,triple sec,vodka blanche
+U13;15;Noel de battard;bracelet fluo,curaçao bleu,methode champenoise et bracelet fluo,monster ultra Paradise 50cl et bracelet fluo,citron vert cordial,bacardi razz,triple sec,vodka blanche
+U14;13;Tortue geniale;bracelet fluo,vodka rouge  Eristoff,limonade (sprite) 25cl et fluo,bacardi razz,bacardi carta blanca(rum superior),vodka blanche,gin,tequila,bubble gum pink qdb,bubble gum  Mathieu Teisseire
+U15;13;Maman du sifflo;vodka noire  Eristoff,methode champenoise et bracelet fluo,diabolo grenadine 33cl et bracelet fluo,vodka blanche,triple sec,banane verte,banane jaune qdb,kiwi Guiot
+U16;11;Komodo;bracelet fluo,cuberdon,diabolo grenadine 33cl et bracelet fluo,vodka blanche,passion qdb,vodka rouge  Eristoff,banane jaune qdb,framboise Guiot,menthe fraiche facon mojito
+U17;13;Epidemie de vaginite;curaçao bleu,limonade (sprite) 25cl et fluo,citron vert cordial,bacardi carta blanca(rum superior),triple sec,tequila
+U18;15;Snoop dog;curaçao bleu,ananas,passion qdb,coco qdb,vodka cannabis sativa
+U21;15;Quokka;bonbon sexuel,nid de barbe a papa,assortiment de confiseries,limonade (sprite) 25cl et fluo,barbe a papa(trojka),bacardi razz,framboise Guiot
+U22;15;Anis-cotine;absynthe 89°,soda Schweppes aux agrumes 0sugar 33cl et fluo,energy drink  25cl et fluo,citron vert cordial
+U24;15;3 de Qi;nid de barbe a papa,assortiment de confiseries,limonade (sprite) 25cl et fluo,vodka cannabis sativa,don papa baroko rum,menthe blanche qdb
+U25;15;Gangsta;limonade (sprite) 25cl et fluo,bacardi razz,triple sec,vodka cannabis sativa,menthe blanche qdb
+V1;15;Gland cosmique;ginger beer 33cl et bracelet fluo,vanille qdb,citron vert cordial,don papa baroko rum,orgeat Guiot,menthe fraiche facon mojito
+V2;13;Ma femme s'appelle Maurice;assortiment de confiseries,nid de barbe a papa,litchis,diabolo grenadine 33cl et bracelet fluo,barbe a papa(trojka),cuberdon,genievre,rose  Mathieu Teisseire
+V3;12;Je crois que j ai vue un gros zizi;citron jaune,sucre de canne Canadou,limonade (sprite) 25cl et fluo,triple sec
+V4;11;Baratin;tropical multi vitamines,vodka blanche,amaretto,fraise qdb,grenadine Guiot
+V5;12;Rien merci;vodka rouge  Eristoff,fraise qdb,energy drink  25cl et fluo,limoncello,gin,mangue Guiot
+V6;13;Tit battard;nid de barbe a papa,assortiment de confiseries,fraise,creme de coco (batida),hibiscus qdb,banane jaune qdb,tequila,barbe a papa  Mathieu Teisseire
+V7;13;Minautore;assortiment de confiseries,nid de barbe a papa,fraise,methode champenoise et bracelet fluo,barbe a papa(trojka),tequila,vanille  Mathieu Teisseire
+V8;13;Zoulou;vodka noire  Eristoff,energy drink  25cl et fluo,methode champenoise et bracelet fluo,gin,genievre,vodka rouge  Eristoff,triple sec,hibiscus  Monin
+V9;12;Chichi;ananas,vanille  Mathieu Teisseire,coco qdb,creme de coco (batida),vodka blanche
+V10;13;Team phallus;bacardi carta blanca(rum superior),diabolo grenadine 33cl et bracelet fluo,citron vert cordial,cerise Guiot,orgeat Guiot
+V11;15;Let s Go Brandon;gourmandises chocolatees facon freaky,chantilly,cafe glace 33cl,kraken rum,jack Daniel's Honey(miel),noisette,cookie Monin
+V12;13;Pigme morfale;mojito Mathieu Teisseire,rose qdb,methode champenoise et bracelet fluo,fraise
+V13;11;Lotus croufy;orangeade 25cl et bracelet fluo,tequila,pamplemousse qdb,vodka blanche,hibiscus  Monin
+V14;13;Princesse colada forever;cerise qdb,ananas,vanille  Mathieu Teisseire,rhum bresilien (cachaca pitu ),bacardi razz,coco qdb,creme de coco (batida)
+V15;11;Tiroir ananas;ananas,energy drink  25cl et fluo,bacardi razz,vodka rouge  Eristoff,vodka blanche
+V16;11;Picoti picota;banane,banane jaune qdb,vanille qdb,vodka blanche,cordial citron vert,orgeat Guiot
+V17;11;Kaa;litchis,poire Williams,gin,vanille qdb,pamplemousse qdb,bubble gum  Mathieu Teisseire
+V18;11;Baghera;limonade (sprite) 25cl et fluo,triple sec,vodka lime(citron vert),pamplemousse qdb,mojito Mathieu Teisseire
+V19;12;Marsupilami;methode champenoise et bracelet fluo,pamplemousse qdb,limoncello,violette Bio
+V20;13;Spider cochon;curaçao bleu,diabolo grenadine 33cl et bracelet fluo,vodka blanche,triple sec,bubble gum pink qdb,vodka rouge  Eristoff
+V21;12;Pinpin;poire Williams,vodka rouge  Eristoff,vodka blanche,vanille qdb,pamplemousse qdb,fraise Guiot
+V22;13;Caliméro;fraise,methode champenoise et bracelet fluo,orangeade 25cl et bracelet fluo,triple sec,rose qdb,pamplemousse qdb,vanille  Mathieu Teisseire
+V23;15;Maracasse;tropical multi vitamines,don papa baroko rum,citron vert cordial,framboise Guiot,triple sec(c)
+V23C;11;Tonton ma-nathans;sucre de canne Canadou,citron vert frais,don papa masskara rum
+V24;15;Ladies night;gourmandises chocolatees facon freaky,chantilly,lait de coco Bio 20cl,kraken rum,caramel beurre sale qdb,vanille qdb,noisette
+V25;13;Cunningham;curaçao bleu,limonade (sprite) 25cl et fluo,citron vert cordial,triple sec,bacardi carta blanca(rum superior),vodka blanche,gin,tequila
+V26;12;Le faible des fèves;peche,ananas,bacardi carta blanca(rum superior),whisky blend 3ans,grenadine Guiot
+V27;13;Burn out;limonade (sprite) 25cl et fluo,citron vert cordial,triple sec,pomme verte(manzana qdb),rhum brun hispanique,jack Daniel's Fire (pimente),menthe fraiche facon mojito
+V28;12;Magritto;petillante 25cl et bracelet fluo,pomme verte(manzana qdb),triple sec,genievre,pomme verte Guiot,citron vert cordial,menthe fraiche facon mojito
+V29;12;Qui cherche embrouille goute a mes couilles;banane,vanille qdb,vodka lime(citron vert),tequila,bacardi carta blanca(rum superior),coco Monin
+V30;15;Perle du Nord;assortiment de confiseries,nid de barbe a papa,litchis,methode champenoise et bracelet fluo,monster ultra Rosa (50cl) et fluo,citron vert cordial,passion qdb,triple sec,piment qdb,tequila,banane jaune  Mathieu Teisseire,menthe fraiche facon mojito
+V31;12;Zizi coptère;iced tea green25cl et bracelet fluo,banane jaune qdb,jack Daniel's Fire (pimente),bacardi razz,vodka rouge  Eristoff,vodka lime(citron vert),mojito Mathieu Teisseire
+V32;15;Sodomie anecdotique;assortiment de confiseries,nid de barbe a papa,vodka noire  Eristoff,diabolo grenadine 33cl et bracelet fluo,vodka rouge  Eristoff,vodka lime(citron vert),vodka blanche,bubble gum pink qdb
+V33;15;Herogasm;assortiment de confiseries,nid de barbe a papa,soda Schweppes aux agrumes 0sugar 33cl et fluo,tequila,triple sec,bacardi razz,barbe a papa(trojka),hibiscus  Monin
+V34;15;You fuck my wife;assortiment de confiseries,nid de barbe a papa,absynthe,methode champenoise et bracelet fluo,soda Schweppes aux agrumes 0sugar 33cl et fluo,passion qdb,genievre,vodka blanche,barbe a papa(trojka),triple sec,hibiscus  Monin
+V35;13;Juste un doigt;assortiment de confiseries,nid de barbe a papa,vodka rouge  Eristoff,limonade (sprite) 25cl et fluo,vodka blanche,jack Daniel's Fire (pimente),barbe a papa(trojka),grenadine Guiot
+V36;13;Micro penis;limonade (sprite) 25cl et fluo,citron vert cordial,bacardi razz,jack Daniel's Fire (pimente)
+V37;12;Hellsing;orange,peche,genievre,jack Daniel's Fire (pimente)
+V38;13;Jusqu ici tout va bien;vodka noire  Eristoff,soda Schweppes aux agrumes 0sugar 33cl et fluo,cerise qdb,jack Daniel's Fire (pimente),cerise Guiot
+V39;13;Voodoo people;absynthe,limonade (sprite) 25cl et fluo,jack Daniel's Fire (pimente),menthe blanche qdb
+V40;15;Dragon des iles;ginger beer 33cl et bracelet fluo,jack Daniel's Honey(miel),bacardi carta blanca(rum superior),jack Daniel's Fire (pimente)
+V41;15;Valkyrie;assortiment de confiseries,nid de barbe a papa,curaçao bleu,monster MIXXD Punch 50cl,methode champenoise et bracelet fluo,vodka lime(citron vert),vodka blanche,genievre,rose  Mathieu Teisseire
+V42;15;Velvet Valentine;confiseries,nid de barbe a papa,lait de coco Bio 20cl,vodka blanche,barbe a papa(trojka),triple sec(c),creme Irish,cerise qdb,fraise Guiot,cookie Monin
+V43;13;Jean lupin;gourmandises chocolatees facon freaky,chantilly,cafe glace 33cl,cookie Monin,vanille qdb,vodka blanche,amaretto,creme de coco (batida),creme Irish
+V44;15;Gaelle d enfer ;assortiment de confiseries,nid de barbe a papa,litchis,monster Punch mixxed 50cl et bracelet fluo,bacardi razz,rose qdb,bacardi carta blanca(rum superior),passion qdb,triple sec,hibiscus  Monin
+V45;15;Bananas fight club;assortiment de confiseries,nid de barbe a papa,monster Fiesta mango 50cl et bracelet fluo,tropical multi vitamines,bacardi razz,koogaie(liqueur aux agrumes fruitee),bacardi carta blanca(rum superior),banane jaune qdb,triple sec,orgeat Guiot
+V46;13;Wake up show NRJ;gourmandises chocolatees facon freaky,chantilly,cafe glace 33cl,rhum brun hispanique,popcorn Routin
+V47;11;Magie debloque;poire Williams,pomme verte(manzana qdb),triple sec,vodka blanche,vanille qdb
+V48;11;Corona-pero;banane,bacardi carta blanca(rum superior),genievre,coco qdb,ananas qdb,cerise Guiot
+V49;20;Fais moi un truc baby;assortiment de confiseries,nid de barbe a papa,litchis,monster ultra Rosa (50cl) et fluo,bacardi razz,bacardi carta blanca(rum superior),rose  Mathieu Teisseire
+V50;13;Medic-calineur;assortiment de confiseries,nid de barbe a papa,ananas,triple sec (o),barbe a papa(trojka),genievre,miel
+V51;12;Brexit;citron jaune,iced tea green25cl et bracelet fluo,jack Daniel's Fire (pimente),vanille qdb,hibiscus  Monin,gin
+V52;13;Ld photo8;pomme trouble,jack Daniel's Honey(miel),jack Daniel's Fire (pimente),gingembre  Mathieu Teisseire
+V53;12;Ripoublik bananiere;ananas,bacardi carta blanca(rum superior),genievre,gaufre,banane jaune qdb,triple sec,cookie Monin
+V54;15;Ovni;assortiment de confiseries,nid de barbe a papa,absynthe,monster ultra Paradise 50cl et bracelet fluo,vodka blanche,menthe blanche qdb,banane verte
+V55;15;Baizuo (begueule en chinois);banane,litchis,koogaie(liqueur aux agrumes fruitee),bacardi razz,vodka lime(citron vert),rhum bresilien (cachaca pitu ),creme de coco (batida),fraise qdb
+V56;15;Acidule decoiffe;assortiment de confiseries,nid de barbe a papa,methode champenoise et bracelet fluo,monster Monarch (peche blanche) 50cl et fluo,bacardi carta blanca(rum superior),vodka blanche,citron vert cordial,fraise qdb,fraise Guiot,menthe fraiche facon mojito
+V57;15;Bouh!;assortiment de confiseries,nid de barbe a papa,monster ultra Paradise 50cl et bracelet fluo,citron vert cordial,triple sec,bacardi carta blanca(rum superior),cerise Guiot,menthe fraiche facon mojito
+V58;13;Saint Nicolas et tralala;pomme trouble,ginger beer 33cl et bracelet fluo,noisette,bourbon(Jack Daniel's),caramel beurre sale qdb
+V59;15;Bubulle;assortiment de confiseries,nid de barbe a papa,fraise,monster ultra Paradise 50cl et bracelet fluo,fraise qdb,triple sec,tequila,citron vert cordial,piment de Cayenne Routin
+V60;15;Revoz;assortiment de confiseries,nid de barbe a papa,vodka rouge  Eristoff,monster ultra Paradise 50cl et bracelet fluo,coco Monin,genievre,pomme verte(manzana qdb),limoncello,tequila
+V61;15;Rhodium;kraken rum,ginger energy (gingembre) 50cl et bracelet fluo,citron vert cordial,ananas qdb,rhum miel qdb,piment de Cayenne Routin
+V62;15;Le pere fouettard Ramone;vodka noire  Eristoff,monster Fiesta mango 50cl et bracelet fluo,ananas qdb,bacardi carta blanca(rum superior),passion qdb,bacardi razz,vodka rouge  Eristoff
+V63;15;Ouragan Matthew;assortiment de confiseries,nid de barbe a papa,tropical multi vitamines,monster ultra Paradise 50cl et bracelet fluo,piment qdb,jack Daniel's Honey(miel),rhum miel qdb,mangue Guiot
+V64;12;Harpocrates;litchis,framboise caraibos,rose qdb,miel,triple sec,rhum bresilien (cachaca pitu ),bacardi razz
+V65;11;Pandemonium;vodka noire  Eristoff,limonade (sprite) 25cl et fluo,curaçao bleu,vodka blanche,vodka rouge  Eristoff,vodka lime(citron vert),bubble gum  Mathieu Teisseire
+V66;15;Dionysose;ananas,monster Monarch (peche blanche) 50cl et fluo,ananas qdb,bacardi carta blanca(rum superior),citron vert cordial,ananas Guiot
+V67;12;Vril;orangeade 25cl et bracelet fluo,bourbon(Jack Daniel's),triple sec,mangue qdb,hibiscus  Monin
+V68;12;Titi twister;fraise,passion qdb,vodka blanche,bubble gum pink qdb,triple sec,hibiscus  Monin
+V69;12;Lovercraft;limonade (sprite) 25cl et fluo,vodka blanche,bacardi razz,bubble gum pink qdb,mojito Mathieu Teisseire
+V70;12;Laya veille;vodka noire  Eristoff,orange,bubble gum pink qdb,vodka blanche,tequila,triple sec,curaçao bleu
+V71;12;La bourle;cranberries,peche blanche Guiot,citron vert cordial,peche blanche qdb,bacardi carta blanca(rum superior),gin,vodka blanche
+X1;12;Ugc villeneuve d'Ascq;curaçao bleu,pomme trouble,bacardi carta blanca(rum superior),vodka blanche,gingembre  Mathieu Teisseire
+X2;11;Oh lounge koksijde;litchis,pomme verte(manzana qdb),gin,vodka blanche,tequila,gingembre  Mathieu Teisseire
+X3;12;Chez Mia kooiegem;fraise,methode champenoise et bracelet fluo,hibiscus  Monin,triple sec,bacardi carta blanca(rum superior)
+X4;13;Tomorrowland;methode champenoise et bracelet fluo,energy drink  25cl et fluo,limoncello,tequila,hibiscus  Monin,vodka blanche
+X5;15;Arche de Noé tournai;ginger energy (gingembre) 50cl et bracelet fluo,triple sec,cordial citron vert,rhum brun hispanique,vodka blanche,rhum bresilien (cachaca pitu )
+X6;11;Walibi wavre;pomme trouble,vanille qdb,vodka blanche,gin,tequila,gingembre  Mathieu Teisseire
+X7;11;Euro disney land Paris;litchis,pomme trouble bio,vodka blanche,gin,tequila,vanille  Mathieu Teisseire
+X8;12;Hard rock bruxelles;absynthe 89°,ananas,vodka blanche,creme de coco (batida),tequila
+X9;11;ice-kimo;mangue,bacardi carta blanca(rum superior),triple sec(c),peche blanche qdb,peche blanche Guiot
+X10;12;Cafe de Paris Tournai;orange,cranberries,cordial citron vert,litchis qdb,vodka rouge  Eristoff,tequila
+X11;12;Lunch express mouscron;ananas,cranberries,limoncello,vodka lime(citron vert),tequila,hibiscus  Monin
+X12;12;Chez jannine Huy;cerise,limonade (sprite) 25cl et fluo,litchis qdb,coco qdb,triple sec,tequila,menthe glacial Guiot
+X13;12;La motte brulee;tropical multi vitamines,vanille qdb,bacardi carta blanca(rum superior),vodka rouge  Eristoff,piment de Cayenne Routin
+X14;11;Jules bar Kortrijk;indian tonic classique 20cl,gin,triple sec,piment qdb,cordial citron vert,menthe fraiche facon mojito
+X15;11;Billau Paintball ;framboise caraibos,litchis,vodka blanche,genievre,cuberdon,violette Bio
+X16;15;Health nutrition;bubble gum pink qdb,cerise,methode champenoise et bracelet fluo,monster ultra Paradise 50cl et bracelet fluo,vodka blanche,triple sec,ananas qdb,banane verte,kiwi Guiot
+X17;13;Gedeon gym vaulx;framboise caraibos,diabolo grenadine 33cl et bracelet fluo,vodka blanche,bacardi razz,cuberdon,hibiscus  Monin
+X18;11;L'oasis de Panne;curaçao bleu,tropical multi vitamines,ananas,vodka blanche,hibiscus qdb,rose  Mathieu Teisseire
+X19;12;Le petit château Mouscron;methode champenoise et bracelet fluo,vodka blanche,vanille qdb,hibiscus qdb,rose  Mathieu Teisseire
+X20;13;Hanky panky;banane verte,ananas,banane,banane jaune qdb,triple sec,vodka blanche,creme de coco (batida),vanille  Mathieu Teisseire,coco qdb
+X21;11;Den atelier luxembourg ville;vodka noire  Eristoff,limonade (sprite) 25cl et fluo,bacardi razz,gin,rose  Mathieu Teisseire
+X22;12;Secret de polichinelle;framboise caraibos,coco qdb,peche blanche qdb,bacardi carta blanca(rum superior),litchis  Mathieu Teisseire
+X23;11;Dolce vita kortrijk;cola (coca cola 33cl),genievre,vanille qdb,peche blanche qdb,hibiscus  Monin
+X24;12;Bar à tapa's bruxelles;banane,ananas,tequila,caramel beurre sale qdb,noisette,vanille  Mathieu Teisseire
+X25;15;Lacet bleu Tournai;methode champenoise et bracelet fluo,monster Punch mixxed 50cl et bracelet fluo,genievre,triple sec,cuberdon,hibiscus  Monin
+X26;12;Jardin de Majorelle Tournai;orange,triple sec,limoncello,bacardi carta blanca(rum superior),vodka rouge  Eristoff,grenadine Guiot
+X27;12;Café d'Anvers;vodka noire  Eristoff,ananas,genievre,vodka blanche,banane jaune qdb,banane verte,banane jaune  Mathieu Teisseire
+X28;12;Coco Bongo;fanta citron frappe 33cl,banane jaune qdb,citron vert cordial,triple sec,tequila,kiwi Guiot
+X30;12;Cafedraal Brugge;absynthe 89°,curaçao bleu,cranberries,coco qdb,vodka blanche,vodka rouge  Eristoff
+X31;15;Enoteca Gaurain rx;assortiment de confiseries,nid de barbe a papa,curaçao bleu,methode champenoise et bracelet fluo,monster Punch mixxed 50cl et bracelet fluo,gin,limoncello,triple sec
+X32;15;Smart mojito royal;methode champenoise et bracelet fluo,bacardi carta blanca(rum superior),monster ultra Paradise 50cl et bracelet fluo,menthe fraiche facon mojito,citron vert cordial,mojito Mathieu Teisseire
+X33;12;Resto R à Roubaix;methode champenoise et bracelet fluo,triple sec,pamplemousse qdb,hibiscus  Monin
+X34;11;Mon Liban Tournai;ananas,banane verte,cordial citron vert,ananas qdb,vodka blanche,fruits de la passion Guiot
+X35;13;chez lulu;gourmandises chocolatees facon freaky,chantilly,cafe glace 33cl,caramel beurre sale qdb,vodka blanche,triple sec(c),amaretto,cafe(kaklua)
+X37;13;Happy jack mons;absynthe 89°,soda Schweppes aux agrumes 0sugar 33cl et fluo,bacardi razz,vodka blanche,vodka lime(citron vert),vodka rouge  Eristoff
+X38;11;Burger Queen;curaçao bleu,citron jaune,orange,fraise qdb,tequila,orgeat Guiot
+X39;12;Zoo club y fiesta;vodka rouge  Eristoff,tropical multi vitamines,passion qdb,fraise qdb,banane jaune qdb,tequila,orgeat Guiot
+X40;11;Cafe theatre;ananas,vanille qdb,cafe(kaklua),noisette,bacardi carta blanca(rum superior),amaretto,coco qdb
+X41;13;Lotus bleu;assortiment de confiseries,nid de barbe a papa,fraise,methode champenoise et bracelet fluo,vodka blanche,triple sec,barbe a papa(trojka),violette Bio
+X42;11;Secret bar;limonade (sprite) 25cl et fluo,limoncello,pomme verte(manzana qdb),pamplemousse qdb,citron vert cordial,hibiscus  Monin
+X43;13;icona;curaçao bleu,methode champenoise et bracelet fluo,energy drink  25cl et fluo,fraise qdb,vodka blanche,triple sec(c),vanille  Mathieu Teisseire
+X44;11;chez louise;mangue,poire Williams,banane jaune qdb,jack Daniel's Fire (pimente),tequila,rhum miel qdb
+X45;12;Carnavo;ananas,banane jaune qdb,vanille qdb,vodka lime(citron vert),tequila,citron vert cordial,curaçao bleu
+X46;12;L'ilot sucre ;litchis,limonade (sprite) 25cl et fluo,bacardi razz,gin Bombay Sapphire,citron vert cordial,hibiscus  Monin
+Y1;25;Yeti;curaçao bleu,limonade (sprite) 25cl et fluo,bacardi razz,triple sec,genievre,tequila,vodka blanche,menthe glacial Guiot
+Y2;25;Ausweis;menthe blanche qdb,curaçao bleu,creme de coco (batida),vodka blanche,gin,genievre,limoncello
+Y3;25;Vecna;framboise caraibos,framboise qdb,passion qdb,creme de coco (batida),banane jaune qdb,vodka blanche,triple sec(c),coco qdb,gingembre  Mathieu Teisseire
+Y4;25;Fée verte;absynthe,ananas,ananas qdb,genievre,vodka blanche,triple sec,citron vert cordial,vodka rouge  Eristoff
+Y5;15;Mikflik;assortiment de confiseries,nid de barbe a papa,koogaie(liqueur aux agrumes fruitee),methode champenoise et bracelet fluo,monster Fiesta mango 50cl et bracelet fluo,tequila,triple sec,citron vert cordial
+Y6;11;Die antwoord;limonade (sprite) 25cl et fluo,triple sec,peche blanche qdb,vanille qdb,cordial citron vert,vodka rouge  Eristoff
+Y6Y;25;Verseau;limonade (sprite) 25cl et fluo,triple sec,vanille qdb,peche blanche qdb,citron vert cordial,vodka rouge  Eristoff
+Y7;13;Potonamie ;cranberries,vodka rouge  Eristoff,limonade (sprite) 25cl et fluo,banane jaune qdb,bacardi razz,menthe blanche qdb,vodka blanche,citron vert cordial,rose  Mathieu Teisseire
+Y8;11;Massive attack;ananas,limonade (sprite) 25cl et fluo,vodka blanche,fraise qdb
+Y9;12;Prodigy;cola zero(coca cola zero 33cl),vodka blanche,gin,triple sec,cordial citron vert,fraise qdb
+Y10;13;Maïte boobs;methode champenoise et bracelet fluo,energy drink  25cl et fluo,bacardi razz,bacardi carta blanca(rum superior),triple sec(c),violette Bio
+Y11;15;Celimax;assortiment de confiseries,nid de barbe a papa,fraise,methode champenoise et bracelet fluo,monster Punch mixxed 50cl et bracelet fluo,triple sec,bacardi razz,bacardi carta blanca(rum superior),citron vert cordial,fraise Guiot,menthe fraiche facon mojito
+Y12;11;Blue baboon;curaçao bleu,tropical multi vitamines,creme de coco (batida),bacardi carta blanca(rum superior)
+Y13;12;Minouch;energy drink  25cl et fluo,cerise qdb,vodka blanche,grenadine Guiot
+Y14;12;Moignon;vodka rouge  Eristoff,hibiscus qdb,orangeade 25cl et bracelet fluo,vodka blanche,triple sec,citron vert cordial,vanille  Mathieu Teisseire
+Y15;11;Yvancito;fraise,bacardi carta blanca(rum superior),cordial citron vert,banane jaune qdb,fraise Guiot,menthe fraiche facon mojito
+Y16;12;Nana;fraise,orange,bacardi razz,vodka rouge  Eristoff,tequila,vanille qdb,grenadine Guiot
+Y17;12;Ambassadrice;ananas,creme de coco (batida),coco qdb,genievre,vanille  Mathieu Teisseire
+Y18;11;Guillaume;banane,vodka blanche,vanille qdb,banane jaune qdb,fraise Guiot
+Y19;12;Jim morrison;mangue,soda Schweppes aux agrumes 0sugar 33cl et fluo,vodka rouge  Eristoff,tequila,vodka blanche,vanille qdb,ananas Guiot
+Y20;11;Kazebul;ananas,banane,triple sec,vodka blanche,amaretto,coco Monin
+Y21;13;Mega up load;vodka noire  Eristoff,methode champenoise et bracelet fluo,energy drink  25cl et fluo,bacardi razz,vodka blanche,triple sec,peche blanche Guiot
+Y22;15;Chatouille moi le nenuphar;methode champenoise et bracelet fluo,monster ultra Rosa (50cl) et fluo,passion qdb,pomme verte(manzana qdb),tequila,bacardi razz,violette Bio
+Y23;13;Astro turf;banane verte,methode champenoise et bracelet fluo,limonade (sprite) 25cl et fluo,vodka blanche,triple sec,vodka lime(citron vert),kiwi Guiot
+Y24;12;Horribulus;absynthe,limonade (sprite) 25cl et fluo,menthe blanche qdb,vodka blanche,sucre de canne Canadou,menthe fraiche facon mojito
+Y25;15;Divorce;assortiment de confiseries,nid de barbe a papa,soda Schweppes aux agrumes 0sugar 33cl et fluo,koogaie(liqueur aux agrumes fruitee),bacardi razz,passion qdb,vodka blanche,bacardi carta blanca(rum superior),barbe a papa  Mathieu Teisseire
+Y26;11;Kurt Cobain;limonade (sprite) 25cl et fluo,vodka blanche,ananas qdb,fraise qdb,bacardi razz,fraise Guiot
+Y27;13;Harmonieux;orgeat Guiot,pamplemousse rose,vanille  Mathieu Teisseire,coco qdb,creme de coco (batida),tequila,vodka blanche
+Y28;15;Planteur spacial;tropical multi vitamines,monster Punch mixxed 50cl et bracelet fluo,citron vert cordial,triple sec,ananas qdb,passion qdb,rhum brun hispanique,grenadine Guiot
+Y29;13;Zombie;curaçao bleu,energy drink  25cl et fluo,genievre,tequila,pamplemousse qdb,hibiscus qdb,violettte Guiot
+Y30;13;Sex tape;banane,bacardi carta blanca(rum superior),vanille  Mathieu Teisseire,coco qdb,creme de coco (batida),vodka blanche,caramel beurre sale qdb
+Y31;12;imatoumi;vodka rouge  Eristoff,litchis,triple sec,bacardi carta blanca(rum superior),citron vert cordial,violette Bio
+Y32;12;Blue Minions ;curaçao bleu,ananas,creme de coco (batida),bacardi carta blanca(rum superior),orgeat Guiot
+Y33;12;Pink Minions on s'achève ;cerise,cerise qdb,creme de coco (batida),bacardi carta blanca(rum superior),orgeat Guiot
+Y34;11;Zinzin;limonade (sprite) 25cl et fluo,vodka blanche,menthe blanche qdb,pamplemousse qdb
+Y35;13;Killer boulet;gourmandises chocolatees facon freaky,chantilly,cafe glace 33cl,triple sec(c),bacardi carta blanca(rum superior),rhum brun hispanique,sucre de canne Canadou
+Y36;13;Cruise control;gourmandises chocolatees facon freaky,chantilly,cafe glace 33cl,lait de coco Bio 20cl,cafe(kaklua),tequila,sucre de canne Canadou
+Y37;12;Steve Jobs;soda Schweppes aux agrumes 0sugar 33cl et fluo,pomme verte(manzana qdb),vodka blanche,triple sec,hibiscus  Monin
+Y38;13;Scarlette;assortiment de confiseries,nid de barbe a papa,fraise,barbe a papa(trojka),tequila,vodka lime(citron vert),coco Monin
+Y39;13;Gaz lightning;ananas,bacardi carta blanca(rum superior),amaretto,vanille  Mathieu Teisseire,coco qdb,creme de coco (batida)
+Y40;25;Gueule au secour;tropical multi vitamines,passion qdb,bacardi carta blanca(rum superior),vodka blanche,ananas qdb,triple sec,fruits de la passion Guiot
+Y41;13;Harley queen;curaçao bleu,vodka blanche,limonade (sprite) 25cl et fluo,tequila,mangue qdb,triple sec,barbe a papa(trojka),nid de barbe a papa,assortiment de confiseries
+Y42;25;MilF;cerise,triple sec,pomme verte(manzana qdb),vodka blanche,bacardi carta blanca(rum superior),hibiscus qdb,citron vert cordial,cerise Guiot
+Y43;25;Hades;cerise,hibiscus qdb,tequila,vodka blanche,genievre,bacardi razz,triple sec,hibiscus  Monin
+Y44;15;Queue du diable;coca cola zero 33cl,cafe(kaklua),triple sec,don papa masskara rum,cookie Monin,cafe Monin
+Y45;15;Pacha;assortiment de confiseries,nid de barbe a papa,fraise,methode champenoise et bracelet fluo,monster MIXXD Punch 50cl,citron vert cordial,bacardi carta blanca(rum superior),vodka blanche,fraise Guiot,menthe fraiche facon mojito
+Y46;15;Fatal royal;methode champenoise et bracelet fluo,limonade (sprite) 25cl et fluo,citron vert cordial,bacardi razz,litchis qdb,triple sec,vodka blanche,bacardi carta blanca(rum superior),tequila
+Y47;15;Vagi clean;assortiment de confiseries,nid de barbe a papa,monster Fiesta mango 50cl et bracelet fluo,coco qdb,triple sec,vodka blanche,framboise Guiot,menthe fraiche facon mojito
+Y48;11;Nana-vatar;curaçao bleu,framboise caraibos,fraise qdb,vodka blanche,litchis qdb
+Z1A;8;plateau 5 shooters LA PARESSE;passion qdb,cuberdon,coco qdb,bubble gum pink qdb,banane jaune qdb
+Z1B;10;plateau 5 shooters LA GOURMANDISE;coco qdb,gaufre,noisette,creme Irish,after eight maison
+Z1C;11;plateau 5 shooters L'ENVIE;pinacolada qdb,bacardi razz,rose qdb,gingembre qdb,cuberdon
+Z1D;7;plateau 3 shooters LA COLERE;pamplemousse qdb,menthe blanche qdb,piment qdb
+Z1G;25;plateau 10 shooters L'ORGUEIL;bubble gum pink qdb,melon(koogaie),litchis qdb,tutti frutti,hibiscus qdb,violette qdb,pistache qdb,pinacolada qdb,vanille qdb,barbe a papa(trojka)
+Z1H;35;plateau 10 shooter L'AVARIE;vodka cannabis sativa,whiskey irish jameson,jack Daniel's Honey(miel),piment qdb,rhum miel qdb,rhum 3 rivieres 50°,kraken rum,tequila,jagermiester,absynthe
+Z1K;40;plateau 10 shooters LA LUXURE;jack Daniel's Honey(miel),jack Daniel's Apple(pomme),rhum bresilien (cachaca pitu ),mezcal,absynthe 89°,kraken rum,whisky blend 3ans,gin Birdie kaldi (cafe meo),don papa masskara rum,don papa baroko rum
+Z1L;60;assortiment de 10 cubans cocktails;pina colada 25cl,lynchburg event 25cl,daiquiri event 25cl nature ou fruite,mojito event 25cl nature ou fruite,cuba libre event 25cl,sex on the beach event 25cl
+Z1Q;25;route du rhum arrangée des déglingués by Damoiseau;crème au rhum vieux Damoiseau,rhum arrangé Damoiseau ananas Victoria,rhum arrangé Damoiseau mangue passsion,rhum arrangé Damoiseau coco,rhum Damoiseau
+Z3A;25;Cupidon;tropical multi vitamines,grenadine Guiot,triple sec,passion qdb,bacardi carta blanca(rum superior)
+Z3B;25;Zamoureux;soda Schweppes aux agrumes 0sugar 33cl et fluo,bacardi carta blanca(rum superior),passion qdb,vodka blanche,triple sec(c),rose  Mathieu Teisseire,vanille  Mathieu Teisseire
+Z3C;25;Lion;orange,coco qdb,passion qdb,vodka blanche,gin,tequila,grenadine Guiot
+Z3D;25;Gémeaux;tropical multi vitamines,fraise,gingembre  Mathieu Teisseire,triple sec(c),vodka blanche,bacardi razz,cordial citron vert,rhum bresilien (cachaca pitu ),banane jaune qdb
+Z3E;25;Bélier;ananas,tropical multi vitamines,rose  Mathieu Teisseire,passion qdb,vanille qdb,vodka blanche,bacardi carta blanca(rum superior),coco qdb,triple sec,koogaie(liqueur aux agrumes fruitee)
+Z3J;25;Cancer;framboise caraibos,curaçao bleu,genievre,peche blanche qdb,vodka noire  Eristoff,vodka rouge  Eristoff,vodka blanche,bubble gum  Mathieu Teisseire
+Z3K;25;Bang Bang valentin;ananas,orange,passion qdb,vodka rouge  Eristoff,vodka blanche,gin,tequila,creme de coco (batida)
+Z3L;25;Croisiere s'amuse;orange,mangue qdb,rhum bresilien (cachaca pitu ),ananas qdb,coco qdb,triple sec,amaretto,bacardi carta blanca(rum superior),vodka blanche,gin,tequila
+Z3M;90;Jerricane attitude 5L;sangria maison et fruits frais(33cl),peche blanche Guiot,bacardi carta blanca(rum superior)
+Z3N;100;Thanos ;fraise,monster MIXXD Punch 50cl,monster ultra Paradise 50cl et bracelet fluo,monster Fiesta mango 50cl et bracelet fluo,monster Monarch (peche blanche) 50cl et fluo,banane jaune qdb,ananas qdb,passion qdb,bacardi razz,triple sec,bacardi carta blanca(rum superior),tequila,gin,vodka blanche
+Z4;12.5;MEGA shooter 25cl Valentino ;bouteille scellee mega shooter 25cl,creme de coco (batida),bubble gum pink qdb
+Z4A;12.5;MEGA shooter 25cl Pinocchio;popcorn Routin,vodka blanche,creme Irish,bouteille scellee mega shooter 25cl
+Z4B;12.5;MEGA shooter 25cl Pistachio;bouteille scellee mega shooter 25cl,banane verte,creme de coco (batida),amaretto
+Z4C;12.5;MEGA shooter 25cl Stroumphette;bouteille scellee mega shooter 25cl,vodka blanche,curaçao bleu,creme de coco (batida)
+Z4D;12.5;MEGA shooter 25cl Boudoir;creme de coco (batida),fraise,vodka rouge  Eristoff,vodka blanche
+Z4E;12.5;MEGA shooter 25cl Minions team;vodka blanche,banane jaune qdb,creme de coco (batida),banane jaune  Mathieu Teisseire
+Z4F;12.5;MEGA shooter 25cl Serum PX-41;vodka blanche,violette qdb,cuberdon,creme de coco (batida),violette Bio
+Z5;9;assortiment de 4 shoot du moment ;
+Z7;4;shoot  harakiri flambe dans la bouche ;triple sec(c)
+Z8;5;shoot tequila salberiser(boom-boom);sel pimente,rondelle citron vert,tequila
+Z11;6;Jager bomber;energy drink  25cl et fluo,jagermiester
+Z14;4;Pussy net;absynthe,bubble gum pink qdb,creme de coco (batida)
+Z16;5;Antidote zombie;absynthe 89°,menthe blanche qdb
+Z17;5;Papypapa ;creme Irish,banane jaune qdb,tequila
+Z18;5;Tequitua;absynthe 89°,piment qdb,tequila
+Z24;5;shoot seppuku;triple sec(c),creme Irish,jack Daniel's Honey(miel),caramel beurre sale qdb
+Z26;4;Tinkiete pikette;jack Daniel's Apple(pomme),gaufre,noisette
+Z821;6;Dame Martienne ;
+Z822;6;Dame Bresilienne ;
+************ RAPPORT *********************************
+D58#american psycho => PV=13 - PC=3.431657
+A1W#Glace L: parfums voir ref.A1z => PV=8 - PC=2.9
+N35#Stranger jackpot => PV=15 - PC=4.598571
+K11C#The Ultimate Tom Collins  => PV=15 - PC=4.716429
+N36#Willy Butcher  => PV=15 - PC=4.691428
+K11D#Bom-bom => PV=15 - PC=4.682114
+A1A#assiette Mixte tapas  => PV=15 - PC=6.4
+N37#Walbanie beer => PV=15 - PC=5.205714
+Z18#Tequitua => PV=5 - PC=1.328571
+F1A#Long island ice tea event 25cl => PV=6 - PC=1.621429
+L15#Boulevard de la mort => PV=15 - PC=3.928571
+F46A#Martini espresso tails => PV=6 - PC=3.75
+Q26#Malaga => PV=15 - PC=5.331785
+B86#AVAconda => PV=13 - PC=3.456143
+D63#Heat => PV=13 - PC=3.962857
+Q27#Luxbourg ville => PV=13 - PC=3.639928
+A2B#1 biere pop dans ce choix  => PV=4 - PC=6.328
+L3#James bond => PV=15 - PC=4.078571
+A2C#1 biere speciale dans ce choix  => PV=6 - PC=14.55
+A2D#1 jus de fruit 33cl au choix  => PV=3 - PC=1.3575
+D66#Salton sea => PV=12 - PC=4.742858
+L7#Bagdad => PV=15 - PC=4.007143
+F22A#Small Sex on the beach => PV=6 - PC=1.569285
+A2F#vinotheque => PV=6 - PC=10.999142
+N11#Docteur Xplo => PV=13 - PC=3.278571
+A2O#bouteille champagne brut  => PV=50 - PC=65
+N0A#Biteman et Roburn => PV=12 - PC=3.485714
+D69#The mask => PV=12 - PC=3.323142
+N13#Tintin en Absurdie  => PV=15 - PC=4.435714
+N0B#Fashion victime => PV=12 - PC=3.007143
+B102#Gaelle what else  => PV=12 - PC=3.614286
+H2#Thanato Girl => PV=12 - PC=3.000715
+N17#Tintin en Walbanie => PV=20 - PC=5.085714
+B104#Kizoumba => PV=15 - PC=4.849214
+N39#Poupette => PV=15 - PC=4.061428
+N18#Vache follasse => PV=13 - PC=3.682142
+C6#Maboule palace => PV=11 - PC=2.773572
+E10#MDMA => PV=13 - PC=3.365356
+R10#69 Attitude => PV=12 - PC=3.142857
+K11F#CloudY lemonade => PV=15 - PC=3.994286
+B106#Devil colada => PV=12 - PC=3.301785
+R11#Mode off attitude  => PV=12 - PC=3.207142
+K11G#Bramble Spritz => PV=15 - PC=4.441429
+B107#Plaisir d'hiver  => PV=13 - PC=3.971429
+R12#Sex attitude => PV=13 - PC=3.708213
+K11H#Zézeste-commerciale => PV=15 - PC=5.048572
+R13#Suicide attitude => PV=11 - PC=2.847857
+K11B#Branle-bas de combat => PV=15 - PC=4.95
+B109#Catalogne => PV=13 - PC=4.128572
+M13#Le serpent  => PV=25 - PC=7.139285
+R16#Clubber attitude => PV=15 - PC=4.485357
+O17#Ricain coffee => PV=15 - PC=4.802857
+E17#Space cake => PV=13 - PC=3.722857
+R14#Karma sutra attitude => PV=13 - PC=4.542856
+R20#Porn attitude  => PV=13 - PC=3.951785
+R2#Klass a Dallas attitude  => PV=15 - PC=4.7876
+Y46#Fatal royal => PV=15 - PC=4.584286
+E20#Epifedrine => PV=11 - PC=2.864285
+E21#Mephedron => PV=13 - PC=3.491429
+R4#Lolesk attitude => PV=12 - PC=3.211786
+D83#Ghostbuster => PV=13 - PC=3.278571
+G22#Chubaka => PV=15 - PC=3.907143
+X32#Smart mojito royal => PV=15 - PC=3.778572
+I25#Barbe rousse => PV=13 - PC=3.885715
+D80#Braquage a l italienne  => PV=13 - PC=3.757142
+R7#Kaotik attitude => PV=15 - PC=4.417142
+Y7#Potonamie  => PV=13 - PC=3.7675
+D82#Deadpool => PV=13 - PC=4.134643
+Y6Y#Verseau => PV=25 - PC=40.47143
+E28#Ayahuasca peruvienne => PV=15 - PC=4.487143
+S1#Darth Tyranus => PV=13 - PC=3.288571
+E29#Ketamine et NGE (Near Death Experience) => PV=25 - PC=8.841429
+S10#Maz kanata => PV=15 - PC=4.863928
+C1Y#Taureau => PV=25 - PC=7.821428
+E30#Datura => PV=15 - PC=4.407141
+E31#Souffle du diable (scopolamine) => PV=12 - PC=3.950001
+S12#Clone war => PV=15 - PC=4.325143
+E33#E42 comme l autoroute  => PV=15 - PC=4.28857
+A45#Paparazzi => PV=10 - PC=2.645429
+E8#Dechire tout => PV=12 - PC=3.13
+S14#Padawan => PV=15 - PC=4.693927
+E9#Speed => PV=12 - PC=3.2825
+D15Y#Balance  => PV=25 - PC=7.571428
+I35#Black Mamba  => PV=11 - PC=2.907142
+F1#Long island ice tea => PV=11 - PC=2.892857
+S3#Windu => PV=13 - PC=3.465713
+H24Y#Scorpion => PV=25 - PC=6.278572
+A2A#1 soft au choix (1 sirop inclus) => PV=3 - PC=10.435606
+T44#On s'acheve => PV=13 - PC=3.45
+A2E#1 smart drink au choix (!pas en dessous de 16ans!) => PV=5 - PC=18.744
+A49#Fizzy india => PV=10 - PC=3.078571
+F11#Bloody ragnana => PV=12 - PC=3.157143
+S5#Boba fett => PV=13 - PC=3.524285
+F45#Jack Honey et limonade  => PV=10 - PC=2.985714
+B100#Chupacabra => PV=15 - PC=4.523142
+F46#Jack Apple et Tonic => PV=10 - PC=2.871429
+V14#Princesse colada forever => PV=13 - PC=3.323571
+N41#La bagarre  => PV=15 - PC=4.435714
+Y11#Celimax => PV=15 - PC=4.900643
+Q19#Haxan city => PV=13 - PC=4.742857
+A53#Merci patron => PV=10 - PC=2.514286
+F16#Woodford fire => PV=15 - PC=3.907143
+Z4D#MEGA shooter 25cl Boudoir => PV=12.5 - PC=3.229644
+Y47#Vagi clean => PV=15 - PC=4.014285
+T48#Humpa Lumpa => PV=11 - PC=3.252857
+A54#hunter D => PV=10 - PC=2.714286
+M2#Friends => PV=15 - PC=4.585714
+V54#Ovni => PV=15 - PC=4.369287
+V55#Baizuo (begueule en chinois) => PV=15 - PC=3.810001
+F2#Gin fizz => PV=12 - PC=3.881428
+V56#Acidule decoiffe => PV=15 - PC=4.457143
+V57#Bouh! => PV=15 - PC=4.45
+Q16#Geneve => PV=12 - PC=4.141429
+V58#Saint Nicolas et tralala => PV=13 - PC=3.67
+Q3#Reims => PV=15 - PC=4.821428
+V59#Bubulle => PV=15 - PC=4.305142
+U18#Snoop dog => PV=15 - PC=4.237499
+F23#Red mojito => PV=13 - PC=3.667857
+F9C#Daiquiri fruité => PV=11 - PC=2.771428
+V60#Revoz => PV=15 - PC=4.709285
+N14#Dark soul => PV=15 - PC=4.885714
+F24#Mojito royal => PV=13 - PC=3.57
+Y44#Queue du diable => PV=15 - PC=4.764286
+N15#Bondage   => PV=15 - PC=4.2
+F25#Mojito especial => PV=13 - PC=4.437142
+F4E#Mojito classique fruite( 1 fruit) => PV=12 - PC=3.81
+Y45#Pacha => PV=15 - PC=4.151071
+A111#Street fighter(!!pas en dessous de 16ans!!) => PV=10 - PC=2.5
+T20#Van Gogh mojito => PV=13 - PC=3.717143
+U22#Anis-cotine => PV=15 - PC=4.624286
+U24#3 de Qi => PV=15 - PC=5.198572
+A66#Playstation => PV=10 - PC=2.5952
+T22#Trinosphie => PV=11 - PC=3.021428
+N26#Sex on the beer => PV=13 - PC=3.514285
+U25#Gangsta => PV=15 - PC=3.968572
+F3#Caipirinha => PV=11 - PC=3.177143
+T23#Paintball => PV=12 - PC=3.245
+A1S#chips Sans Gluten dans ce choix => PV=5 - PC=7.5
+N27#Mafalda => PV=14 - PC=3.86
+N43#Splattering  => PV=15 - PC=4.395357
+N44#it From Bit  => PV=13 - PC=3.451428
+F31#Charlotte aux fraises => PV=11 - PC=2.943928
+A1V#Glace M: parfums voir ref.A1z => PV=6 - PC=2.4
+T26#Druide => PV=13 - PC=3.314286
+Z4A#MEGA shooter 25cl Pinocchio => PV=12.5 - PC=4.314285
+P36#Fleur de toi => PV=15 - PC=4.443928
+O32#Arrached coffee => PV=15 - PC=4.285714
+J13#La Bifle => PV=15 - PC=4.508571
+T28#Gland cerebral => PV=15 - PC=4.627142
+N25#Hyper borean => PV=13 - PC=3.617143
+H31#Vamp Orchidoclaste => PV=12 - PC=3.178571
+A2H#cocktails event 25cl => PV=6 - PC=2.0252
+P29#Dokidoki ( chamade en japonais) => PV=11 - PC=3.414285
+N0C#Ducobu => PV=12 - PC=3.585714
+O26#Shazz coffee => PV=15 - PC=4.435715
+P31#Parlez moi d'Amour  => PV=15 - PC=3.949999
+N0D#Spirou => PV=12 - PC=3.845714
+T30#Mother fucker => PV=25 - PC=6.835714
+P33#WTF => PV=25 - PC=6.956072
+N0E#Gaston Lagaffe => PV=12 - PC=3.585714
+P24Z#ConnarO virus  => PV=15 - PC=4.222856
+P9#Tape dans le fond je ne suis pas ta mère => PV=13 - PC=3.364286
+V47#Magie debloque => PV=11 - PC=2.914286
+F4A#Mojito S(event) nature ou fruite(1fruit) => PV=6 - PC=2.187143
+Z11#Jager bomber => PV=6 - PC=1.528571
+H32#Bernard Minet'Te => PV=25 - PC=6.763771
+F40#Salome di bahia => PV=12 - PC=3.317143
+P4#Je ne crois plus aux fees => PV=15 - PC=4.542858
+J11#Error 404 => PV=12 - PC=3.155857
+N45#Tournai l abeille => PV=15 - PC=4.857143
+A0#Big mouth => PV=13 - PC=3.685714
+P15#Petit sarcastix => PV=15 - PC=3.992856
+N46#Dieu du vent => PV=15 - PC=4.757143
+T8#Florby => PV=12 - PC=3.159285
+F5#Cuba libre => PV=11 - PC=2.778571
+T9#L'antre de Davy Jones  => PV=15 - PC=4.335714
+U1#Barjot => PV=13 - PC=3.646857
+P19#Missionaire et la fessee => PV=13 - PC=3.421427
+H33#Phallus => PV=13 - PC=3.814284
+F67#Caligula => PV=15 - PC=4.971429
+I36#Jamaican mojito => PV=12 - PC=3.331429
+F68#French mojito  => PV=13 - PC=3.61
+I37#Dark pina  => PV=15 - PC=4.292071
+K11M#Bonanza => PV=15 - PC=5.471429
+P22#Hotvordoom => PV=13 - PC=3.521428
+I38#Tortuga => PV=15 - PC=4.508572
+P23#inarinla => PV=15 - PC=3.808857
+N48#Lynchburg beerade => PV=13 - PC=4.121429
+V1#Gland cosmique => PV=15 - PC=5.035714
+I26#Raoul => PV=15 - PC=5.007143
+P24#Connasse va => PV=15 - PC=4.329643
+N49#isis beer  => PV=14 - PC=3.844286
+B15#Dragonzaure => PV=11 - PC=2.957856
+P25#Repeat after to me => PV=13 - PC=3.521428
+V11#Let s Go Brandon => PV=15 - PC=5.314286
+I29#Bing bong => PV=13 - PC=3.451071
+V13#Lotus croufy => PV=11 - PC=18.314285
+I31#Papacito => PV=11 - PC=2.850457
+P28#Kinda1kibronche tin => PV=15 - PC=4.134285
+B19#Scrattlantide => PV=13 - PC=4.12857
+I28#imperial mojito => PV=15 - PC=4.145714
+P30#D.T.C. => PV=15 - PC=5.049999
+Z4B#MEGA shooter 25cl Pistachio => PV=12.5 - PC=3.271428
+P32#Dites moi des choses tendres  => PV=13 - PC=3.271428
+D61#Glass onion => PV=15 - PC=3.828571
+B20#Hiroshima => PV=13 - PC=3.402856
+Z4C#MEGA shooter 25cl Stroumphette => PV=12.5 - PC=3.857144
+V41#Valkyrie => PV=15 - PC=4.802143
+A80#White rabbit (!!pas en dessous de 16ans!!) => PV=10 - PC=2.505714
+B21#Bison bourré => PV=12 - PC=3.3025
+V17#Kaa => PV=11 - PC=2.775713
+V42#Velvet Valentine => PV=15 - PC=4.878571
+B22#Morning red => PV=12 - PC=3.220356
+Z4#MEGA shooter 25cl Valentino  => PV=12.5 - PC=4.464286
+V43#Jean lupin => PV=13 - PC=4.378571
+B60#Chibre => PV=12 - PC=3.257143
+V44#Gaelle d enfer  => PV=15 - PC=4.859714
+B99#Taloche => PV=13 - PC=4.175356
+V2#Ma femme s'appelle Maurice => PV=13 - PC=3.266428
+V45#Bananas fight club => PV=15 - PC=4.740001
+B25#Taxi brousse => PV=13 - PC=4.107142
+F4L#Mojito XXL  natures ou fruites => PV=50 - PC=20.43
+V46#Wake up show NRJ => PV=13 - PC=3.657143
+G27#Les dents de l'Amour => PV=15 - PC=4.308214
+V21#Pinpin => PV=12 - PC=3.152285
+M17#Silo => PV=15 - PC=4.062857
+G1#Saint Germain => PV=13 - PC=3.415714
+V52#Ld photo8 => PV=13 - PC=3.654286
+V24#Ladies night => PV=15 - PC=5.192857
+V53#Ripoublik bananiere => PV=12 - PC=3.4375
+M19#Alice in Borderland  => PV=15 - PC=4.773214
+B30#ZZ top => PV=25 - PC=6.820001
+G12#Zappe le nom => PV=11 - PC=3.3226
+X45#Carnavo => PV=12 - PC=3.163214
+V27#Burn out => PV=13 - PC=3.61
+V61#Rhodium => PV=15 - PC=3.935714
+P48#MaGnium => PV=15 - PC=4.668571
+V28#Magritto => PV=12 - PC=3.117857
+F4J#Mojito L natures ou fruites => PV=30 - PC=15.44
+M24#Gang of London => PV=15 - PC=4.557142
+B33#Rondoudou => PV=11 - PC=2.811786
+Z3M#Jerricane attitude 5L => PV=90 - PC=29.6
+F4M#Mojito Fat nature ou fruite => PV=15 - PC=5.91
+B34#Zonzon => PV=12 - PC=3.205714
+V3#Je crois que j ai vue un gros zizi => PV=12 - PC=3.323571
+V62#Le pere fouettard Ramone => PV=15 - PC=4.005713
+A0G#Les fous du volant => PV=13 - PC=3.742857
+V30#Perle du Nord => PV=15 - PC=4.613571
+O24#Bachibouzouk coffee => PV=15 - PC=6.151429
+L37#Culotte de cheval => PV=15 - PC=5.457142
+B36#Rango => PV=13 - PC=3.414285
+G18#Tentation => PV=13 - PC=3.402072
+L16#Vahine  => PV=15 - PC=4.485715
+V63#Ouragan Matthew => PV=15 - PC=4.407143
+G28#German spritz => PV=13 - PC=4.67
+B37#BB d'ange => PV=13 - PC=3.264257
+G19#Whishette => PV=12 - PC=3.684285
+V6#Tit battard => PV=13 - PC=3.69
+P38#Jabs => PV=25 - PC=6.549287
+J15#Boulaga => PV=13 - PC=3.507143
+V7#Minautore => PV=13 - PC=4.015356
+G21#Vampire => PV=13 - PC=3.3125
+V8#Zoulou => PV=13 - PC=3.558571
+E32#Lean siZZuRp => PV=11 - PC=3.969028
+G23#Salade de cul tournee => PV=13 - PC=3.657142
+P11#Coup du cerf => PV=12 - PC=3.08
+P40#Boogaloo => PV=15 - PC=4.762142
+L39#Coco charnelle => PV=20 - PC=7.55
+Z3B#Zamoureux => PV=25 - PC=6.405715
+O25#Princesse coffee => PV=15 - PC=5.585713
+O27#Waffel coffee => PV=15 - PC=4.377143
+Z3D#Gémeaux => PV=25 - PC=6.660356
+O28#Geek coffee => PV=15 - PC=5.677142
+L40#Outsider => PV=15 - PC=5.6
+G4#un furet sous amphetamine => PV=13 - PC=3.614285
+O29#Brazilian coffee => PV=15 - PC=6.517143
+O30#Cuban coffee => PV=15 - PC=5.287857
+P41#Mutant vison y453f => PV=13 - PC=4.257143
+N30#Fucking mutant N439K => PV=13 - PC=3.445714
+V64#Harpocrates => PV=12 - PC=3.931429
+P42#Zotra => PV=13 - PC=4.171429
+L11#Pellerin => PV=15 - PC=3.928572
+X11#Lunch express mouscron => PV=12 - PC=3.033571
+L2#Capone => PV=15 - PC=4.371428
+X14#Jules bar Kortrijk => PV=11 - PC=2.785714
+B112#Tyr => PV=15 - PC=4.57857
+H15#Coco Rasputin => PV=13 - PC=3.957143
+F4#Mojito classique qdb nature => PV=11 - PC=3.53
+B113#Octopus => PV=15 - PC=4.542857
+C46#L abbe tadine => PV=12 - PC=3.644286
+N21#Beach beerito => PV=13 - PC=3.641429
+I33#Bad gang mojito => PV=13 - PC=4.271429
+P44#Sephiroth => PV=12 - PC=3.267172
+L19#Big Lebowsky => PV=15 - PC=4.042857
+D73#Suicide squad => PV=15 - PC=4.075714
+L4#Sugar baby => PV=15 - PC=4.042856
+L14#Fernez et Fernez Baudour => PV=15 - PC=3.921428
+F45A#Small Lynchburg => PV=10 - PC=2.792857
+O31#African coffee => PV=15 - PC=4.161428
+N22#Singe vert => PV=15 - PC=3.931785
+F72#Dark storm => PV=13 - PC=4.014286
+V31#Zizi coptère => PV=12 - PC=3.484285
+B65#Etoile noire => PV=25 - PC=6.785714
+P45#Leprechaun => PV=12 - PC=3.474286
+B66#Buy me => PV=13 - PC=3.906785
+X25#Lacet bleu Tournai => PV=15 - PC=3.817142
+M5#Stranger things => PV=12 - PC=3.289286
+B67#Noemaniak => PV=13 - PC=3.478
+M8#Big Bang theorie => PV=13 - PC=3.36617
+X28#Coco Bongo => PV=12 - PC=3.157143
+B90#Mogwai => PV=13 - PC=3.414999
+P34#Vaxxin => PV=12 - PC=3.299999
+B70#B0PE DO BRAZIL => PV=13 - PC=3.421429
+B89#Un petit gout de paradis => PV=13 - PC=3.885713
+P46#Gestapo => PV=12 - PC=3.75
+D74#Joker => PV=11 - PC=3.259999
+L35#Pognontologue => PV=15 - PC=4.685715
+M25#invasion => PV=13 - PC=3.412142
+X31#Enoteca Gaurain rx => PV=15 - PC=4.814285
+M26#Gen V => PV=15 - PC=4.441429
+P13#Cassoss-ophile => PV=13 - PC=3.257141
+Z4F#MEGA shooter 25cl Serum PX-41 => PV=12.5 - PC=3.940458
+D75#Mr Wolf => PV=12 - PC=3.05857
+H28#Shard => PV=11 - PC=2.935714
+O1G#irish au litre => PV=25 - PC=13.685714
+Y41#Harley queen => PV=13 - PC=4.014285
+S17#Grogu => PV=13 - PC=3.998572
+M29#Breaking bad => PV=12 - PC=3.964285
+B76#Pas pour l'instant => PV=11 - PC=2.807142
+X35#chez lulu => PV=13 - PC=4.164285
+M28#Game of thrones => PV=12 - PC=4.428571
+O1M#Jameson irsih coffee old school => PV=15 - PC=5.448571
+F65M#Creve coeur => PV=15 - PC=4.21
+B79#Mon precieux => PV=13 - PC=3.685714
+B91#Peche melbadasse => PV=12 - PC=3.161571
+B93#Rebel du slip => PV=12 - PC=3.171427
+F47#jack et Ginger => PV=10 - PC=3.285714
+I17#Black pearl => PV=13 - PC=3.257143
+I34Y#Poisson  => PV=25 - PC=8.033929
+Y10#Maïte boobs => PV=13 - PC=3.574743
+F2O#Strawberry gin FiZZ => PV=13 - PC=3.986357
+D76#Dirty dancing => PV=13 - PC=3.339286
+B116#Forain => PV=13 - PC=3.741429
+C12#babyboom chaud ou froid  => PV=15 - PC=4.300001
+I20#Daytona => PV=13 - PC=3.67
+V33#Herogasm => PV=15 - PC=4.315714
+D87#Dune => PV=13 - PC=3.817144
+I21#MaÏ-taÏ revisite => PV=11 - PC=2.807143
+Y43#Hades => PV=25 - PC=6.565
+D88#Les dents de la Mer => PV=13 - PC=3.433572
+I22#Ken van poupon => PV=15 - PC=5.521429
+B95#Saint barman => PV=15 - PC=4.673571
+C16#Phoque roux => PV=13 - PC=3.594285
+B96#Arizona dream => PV=13 - PC=3.507142
+B119#C'est pas le castor le plus utile du barrage => PV=13 - PC=3.347857
+V34#You fuck my wife => PV=15 - PC=5.262142
+I4#Rhum Addict => PV=11 - PC=2.797856
+T27#Ours Samplus => PV=13 - PC=3.330357
+C19#Sam vador => PV=13 - PC=3.870457
+B98#Alli Lili => PV=13 - PC=3.398214
+H37#Gamelle pysskopath 3 en 1 => PV=30 - PC=9.434286
+C21#Dokivass => PV=12 - PC=3.144285
+Y21#Mega up load => PV=13 - PC=3.405714
+H38#Gamelle à mimil 3 en 1 => PV=30 - PC=9.304286
+I9#Requin corrompu => PV=11 - PC=2.977499
+Y22#Chatouille moi le nenuphar => PV=15 - PC=4.031171
+H39#Gamelle PooPoo 3 en 1 => PV=30 - PC=9.140685
+C23#Dafalgan => PV=11 - PC=3.042857
+Y23#Astro turf => PV=13 - PC=3.271429
+D77#Transformers => PV=15 - PC=4.308571
+J16#Tiger Milk => PV=12 - PC=3.291428
+J10#Oh lala => PV=11 - PC=2.752143
+V35#Juste un doigt => PV=13 - PC=3.657141
+C25#Actifed => PV=13 - PC=3.673143
+Y25#Divorce => PV=15 - PC=4.128572
+V36#Micro penis => PV=13 - PC=4.025715
+A1U#parfums pour nos glaces => PV=0 - PC=4.65
+A2Z#bouteille de vin  => PV=20 - PC=8.228572
+C27#Atomic boy => PV=12 - PC=3.085357
+V38#Jusqu ici tout va bien => PV=13 - PC=3.788571
+C28#Panama => PV=11 - PC=2.994999
+J5#Chop socky choops => PV=13 - PC=4.047143
+L12#Boule et Bill => PV=15 - PC=4.245714
+V39#Voodoo people => PV=13 - PC=3.453571
+A2P#shooter fruite unite dans ce choix 2cl => PV=3 - PC=12.059283
+V40#Dragon des iles => PV=15 - PC=3.842856
+H42#Mât de laine => PV=15 - PC=4.928571
+J9#Goldie Roger => PV=12 - PC=3.25
+J17#Death Chic => PV=15 - PC=4.796429
+K1#Pink lady => PV=12 - PC=3.185714
+L18#Dessert => PV=15 - PC=4.978572
+L1#Nova => PV=15 - PC=4.387856
+I40#Kraken Colada => PV=13 - PC=3.903572
+L13#Wafel FACTORY => PV=15 - PC=4.202142
+L20#Shazam => PV=15 - PC=4.164285
+Z1Q#route du rhum arrangée des déglingués by Damoiseau => PV=25 - PC=6.42857
+C35#Aureliz => PV=11 - PC=2.794642
+K3#London time => PV=11 - PC=2.892857
+Y35#Killer boulet => PV=13 - PC=3.94
+L23#Hulk et Hulkette => PV=15 - PC=4.152143
+C36#Dopamine => PV=11 - PC=2.776171
+Y36#Cruise control => PV=13 - PC=5.058571
+C37#Morphine => PV=11 - PC=3.242858
+Y37#Steve Jobs => PV=12 - PC=3.117143
+L25#Ocean encounters => PV=15 - PC=5.485714
+Y38#Scarlette => PV=13 - PC=3.498214
+L26#Lady GaGa => PV=15 - PC=3.759214
+C39#Magnésium => PV=13 - PC=3.957142
+K7#Vipere => PV=11 - PC=3.278856
+L27#Katy Perry => PV=15 - PC=4.060714
+C4#Comas ethylique => PV=12 - PC=3.352856
+Y5#Mikflik => PV=15 - PC=4.562857
+L28#Tonton Maxou => PV=15 - PC=3.864285
+H20C#Moscow mule => PV=11 - PC=2.85
+L29#Papa midnight => PV=15 - PC=4.092857
+P47#Monster Bellini => PV=15 - PC=4.114286
+C41#Dipidolor => PV=13 - PC=3.634713
+L17#Depeche mode => PV=15 - PC=3.907143
+M20#Mandalorian => PV=15 - PC=4.664285
+L31#Smiley => PV=15 - PC=4.177142
+X43#icona => PV=13 - PC=3.799999
+Y9#Prodigy => PV=12 - PC=3.021429
+L32#PRISM => PV=15 - PC=4.021428
+A2R#verre 1 alcool dans ce choix 5cl => PV=9 - PC=5.666145
+D1#Eternal Sunshine => PV=13 - PC=3.683313
+X44#chez louise => PV=11 - PC=3.065714
+Z4E#MEGA shooter 25cl Minions team => PV=12.5 - PC=4.364286
+V23C#Tonton ma-nathans => PV=11 - PC=3.037143
+D10#Limith Less => PV=12 - PC=3.248572
+A0C#Futurama => PV=13 - PC=3.607143
+X41#Lotus bleu => PV=13 - PC=3.596599
+A0D#Rick et morty => PV=13 - PC=3.298
+F2M#Baroko fizz => PV=15 - PC=5.992857
+B81#Transcendance => PV=15 - PC=4.699
+A0F#FamilyGuy => PV=13 - PC=3.485714
+B82#Brutus => PV=15 - PC=4.128571
+D16#Dobberman => PV=13 - PC=3.785714
+B84#Graine de plasir => PV=13 - PC=4.1576
+T35#ZinG => PV=15 - PC=5.096429
+T36#Mr Grey => PV=15 - PC=4.706785
+N9#Mojito beer => PV=12 - PC=4.671428
+N2#Dunkerque  => PV=15 - PC=4.2
+N7#Sky-rock => PV=13 - PC=3.570714
+F66#Martinique mojito => PV=13 - PC=3.652857
+O1#irish demi litre => PV=15 - PC=7.614286
+D26#Crazy bear => PV=15 - PC=4.221428
+O10#Chocobailey's => PV=15 - PC=4.042857
+O11#Atomic nounours => PV=15 - PC=4.257143
+O12#Sugar Moon => PV=15 - PC=5.228572
+L38#Goopher => PV=15 - PC=5.285714
+F73#Porn-pornstar (3-4 pers.) => PV=100 - PC=37.157143
+O14#Fracasseur => PV=15 - PC=4.217143
+D30#American Beauty => PV=13 - PC=3.528571
+O15#Pirates Coffee => PV=15 - PC=4.657142
+O16#Canipull => PV=15 - PC=6.185714
+F4G#Mojito M nature ou fruite  => PV=25 - PC=8.64
+P35#Bohemian club => PV=15 - PC=4.85
+O18#Caramel coffee => PV=15 - PC=4.33
+G25#Clitoris polyglotte => PV=15 - PC=4.954742
+P49#Gouter avec la nenette d une autre sur un baton => PV=13 - PC=4.024285
+O19#Duke togo => PV=15 - PC=5
+G24#ile de Pag => PV=13 - PC=3.437141
+B115#Calasme => PV=15 - PC=4.880642
+O2#italian coffee => PV=15 - PC=4.162857
+T34#iphone plus mouffles => PV=13 - PC=3.492857
+D36#iron man => PV=13 - PC=3.751071
+O20#Vieille morrue => PV=15 - PC=4.302286
+T39#Chaude patate => PV=15 - PC=4.435714
+O22#Honey coffee => PV=15 - PC=6.105714
+A104#Marshmello => PV=10 - PC=3.898214
+O23#Golgo 13 => PV=15 - PC=5.014286
+O4#Mexican coffee => PV=15 - PC=5.488571
+D41#inglorious bastard => PV=13 - PC=3.534286
+O5#Amsterdam coffee => PV=15 - PC=4.717143
+A1Y#magnum, ferrero rocher ou raffaello glace au choix => PV=3 - PC=2
+U8#Malaise Vaggal => PV=11 - PC=3.142856
+D42#Ocean eleven => PV=15 - PC=4.708572
+O6#Jamaican coffee => PV=15 - PC=4.974285
+A1B#assiette Belgo => PV=15 - PC=8
+U9#SkoumOon => PV=15 - PC=5.078571
+D43#Jumanji => PV=13 - PC=3.512142
+O7#Tournai coffee => PV=15 - PC=5.245714
+D44#Brain dead => PV=13 - PC=3.3
+O8#Belgium coffee => PV=15 - PC=5.239286
+A1C#assiette Cannibale 1 sauce au choix  => PV=15 - PC=6.5
+N32#Demon => PV=15 - PC=5.021428
+O9#Quai des bananes coffee => PV=25 - PC=7.262856
+R22#5 contre 1 attitude  => PV=15 - PC=4.224743
+M23#Loki => PV=15 - PC=5.114286
+A1G#Pringles(70gt.) goût au choix  => PV=4 - PC=1
+R23#Pandalette attitude  => PV=15 - PC=4.305715
+D48#Very bad trip => PV=25 - PC=7.235716
+F4H#Mojito XL nature ou fruite => PV=35 - PC=15.31
+N33#Sto ca*zo (Dante WTF) => PV=14 - PC=3.764286
+Q12#Marly gomont => PV=11 - PC=2.863572
+A1I#chips Apero Lays  => PV=4 - PC=1.6
+N34#Acapulco triple => PV=15 - PC=4.55
+D5#Nikita => PV=11 - PC=2.769743
+A1K#planche de charcuteries et fromage mediterraneen => PV=18 - PC=8.3
+Q15#Tchernobyl => PV=13 - PC=3.821428
+P2#Stalacbite => PV=11 - PC=2.771428
+U13#Noel de battard => PV=15 - PC=3.848572
+L9#Bastogne => PV=15 - PC=4.25
+P3#The cailloux bye Joey => PV=15 - PC=4.033314
+U14#Tortue geniale => PV=13 - PC=3.648571
+D53#Leon => PV=15 - PC=4.294285
+A1N#hot-dog  => PV=4 - PC=1.9
+D54#Bernie => PV=13 - PC=3.747857
+Q18#St tropez => PV=11 - PC=2.85
+U16#Komodo => PV=11 - PC=2.914285
+L10#Bruxelles => PV=15 - PC=4.485714
+A78#Vanish(!!pas en dessous de 16ans!!) => PV=10 - PC=2.571429
+D56#Dark city => PV=15 - PC=4
+K11#Gantoise => PV=15 - PC=4.628571
+Q20#Amsterdam => PV=11 - PC=2.923928
+
+************ RAPPORT *********************************
